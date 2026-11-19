@@ -1,0 +1,24 @@
+{
+  "project": "de-dat-de-nuoc",
+  "default_language": "vi",
+  "target_age": "9-10",
+  "style_reference": "Sử thi Mường — lời mo",
+  "total_books": 6,
+  "total_chapters": 28,
+  "total_illustrations": 28,
+  "shared_assets": {
+    "images_dir": "assets/images"
+  },
+  "languages": [
+    {
+      "code": "vi",
+      "bcp47": "vi-VN",
+      "name": "Vietnamese",
+      "native_name": "Tiếng Việt",
+      "title": "Đẻ Đất Đẻ Nước — Bộ Sử Thi Luyện Kể Chuyện 5 Cấp Độ",
+      "readme": "locales/vi/README.md",
+      "index_file": "locales/vi/story-index.json",
+      "base_dir": "locales/vi"
+    }
+  ]
+}

@@ -1,0 +1,1200 @@
+{
+  "title": "Đẻ Đất Đẻ Nước — Bộ Sử Thi Luyện Kể Chuyện 5 Cấp Độ",
+  "language": "vi",
+  "target_age": "9–10 tuổi",
+  "style_reference": "Sử thi Mường — lời mo",
+  "source_text": "Đẻ đất đẻ nước.md",
+  "total_books": 6,
+  "total_chapters": 28,
+  "total_illustrations": 28,
+  "levels": [
+    {
+      "level": 0,
+      "name": "Bối cảnh & Linh hồn sử thi",
+      "dir": "level-0-context",
+      "overview_file": "level-0-context/00-epic-soul-overview.md",
+      "ancient_books_dir": "level-0-context/ancient-texts",
+      "ancient_books": [
+        {
+          "id": "loi-gioi-thieu-1988",
+          "title": "Lời giới thiệu 1988: Mo vải và Mo lêu",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/loi-gioi-thieu-1988.md"
+        },
+        {
+          "id": "nghi-thuc-dien-xuong",
+          "title": "Nghi thức diễn xướng tang lễ Mường",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/nghi-thuc-dien-xuong.md"
+        },
+        {
+          "id": "khao-di-de-ruou-can",
+          "title": "Khảo dị: Tích Đẻ rượu cần",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/khao-di-de-ruou-can.md"
+        },
+        {
+          "id": "khao-di-con-ba-ran",
+          "title": "Khảo dị: Con bà Rằn và Mụ Dạ Dần",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/khao-di-con-ba-ran.md"
+        },
+        {
+          "id": "bang-chu-giai-tu-muong",
+          "title": "Bảng chú giải từ Mường",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/bang-chu-giai-tu-muong.md"
+        },
+        {
+          "id": "nhan-vat-va-than-linh",
+          "title": "Nhân vật, thần linh và sự vật tiêu biểu",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/nhan-vat-va-than-linh.md"
+        },
+        {
+          "id": "dia-danh-xu-muong",
+          "title": "Địa danh xứ Mường",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/dia-danh-xu-muong.md"
+        },
+        {
+          "id": "ghi-chu-bien-soan",
+          "title": "Ghi chú biên soạn và ba nguồn hợp nhất",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/ghi-chu-bien-soan.md"
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "name": "Toàn văn câu chuyện",
+      "dir": "level-1-full-text",
+      "files": [
+        "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+        "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level-1-full-text/hoi-6-khai-hoan-dong-chi.md"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Dàn ý chi tiết",
+      "dir": "level-2-detailed-outline",
+      "files": [
+        "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md",
+        "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level-2-detailed-outline/hoi-6-khai-hoan-dong-chi.md"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "Dàn ý tóm tắt",
+      "dir": "level-3-summary-outline",
+      "file": "level-3-summary-outline/chapter-summaries.md"
+    },
+    {
+      "level": 4,
+      "name": "Tranh gợi nhớ thuần hình ảnh",
+      "dir": "level-4-visual-prompts",
+      "gallery_file": "level-4-visual-prompts/illustration-gallery.md",
+      "prompt_spec_file": "level-4-visual-prompts/prompts-28-scenes.md"
+    }
+  ],
+  "books": [
+    {
+      "id": "quyen-1",
+      "number": 1,
+      "slug": "hoi-1-khai-thien-lap-dia",
+      "title": "Hồi I: Khai Thiên Lập Địa Và Khởi Nguồn Giống Nòi",
+      "subtitle": "Từ hư không đến muôn loài, muôn mường và giống người",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 7,
+      "level_0_file": "level-0-context/hoi-1-khai-thien-lap-dia.md",
+      "level_1_file": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+      "level_2_file": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md"
+    },
+    {
+      "id": "quyen-2",
+      "number": 2,
+      "slug": "hoi-2-lap-lang-dung-muong",
+      "title": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "subtitle": "Chọn người giữ mường, dựng nhà, tìm lửa, tìm lúa, tìm trâu",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 9,
+      "level_0_file": "level-0-context/hoi-2-lap-lang-dung-muong.md",
+      "level_1_file": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+      "level_2_file": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md"
+    },
+    {
+      "id": "quyen-3",
+      "number": 3,
+      "slug": "hoi-3-lap-gia-duc-trong-dong",
+      "title": "Hồi III: Lập Gia, Đúc Trống Đồng Và Chia Đất",
+      "subtitle": "Dựng vợ gả chồng, sinh trống đồng, chia đất cho các mường",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 3,
+      "level_0_file": "level-0-context/hoi-3-lap-gia-duc-trong-dong.md",
+      "level_1_file": "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+      "level_2_file": "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md"
+    },
+    {
+      "id": "quyen-4",
+      "number": 4,
+      "slug": "hoi-4-chu-ky-cay-chu",
+      "title": "Hồi IV: Chu Kỳ Cây Chu — Tìm, Chặt, Dựng Và Đốt",
+      "subtitle": "Cuộc kéo cây chu thần và ngôi nhà chu giữa đại ngàn",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 4,
+      "level_0_file": "level-0-context/hoi-4-chu-ky-cay-chu.md",
+      "level_1_file": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+      "level_2_file": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md"
+    },
+    {
+      "id": "quyen-5",
+      "number": 5,
+      "slug": "hoi-5-tru-thu-du-diep-giac-ma",
+      "title": "Hồi V: Trừ Thú Dữ Và Dẹp Loạn Giặc Ma",
+      "subtitle": "Săn Moong Lồ, dẹp cá điên, quạ điên và ba đạo giặc ma",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 4,
+      "level_0_file": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md",
+      "level_1_file": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+      "level_2_file": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md"
+    },
+    {
+      "id": "quyen-6",
+      "number": 6,
+      "slug": "hoi-6-khai-hoan-dong-chi",
+      "title": "Hồi VI: Khải Hoàn Về Đồng Chì Tam Quan Kẻ Chợ",
+      "subtitle": "Lo áo xống, kiệu ngai và rước vua về đất mường",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 1,
+      "level_0_file": "level-0-context/hoi-6-khai-hoan-dong-chi.md",
+      "level_1_file": "level-1-full-text/hoi-6-khai-hoan-dong-chi.md",
+      "level_2_file": "level-2-detailed-outline/hoi-6-khai-hoan-dong-chi.md"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": "tranh-01",
+      "number": 1,
+      "global_number": 1,
+      "book_id": "quyen-1",
+      "chapter_number": 1,
+      "chapters_ref": "Chương 1",
+      "title": "Mở đầu — Nói một chuyện đời xưa",
+      "image": "assets/images/tranh-01-mo-dau.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-02",
+      "number": 2,
+      "global_number": 2,
+      "book_id": "quyen-1",
+      "chapter_number": 2,
+      "chapters_ref": "Chương 2",
+      "title": "Đẻ đất",
+      "image": "assets/images/tranh-02-de-dat.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-03",
+      "number": 3,
+      "global_number": 3,
+      "book_id": "quyen-1",
+      "chapter_number": 3,
+      "chapters_ref": "Chương 3",
+      "title": "Đẻ nước",
+      "image": "assets/images/tranh-03-de-nuoc.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-04",
+      "number": 4,
+      "global_number": 4,
+      "book_id": "quyen-1",
+      "chapter_number": 4,
+      "chapters_ref": "Chương 4",
+      "title": "Đẻ cây si",
+      "image": "assets/images/tranh-04-de-cay-si.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-05",
+      "number": 5,
+      "global_number": 5,
+      "book_id": "quyen-1",
+      "chapter_number": 5,
+      "chapters_ref": "Chương 5",
+      "title": "Đẻ mường",
+      "image": "assets/images/tranh-05-de-muong.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-06",
+      "number": 6,
+      "global_number": 6,
+      "book_id": "quyen-1",
+      "chapter_number": 6,
+      "chapters_ref": "Chương 6",
+      "title": "Đẻ người",
+      "image": "assets/images/tranh-06-de-nguoi.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-07",
+      "number": 7,
+      "global_number": 7,
+      "book_id": "quyen-1",
+      "chapter_number": 7,
+      "chapters_ref": "Chương 7",
+      "title": "Chia năm chia tháng",
+      "image": "assets/images/tranh-07-chia-nam-chia-thang.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-08",
+      "number": 8,
+      "global_number": 8,
+      "book_id": "quyen-2",
+      "chapter_number": 8,
+      "chapters_ref": "Chương 8",
+      "title": "Dịt Dàng",
+      "image": "assets/images/tranh-08-dit-dang.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-09",
+      "number": 9,
+      "global_number": 9,
+      "book_id": "quyen-2",
+      "chapter_number": 9,
+      "chapters_ref": "Chương 9",
+      "title": "Lang Tà Cái",
+      "image": "assets/images/tranh-09-lang-ta-cai.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-10",
+      "number": 10,
+      "global_number": 10,
+      "book_id": "quyen-2",
+      "chapter_number": 10,
+      "chapters_ref": "Chương 10",
+      "title": "Lang Cun Cần",
+      "image": "assets/images/tranh-10-lang-cun-can.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-11",
+      "number": 11,
+      "global_number": 11,
+      "book_id": "quyen-2",
+      "chapter_number": 11,
+      "chapters_ref": "Chương 11",
+      "title": "Làm nhà Lang Cun Cần",
+      "image": "assets/images/tranh-11-lam-nha-lang-cun-can.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-12",
+      "number": 12,
+      "global_number": 12,
+      "book_id": "quyen-2",
+      "chapter_number": 12,
+      "chapters_ref": "Chương 12",
+      "title": "Tìm lửa, tìm nước",
+      "image": "assets/images/tranh-12-tim-lua-tim-nuoc.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-13",
+      "number": 13,
+      "global_number": 13,
+      "book_id": "quyen-2",
+      "chapter_number": 13,
+      "chapters_ref": "Chương 13",
+      "title": "Tìm cơm, tìm lúa",
+      "image": "assets/images/tranh-13-tim-com-tim-lua.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-14",
+      "number": 14,
+      "global_number": 14,
+      "book_id": "quyen-2",
+      "chapter_number": 14,
+      "chapters_ref": "Chương 14",
+      "title": "Tìm rượu",
+      "image": "assets/images/tranh-14-tim-ruou.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-15",
+      "number": 15,
+      "global_number": 15,
+      "book_id": "quyen-2",
+      "chapter_number": 15,
+      "chapters_ref": "Chương 15",
+      "title": "Tìm lợn, tìm gà",
+      "image": "assets/images/tranh-15-tim-lon-tim-ga.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-16",
+      "number": 16,
+      "global_number": 16,
+      "book_id": "quyen-2",
+      "chapter_number": 16,
+      "chapters_ref": "Chương 16",
+      "title": "Tìm trâu",
+      "image": "assets/images/tranh-16-tim-trau.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-17",
+      "number": 17,
+      "global_number": 17,
+      "book_id": "quyen-3",
+      "chapter_number": 17,
+      "chapters_ref": "Chương 17",
+      "title": "Lang Cun Cần lấy vợ",
+      "image": "assets/images/tranh-17-lang-cun-can-lay-vo.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-18",
+      "number": 18,
+      "global_number": 18,
+      "book_id": "quyen-3",
+      "chapter_number": 18,
+      "chapters_ref": "Chương 18",
+      "title": "Lấy vợ khác cho Lang Cun Cần",
+      "image": "assets/images/tranh-18-lay-vo-khac-cho-lang-cun-can.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-19",
+      "number": 19,
+      "global_number": 19,
+      "book_id": "quyen-3",
+      "chapter_number": 19,
+      "chapters_ref": "Chương 19",
+      "title": "Đẻ trống đồng và Lang Cun Cần chia đất",
+      "image": "assets/images/tranh-19-de-trong-dong-va-chia-dat.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-20",
+      "number": 20,
+      "global_number": 20,
+      "book_id": "quyen-4",
+      "chapter_number": 20,
+      "chapters_ref": "Chương 20",
+      "title": "Tìm chu",
+      "image": "assets/images/tranh-20-tim-chu.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-21",
+      "number": 21,
+      "global_number": 21,
+      "book_id": "quyen-4",
+      "chapter_number": 21,
+      "chapters_ref": "Chương 21",
+      "title": "Chặt chu",
+      "image": "assets/images/tranh-21-chat-chu.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-22",
+      "number": 22,
+      "global_number": 22,
+      "book_id": "quyen-4",
+      "chapter_number": 22,
+      "chapters_ref": "Chương 22",
+      "title": "Làm nhà chu",
+      "image": "assets/images/tranh-22-lam-nha-chu.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-23",
+      "number": 23,
+      "global_number": 23,
+      "book_id": "quyen-4",
+      "chapter_number": 23,
+      "chapters_ref": "Chương 23",
+      "title": "Đốt nhà chu",
+      "image": "assets/images/tranh-23-dot-nha-chu.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-24",
+      "number": 24,
+      "global_number": 24,
+      "book_id": "quyen-5",
+      "chapter_number": 24,
+      "chapters_ref": "Chương 24",
+      "title": "Săn Moong Lồ",
+      "image": "assets/images/tranh-24-san-moong-lo.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-25",
+      "number": 25,
+      "global_number": 25,
+      "book_id": "quyen-5",
+      "chapter_number": 25,
+      "chapters_ref": "Chương 25",
+      "title": "Săn cá điên, săn quạ điên",
+      "image": "assets/images/tranh-25-san-ca-dien-san-qua-dien.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-26",
+      "number": 26,
+      "global_number": 26,
+      "book_id": "quyen-5",
+      "chapter_number": 26,
+      "chapters_ref": "Chương 26",
+      "title": "Giặc ma ruộng",
+      "image": "assets/images/tranh-26-giac-ma-ruong.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-27",
+      "number": 27,
+      "global_number": 27,
+      "book_id": "quyen-5",
+      "chapter_number": 27,
+      "chapters_ref": "Chương 27",
+      "title": "Giặc ma may, giặc ma lạng",
+      "image": "assets/images/tranh-27-giac-ma-may-giac-ma-lang.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-28",
+      "number": 28,
+      "global_number": 28,
+      "book_id": "quyen-6",
+      "chapter_number": 28,
+      "chapters_ref": "Chương 28",
+      "title": "Đưa vua về Đồng Chì Tam Quan Kẻ Chợ",
+      "image": "assets/images/tranh-28-dua-vua-ve-dong-chi.png",
+      "image_generated": false
+    }
+  ],
+  "chapters": [
+    {
+      "id": "quyen-1-chuong-01",
+      "global_number": 1,
+      "book_id": "quyen-1",
+      "chapter_number": 1,
+      "section": "Hồi I: Khai Thiên Lập Địa Và Khởi Nguồn Giống Nòi",
+      "title": "Mở đầu — Nói một chuyện đời xưa",
+      "is_epilogue": false,
+      "illustration_id": "tranh-01",
+      "image": "assets/images/tranh-01-mo-dau.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-01-mo-dau.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-02",
+      "global_number": 2,
+      "book_id": "quyen-1",
+      "chapter_number": 2,
+      "section": "Hồi I: Khai Thiên Lập Địa Và Khởi Nguồn Giống Nòi",
+      "title": "Đẻ đất",
+      "is_epilogue": false,
+      "illustration_id": "tranh-02",
+      "image": "assets/images/tranh-02-de-dat.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-02-de-dat.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-03",
+      "global_number": 3,
+      "book_id": "quyen-1",
+      "chapter_number": 3,
+      "section": "Hồi I: Khai Thiên Lập Địa Và Khởi Nguồn Giống Nòi",
+      "title": "Đẻ nước",
+      "is_epilogue": false,
+      "illustration_id": "tranh-03",
+      "image": "assets/images/tranh-03-de-nuoc.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-03-de-nuoc.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-04",
+      "global_number": 4,
+      "book_id": "quyen-1",
+      "chapter_number": 4,
+      "section": "Hồi I: Khai Thiên Lập Địa Và Khởi Nguồn Giống Nòi",
+      "title": "Đẻ cây si",
+      "is_epilogue": false,
+      "illustration_id": "tranh-04",
+      "image": "assets/images/tranh-04-de-cay-si.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-04-de-cay-si.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-05",
+      "global_number": 5,
+      "book_id": "quyen-1",
+      "chapter_number": 5,
+      "section": "Hồi I: Khai Thiên Lập Địa Và Khởi Nguồn Giống Nòi",
+      "title": "Đẻ mường",
+      "is_epilogue": false,
+      "illustration_id": "tranh-05",
+      "image": "assets/images/tranh-05-de-muong.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-05-de-muong.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-06",
+      "global_number": 6,
+      "book_id": "quyen-1",
+      "chapter_number": 6,
+      "section": "Hồi I: Khai Thiên Lập Địa Và Khởi Nguồn Giống Nòi",
+      "title": "Đẻ người",
+      "is_epilogue": false,
+      "illustration_id": "tranh-06",
+      "image": "assets/images/tranh-06-de-nguoi.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-06-de-nguoi.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-07",
+      "global_number": 7,
+      "book_id": "quyen-1",
+      "chapter_number": 7,
+      "section": "Hồi I: Khai Thiên Lập Địa Và Khởi Nguồn Giống Nòi",
+      "title": "Chia năm chia tháng",
+      "is_epilogue": false,
+      "illustration_id": "tranh-07",
+      "image": "assets/images/tranh-07-chia-nam-chia-thang.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-07-chia-nam-chia-thang.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-08",
+      "global_number": 8,
+      "book_id": "quyen-2",
+      "chapter_number": 8,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Dịt Dàng",
+      "is_epilogue": false,
+      "illustration_id": "tranh-08",
+      "image": "assets/images/tranh-08-dit-dang.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-08-dit-dang.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-09",
+      "global_number": 9,
+      "book_id": "quyen-2",
+      "chapter_number": 9,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Lang Tà Cái",
+      "is_epilogue": false,
+      "illustration_id": "tranh-09",
+      "image": "assets/images/tranh-09-lang-ta-cai.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-09-lang-ta-cai.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-10",
+      "global_number": 10,
+      "book_id": "quyen-2",
+      "chapter_number": 10,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Lang Cun Cần",
+      "is_epilogue": false,
+      "illustration_id": "tranh-10",
+      "image": "assets/images/tranh-10-lang-cun-can.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-10-lang-cun-can.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-11",
+      "global_number": 11,
+      "book_id": "quyen-2",
+      "chapter_number": 11,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Làm nhà Lang Cun Cần",
+      "is_epilogue": false,
+      "illustration_id": "tranh-11",
+      "image": "assets/images/tranh-11-lam-nha-lang-cun-can.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-11-lam-nha-lang-cun-can.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-12",
+      "global_number": 12,
+      "book_id": "quyen-2",
+      "chapter_number": 12,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Tìm lửa, tìm nước",
+      "is_epilogue": false,
+      "illustration_id": "tranh-12",
+      "image": "assets/images/tranh-12-tim-lua-tim-nuoc.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-12-tim-lua-tim-nuoc.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-13",
+      "global_number": 13,
+      "book_id": "quyen-2",
+      "chapter_number": 13,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Tìm cơm, tìm lúa",
+      "is_epilogue": false,
+      "illustration_id": "tranh-13",
+      "image": "assets/images/tranh-13-tim-com-tim-lua.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-13-tim-com-tim-lua.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-14",
+      "global_number": 14,
+      "book_id": "quyen-2",
+      "chapter_number": 14,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Tìm rượu",
+      "is_epilogue": false,
+      "illustration_id": "tranh-14",
+      "image": "assets/images/tranh-14-tim-ruou.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-14-tim-ruou.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-15",
+      "global_number": 15,
+      "book_id": "quyen-2",
+      "chapter_number": 15,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Tìm lợn, tìm gà",
+      "is_epilogue": false,
+      "illustration_id": "tranh-15",
+      "image": "assets/images/tranh-15-tim-lon-tim-ga.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-15-tim-lon-tim-ga.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-16",
+      "global_number": 16,
+      "book_id": "quyen-2",
+      "chapter_number": 16,
+      "section": "Hồi II: Lập Lang Dựng Mường Và Sáng Tạo Văn Hóa",
+      "title": "Tìm trâu",
+      "is_epilogue": false,
+      "illustration_id": "tranh-16",
+      "image": "assets/images/tranh-16-tim-trau.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-16-tim-trau.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-3-chuong-17",
+      "global_number": 17,
+      "book_id": "quyen-3",
+      "chapter_number": 17,
+      "section": "Hồi III: Lập Gia, Đúc Trống Đồng Và Chia Đất",
+      "title": "Lang Cun Cần lấy vợ",
+      "is_epilogue": false,
+      "illustration_id": "tranh-17",
+      "image": "assets/images/tranh-17-lang-cun-can-lay-vo.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-3-lap-gia-duc-trong-dong.md"
+        },
+        "level_1": "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_2": "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-17-lang-cun-can-lay-vo.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-3-chuong-18",
+      "global_number": 18,
+      "book_id": "quyen-3",
+      "chapter_number": 18,
+      "section": "Hồi III: Lập Gia, Đúc Trống Đồng Và Chia Đất",
+      "title": "Lấy vợ khác cho Lang Cun Cần",
+      "is_epilogue": false,
+      "illustration_id": "tranh-18",
+      "image": "assets/images/tranh-18-lay-vo-khac-cho-lang-cun-can.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-3-lap-gia-duc-trong-dong.md"
+        },
+        "level_1": "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_2": "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-18-lay-vo-khac-cho-lang-cun-can.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-3-chuong-19",
+      "global_number": 19,
+      "book_id": "quyen-3",
+      "chapter_number": 19,
+      "section": "Hồi III: Lập Gia, Đúc Trống Đồng Và Chia Đất",
+      "title": "Đẻ trống đồng và Lang Cun Cần chia đất",
+      "is_epilogue": false,
+      "illustration_id": "tranh-19",
+      "image": "assets/images/tranh-19-de-trong-dong-va-chia-dat.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-3-lap-gia-duc-trong-dong.md"
+        },
+        "level_1": "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_2": "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-19-de-trong-dong-va-chia-dat.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-4-chuong-20",
+      "global_number": 20,
+      "book_id": "quyen-4",
+      "chapter_number": 20,
+      "section": "Hồi IV: Chu Kỳ Cây Chu — Tìm, Chặt, Dựng Và Đốt",
+      "title": "Tìm chu",
+      "is_epilogue": false,
+      "illustration_id": "tranh-20",
+      "image": "assets/images/tranh-20-tim-chu.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-4-chu-ky-cay-chu.md"
+        },
+        "level_1": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level_2": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-20-tim-chu.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-4-chuong-21",
+      "global_number": 21,
+      "book_id": "quyen-4",
+      "chapter_number": 21,
+      "section": "Hồi IV: Chu Kỳ Cây Chu — Tìm, Chặt, Dựng Và Đốt",
+      "title": "Chặt chu",
+      "is_epilogue": false,
+      "illustration_id": "tranh-21",
+      "image": "assets/images/tranh-21-chat-chu.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-4-chu-ky-cay-chu.md"
+        },
+        "level_1": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level_2": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-21-chat-chu.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-4-chuong-22",
+      "global_number": 22,
+      "book_id": "quyen-4",
+      "chapter_number": 22,
+      "section": "Hồi IV: Chu Kỳ Cây Chu — Tìm, Chặt, Dựng Và Đốt",
+      "title": "Làm nhà chu",
+      "is_epilogue": false,
+      "illustration_id": "tranh-22",
+      "image": "assets/images/tranh-22-lam-nha-chu.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-4-chu-ky-cay-chu.md"
+        },
+        "level_1": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level_2": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-22-lam-nha-chu.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-4-chuong-23",
+      "global_number": 23,
+      "book_id": "quyen-4",
+      "chapter_number": 23,
+      "section": "Hồi IV: Chu Kỳ Cây Chu — Tìm, Chặt, Dựng Và Đốt",
+      "title": "Đốt nhà chu",
+      "is_epilogue": false,
+      "illustration_id": "tranh-23",
+      "image": "assets/images/tranh-23-dot-nha-chu.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-4-chu-ky-cay-chu.md"
+        },
+        "level_1": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level_2": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-23-dot-nha-chu.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-5-chuong-24",
+      "global_number": 24,
+      "book_id": "quyen-5",
+      "chapter_number": 24,
+      "section": "Hồi V: Trừ Thú Dữ Và Dẹp Loạn Giặc Ma",
+      "title": "Săn Moong Lồ",
+      "is_epilogue": false,
+      "illustration_id": "tranh-24",
+      "image": "assets/images/tranh-24-san-moong-lo.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md"
+        },
+        "level_1": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_2": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-24-san-moong-lo.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-5-chuong-25",
+      "global_number": 25,
+      "book_id": "quyen-5",
+      "chapter_number": 25,
+      "section": "Hồi V: Trừ Thú Dữ Và Dẹp Loạn Giặc Ma",
+      "title": "Săn cá điên, săn quạ điên",
+      "is_epilogue": false,
+      "illustration_id": "tranh-25",
+      "image": "assets/images/tranh-25-san-ca-dien-san-qua-dien.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md"
+        },
+        "level_1": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_2": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-25-san-ca-dien-san-qua-dien.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-5-chuong-26",
+      "global_number": 26,
+      "book_id": "quyen-5",
+      "chapter_number": 26,
+      "section": "Hồi V: Trừ Thú Dữ Và Dẹp Loạn Giặc Ma",
+      "title": "Giặc ma ruộng",
+      "is_epilogue": false,
+      "illustration_id": "tranh-26",
+      "image": "assets/images/tranh-26-giac-ma-ruong.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md"
+        },
+        "level_1": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_2": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-26-giac-ma-ruong.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-5-chuong-27",
+      "global_number": 27,
+      "book_id": "quyen-5",
+      "chapter_number": 27,
+      "section": "Hồi V: Trừ Thú Dữ Và Dẹp Loạn Giặc Ma",
+      "title": "Giặc ma may, giặc ma lạng",
+      "is_epilogue": false,
+      "illustration_id": "tranh-27",
+      "image": "assets/images/tranh-27-giac-ma-may-giac-ma-lang.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md"
+        },
+        "level_1": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_2": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-27-giac-ma-may-giac-ma-lang.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-6-chuong-28",
+      "global_number": 28,
+      "book_id": "quyen-6",
+      "chapter_number": 28,
+      "section": "Hồi VI: Khải Hoàn Về Đồng Chì Tam Quan Kẻ Chợ",
+      "title": "Đưa vua về Đồng Chì Tam Quan Kẻ Chợ",
+      "is_epilogue": false,
+      "illustration_id": "tranh-28",
+      "image": "assets/images/tranh-28-dua-vua-ve-dong-chi.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-6-khai-hoan-dong-chi.md"
+        },
+        "level_1": "level-1-full-text/hoi-6-khai-hoan-dong-chi.md",
+        "level_2": "level-2-detailed-outline/hoi-6-khai-hoan-dong-chi.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-28-dua-vua-ve-dong-chi.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    }
+  ]
+}
