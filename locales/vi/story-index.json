@@ -3,7 +3,7 @@
   "language": "vi",
   "target_age": "9–10 tuổi",
   "style_reference": "Sử thi Mường — lời mo",
-  "source_text": "Đẻ đất đẻ nước.md",
+  "source_text": "level-0-context/ancient-texts/Đẻ đất đẻ nước.md",
   "total_books": 6,
   "total_chapters": 28,
   "total_illustrations": 28,
@@ -15,6 +15,12 @@
       "overview_file": "level-0-context/00-epic-soul-overview.md",
       "ancient_books_dir": "level-0-context/ancient-texts",
       "ancient_books": [
+        {
+          "id": "de-dat-de-nuoc",
+          "title": "Đẻ đất đẻ nước",
+          "category": "van-ban-co",
+          "file": "level-0-context/ancient-texts/Đẻ đất đẻ nước.md"
+        },
         {
           "id": "loi-gioi-thieu-1988",
           "title": "Lời giới thiệu 1988: Mo vải và Mo lêu",

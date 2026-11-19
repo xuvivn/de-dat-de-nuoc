@@ -14,7 +14,7 @@ Kho dữ liệu này chuyển *Đẻ đất đẻ nước* — trường ca *mo 
 | | |
 |---|---|
 | **Tác phẩm** | *Đẻ đất đẻ nước* — sử thi của người Mường |
-| **Bản dùng làm gốc** | [`Đẻ đất đẻ nước.md`](Đẻ%20đất%20đẻ%20nước.md), bản hợp nhất 6 Hồi · 28 Chương từ ấn phẩm 1988/2000 (26 *rằng*), lời đọc 1988 và bản đọc 28 chương |
+| **Bản dùng làm gốc** | [`Đẻ đất đẻ nước.md`](locales/vi/level-0-context/ancient-texts/Đẻ%20đất%20đẻ%20nước.md), bản hợp nhất 6 Hồi · 28 Chương từ ấn phẩm 1988/2000 (26 *rằng*), lời đọc 1988 và bản đọc 28 chương |
 | **Nguồn thư mục** | Đặng Văn Lung, Vương Anh, Hoàng Anh Nhân giới thiệu; *Tổng tập Văn học Việt Nam*, tập 41, NXB Khoa học Xã hội, 2000 |
 | **Nguyên tắc** | Không sửa một byte vào văn bản gốc; mọi biên tập nằm trong `locales/vi/` |
 
@@ -24,7 +24,7 @@ Kho dữ liệu này chuyển *Đẻ đất đẻ nước* — trường ca *mo 
 
 | Cấp độ | Thư mục | Mục đích luyện tập |
 | :--- | :--- | :--- |
-| **Level 0** | [`locales/vi/level-0-context/`](locales/vi/level-0-context/) | **Bối cảnh & Linh hồn sử thi** — không gian văn hóa Mường, nhịp kể cho tuổi 9–10, cách đọc tên riêng, và 8 tư liệu tham khảo. |
+| **Level 0** | [`locales/vi/level-0-context/`](locales/vi/level-0-context/) | **Bối cảnh & Linh hồn sử thi** — không gian văn hóa Mường, nhịp kể cho tuổi 9–10, cách đọc tên riêng, chính văn sử thi và tư liệu tham khảo. |
 | **Level 1** | [`locales/vi/level-1-full-text/`](locales/vi/level-1-full-text/) | **Toàn văn đọc thành tiếng** — thuần lời mo, giữ nhịp thơ, kèm *Lưu ý giọng kể* từng chương. |
 | **Level 2** | [`locales/vi/level-2-detailed-outline/`](locales/vi/level-2-detailed-outline/) | **Dàn ý chi tiết** — nhân vật, hình tượng, diễn biến, điệp khúc và điểm nhấn kể chuyện. |
 | **Level 3** | [`locales/vi/level-3-summary-outline/chapter-summaries.md`](locales/vi/level-3-summary-outline/chapter-summaries.md) | **Dàn ý tóm tắt** — một khung xương duy nhất cho cả 28 chương. |

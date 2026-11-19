@@ -1,6 +1,6 @@
 # Đẻ Đất Đẻ Nước — Kho Dữ Liệu Luyện Kể Chuyện 5 Cấp Độ
 
-Kho dữ liệu nguồn tiếng Việt phục vụ ứng dụng luyện kể chuyện, kết nối một mạch sử thi liền lạc gồm **6 Hồi · 28 Chương**, dành cho **độ tuổi 9–10**, bám sát bản hợp nhất *Đẻ đất đẻ nước* trong [`../../Đẻ đất đẻ nước.md`](../../Đẻ%20đất%20đẻ%20nước.md).
+Kho dữ liệu nguồn tiếng Việt phục vụ ứng dụng luyện kể chuyện, kết nối một mạch sử thi liền lạc gồm **6 Hồi · 28 Chương**, dành cho **độ tuổi 9–10**, bám sát bản hợp nhất *Đẻ đất đẻ nước* trong [`level-0-context/ancient-texts/Đẻ đất đẻ nước.md`](level-0-context/ancient-texts/Đẻ%20đất%20đẻ%20nước.md).
 
 > **Trạng thái:** **Level 0–3 đã hoàn tất** (bối cảnh, toàn văn 28 chương, dàn ý chi tiết, dàn ý tóm tắt). **Level 4** đã có đặc tả phong cách, 28 đề bài vẽ và gallery danh mục; 28 ảnh minh họa để ngỏ, chưa tạo.
 
@@ -10,7 +10,7 @@ Kho dữ liệu nguồn tiếng Việt phục vụ ứng dụng luyện kể chu
 
 | Cấp độ | Thư mục | Mục đích luyện tập | Phạm vi |
 | :--- | :--- | :--- | :--- |
-| **Level 0** | [level-0-context/](level-0-context/00-epic-soul-overview.md) | **Bối cảnh & Linh hồn sử thi** — nắm tinh thần văn hóa Mường, nhịp kể 9–10 tuổi, cách đọc tên riêng và đọc thêm tư liệu. | `00-epic-soul-overview.md` + 6 tệp Hồi + `ancient-texts/` (8 tư liệu) |
+| **Level 0** | [level-0-context/](level-0-context/00-epic-soul-overview.md) | **Bối cảnh & Linh hồn sử thi** — nắm tinh thần văn hóa Mường, nhịp kể 9–10 tuổi, cách đọc tên riêng và đọc thêm tư liệu. | `00-epic-soul-overview.md` + 6 tệp Hồi + `ancient-texts/` (1 văn bản cổ chính văn + 8 tư liệu) |
 | **Level 1** | [level-1-full-text/](level-1-full-text/) | **Toàn văn đọc thành tiếng** — thuần lời mo, giữ nhịp thơ, kèm *Lưu ý giọng kể*. | 6 tệp (`hoi-1`..`hoi-6`), 28 Chương |
 | **Level 2** | [level-2-detailed-outline/](level-2-detailed-outline/) | **Dàn ý chi tiết** — nhân vật, hình tượng, diễn biến, điệp khúc, điểm nhấn. | 6 tệp (`hoi-1`..`hoi-6`), 28 Chương |
 | **Level 3** | [level-3-summary-outline/chapter-summaries.md](level-3-summary-outline/chapter-summaries.md) | **Dàn ý tóm tắt** — một khung xương duy nhất cho cả 28 Chương. | 1 tệp |

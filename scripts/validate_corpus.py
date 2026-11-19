@@ -372,6 +372,16 @@ def main() -> int:
         check_level0_overview(ROOT / "locales" / "vi" / level0["overview_file"], report)
     for book in books:
         check_level0_overview(ROOT / "locales" / "vi" / book["level_0_file"], report)
+    source_text = index.get("source_text")
+    if source_text:
+        source_path = ROOT / "locales" / "vi" / source_text
+        read_text(source_path, report)
+        root_source = ROOT / "Đẻ đất đẻ nước.md"
+        if root_source.exists():
+            report.error("Không được giữ bản sao chính văn trùng lặp tại thư mục gốc: " + relative(root_source))
+        ancient_files = {ancient.get("file") for ancient in level0.get("ancient_books", [])}
+        if source_text not in ancient_files:
+            report.error("source_text chưa được đăng ký trong ancient_books của Level 0")
     for ancient in level0.get("ancient_books", []):
         path = ROOT / "locales" / "vi" / ancient["file"]
         read_text(path, report)
