@@ -216,7 +216,7 @@
 ## Hồi V: Trừ Thú Dữ Và Dẹp Loạn Giặc Ma (4 Chương)
 
 ### Chương 24: Săn Moong Lồ
-- Moong Lồ lớn từng ngày, đi tới đâu đổi tên tới đó — Moong một, Moong hai… đến Moong mười; mình bằng quả đồi, vú bằng gò đất mối, vuốt sắc như chông.
+- Moong Lồ lớn từng ngày, đi tới đâu đổi tên tới đó — Moong một, Moong hai… đến Moong mười; mình bằng quả đồi, ức bằng gò đất mối, vuốt sắc như chông.
 - Nó ăn trâu bò ngựa, vồ cả người, ăn cả vợ Lang Cun Khương đi thăm ngoại; mường họp bàn, đan lưới ba nghìn bảy mắt, kéo đi săn.
 - Mường tìm thấy Moong nằm trước mặt, hò cồng vây đánh; Moong chui vào núi Kem núi Khến, bị đá kẹp, mường đâm chém giết chết.
 - Mường khiêng xác về làm thịt chia nhau: người Lào lấy da hông nên dệt phá đẹp, người Mường Trong lấy da lưng nên thêu hình lưng ngựa, người Tày lấy da đuôi nên chỉ thêu sâu ong.

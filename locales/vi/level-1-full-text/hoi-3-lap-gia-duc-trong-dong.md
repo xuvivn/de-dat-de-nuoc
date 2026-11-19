@@ -25,8 +25,8 @@ Thấy nàng Vạ Hai Kịp
 Đứng dựa bờ giếng gội đầu!
 Dưới mặt nước trong sâu
 Trải tóc xanh mườn mượt
-Thấy lấp lánh trước ngực
-Đôi gò vú tròn tròn
+Bóng nước ánh trong veo
+Tóc buông dài chấm gót
 Thấy khuôn mặt non non
 Thấy con mắt đang cười với nước!
 Con người tốt vóc, chiều khéo
@@ -83,7 +83,7 @@ Không ra, không vào, chẳng lên, chẳng xuống!"
 
 Lang Cun Cần nghe lời nói suông
 Thấy gió lật chiếu
-Thấy lòng yêu lảo đảo
+Thấy bụng dạ đảo điên
 Cơn giận bốc bừng bừng!
 Lang rút dao rựa chém ngang
 Vung thanh gươm vàng qua lại
@@ -108,7 +108,7 @@ Làm vậy ba năm bảy tháng
 Mới sống nên thân, làm nên sự nghiệp!"
 
 Lang Cun Cần trở về
-Lấy Vạ Hai Kịp làm vợ hoa
+Đón Vạ Hai Kịp về làm vợ
 Chẳng chịu đầu tháng ăn chung máng lợn
 Chẳng chịu cuối tháng uống nước cùng gà!
 Vua Trời ngồi sập ngai son
@@ -118,13 +118,14 @@ Sai Nàng Sét xuống đánh chết Lang Cun Cần.
 
 Hai người ra đi
 Rì rì đến bờ sông Tùng, bến Chuồng.
-Nàng Sét hơ hớ đi trước
-Cun Sấm bước chân theo sau
-Thấy đùi Nàng Sét trắng phau
-Mắt Cun Sấm dán vào không rời một bước
-Nghe lòng ao ước, dạ xốn xang
-Muốn cầm đùi trắng phau phau
-Muốn được con người trăng trắng!
+Nàng Sét bước nhẹ đi trước
+Cun Sấm sải bước theo sau
+Thấy dáng Nàng Sét thanh cao
+Áo xiêm trắng phau như mây sớm
+Mắt Cun Sấm nhìn theo không rời một bước
+Nghe lòng thương mến, dạ xốn xang
+Muốn cùng nàng kết bạn trên mây
+Muốn nên đôi, nên lứa!
 Nàng Sét chưa lắng đã biết
 Chưa thấy đã hay
 Bèn tìm lời khéo léo:
@@ -568,12 +569,11 @@ Cơm sáng chung nồi
 Rượu cần chung uống
 Đi đâu cũng kề vai, chung bước.
 Khi nàng Ả Sao ngồi khâu, ngồi vá
-Lang Cun Cần vuốt má yêu yêu
+Lang Cun Cần đứng cạnh trông theo
 Lúc nàng ngồi dệt, ngồi thêu
-Lang Cun Cần ngắm yêu, nhìn mến
-Tối ngả cánh tay mềm làm gối
-Cặp vú trắng ngà làm bông hoa hái
-Má phải, má trái kề miệng, kề môi.
+Lang Cun Cần hết lòng thương quý
+Sớm hôm có bạn cùng nhà
+Đi đâu cũng có đôi, có lứa.
 
 Nhưng hai mùa rét đã qua
 Mùa nóng sôi kéo đến
@@ -595,7 +595,7 @@ Chẳng phải rước lợn bò, tốn bạc vàng
 Lang cho hỏi Nàng Út về làm vợ:
 Ả chỉ mang theo đùm áo, đùm xống
 Ăn chung một chạn, uống chung một nồi
-Ngủ chung một buồng
+Ở chung một nhà
 Cũng thương thương như nàng vợ cả.
 
 Con quạ có cánh biết bay

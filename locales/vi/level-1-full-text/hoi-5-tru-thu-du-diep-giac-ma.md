@@ -79,13 +79,13 @@ Dấu ngược đèo, hộc tốc lên đèo.
 
 Bỗng thấy con Moong lớn nằm trước mặt:
 Mình bằng quả đồi
-Vú bằng gò đất mối
+Ức bằng gò đất mối
 Lông Moong vằn vện
 Mắt Moong rực hồng
 Đuôi Moong bằng cây vông
 Vuốt sắc như gai bồ kết!
 Moong nằm, đồi bé chẳng che hết hông
-Moong ngồi, núi lớn chẳng che hết vú!
+Moong ngồi, núi lớn chẳng che hết lưng!
 
 Làn săn quay lại báo tin.
 Lang Cun Khương và Cun Tàng cùng chu chương:
@@ -126,7 +126,7 @@ Chỉ biết thêu hình con sâu, con ong.
 Dân **Mường** một lòng
 Giữ lấy da trước ngực
 Nên con gái Mường dệt đầu váy con hươu
-Thêu hình yêu yêu đùm ngực.
+Thêu hoa văn khéo trước ngực.
 Người **Kinh**, người **Chợ** ở ngái, ở xa
 Đến chỉ còn thịt pha, lòng, mỡ
 Chặt ống xâu lạt mang về
