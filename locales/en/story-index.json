@@ -1,0 +1,1206 @@
+{
+  "title": "Giving birth to land, giving birth to water — Epic Storytelling Practice Set with 5 levels",
+  "language": "en",
+  "target_age": "9–10 years old",
+  "style_reference": "Muong epics — lyrics",
+  "source_text": "level-0-context/ancient-texts/Đẻ đất đẻ nước.md",
+  "total_books": 6,
+  "total_chapters": 28,
+  "total_illustrations": 28,
+  "levels": [
+    {
+      "level": 0,
+      "name": "Epic Context & Soul",
+      "dir": "level-0-context",
+      "overview_file": "level-0-context/00-epic-soul-overview.md",
+      "ancient_books_dir": "level-0-context/ancient-texts",
+      "ancient_books": [
+        {
+          "id": "de-dat-de-nuoc",
+          "title": "The Birth of Earth and Water",
+          "category": "van-ban-co",
+          "file": "level-0-context/ancient-texts/Đẻ đất đẻ nước.md"
+        },
+        {
+          "id": "loi-gioi-thieu-1988",
+          "title": "Introduction 1988: Mo lych and Mo leu",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/loi-gioi-thieu-1988.md"
+        },
+        {
+          "id": "nghi-thuc-dien-xuong",
+          "title": "Muong funeral performance ritual",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/nghi-thuc-dien-xuong.md"
+        },
+        {
+          "id": "khao-di-de-ruou-can",
+          "title": "Strange investigation: Tich De gives birth to wine can",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/khao-di-de-ruou-can.md"
+        },
+        {
+          "id": "khao-di-con-ba-ran",
+          "title": "Strange investigation: Son of Mrs. Ran and Mrs. Da Dan",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/khao-di-con-ba-ran.md"
+        },
+        {
+          "id": "bang-chu-giai-tu-muong",
+          "title": "Glossary from Muong",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/bang-chu-giai-tu-muong.md"
+        },
+        {
+          "id": "nhan-vat-va-than-linh",
+          "title": "Typical characters, gods and things",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/nhan-vat-va-than-linh.md"
+        },
+        {
+          "id": "dia-danh-xu-muong",
+          "title": "Place name of Muong",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/dia-danh-xu-muong.md"
+        },
+        {
+          "id": "ghi-chu-bien-soan",
+          "title": "Editorial notes and three consolidated sources",
+          "category": "tu-lieu",
+          "file": "level-0-context/ancient-texts/ghi-chu-bien-soan.md"
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "name": "Full story text",
+      "dir": "level-1-full-text",
+      "files": [
+        "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+        "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level-1-full-text/hoi-6-khai-hoan-dong-chi.md"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Detailed outline",
+      "dir": "level-2-detailed-outline",
+      "files": [
+        "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md",
+        "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level-2-detailed-outline/hoi-6-khai-hoan-dong-chi.md"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "Summary outline",
+      "dir": "level-3-summary-outline",
+      "file": "level-3-summary-outline/chapter-summaries.md"
+    },
+    {
+      "level": 4,
+      "name": "The painting evokes pure images",
+      "dir": "level-4-visual-prompts",
+      "gallery_file": "level-4-visual-prompts/illustration-gallery.md",
+      "prompt_spec_file": "level-4-visual-prompts/prompts-28-scenes.md"
+    }
+  ],
+  "books": [
+    {
+      "id": "quyen-1",
+      "number": 1,
+      "slug": "hoi-1-khai-thien-lap-dia",
+      "title": "Act I: Opening Heaven and Earth and Origin of Race",
+      "subtitle": "From nothingness come all species, all shapes and sizes of people",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 7,
+      "level_0_file": "level-0-context/hoi-1-khai-thien-lap-dia.md",
+      "level_1_file": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+      "level_2_file": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md"
+    },
+    {
+      "id": "quyen-2",
+      "number": 2,
+      "slug": "ask-2-lap-lang-use-muong",
+      "title": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "subtitle": "Choose a village keeper, build a house, find fire, rice, and buffalo",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 9,
+      "level_0_file": "level-0-context/hoi-2-lap-lang-dung-muong.md",
+      "level_1_file": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+      "level_2_file": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md"
+    },
+    {
+      "id": "quyen-3",
+      "number": 3,
+      "slug": "hoi-3-lap-gia-duc-trong-dong",
+      "title": "Act III: Starting a Family, Casting a Bronze Drum and Dividing the Land",
+      "subtitle": "Build a wife and get married, give birth to field drums, and divide the land among the villagers",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 3,
+      "level_0_file": "level-0-context/hoi-3-lap-gia-duc-trong-dong.md",
+      "level_1_file": "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+      "level_2_file": "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md"
+    },
+    {
+      "id": "quyen-4",
+      "number": 4,
+      "slug": "hoi-4-chu-ky-cay-chu",
+      "title": "Act IV: The Cypress Tree Cycle — Find, Cut, Build and Burn",
+      "subtitle": "The process of pulling the magic tree and the tree in the middle of the forest",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 4,
+      "level_0_file": "level-0-context/hoi-4-chu-ky-cay-chu.md",
+      "level_1_file": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+      "level_2_file": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md"
+    },
+    {
+      "id": "quyen-5",
+      "number": 5,
+      "slug": "hoi-5-tru-thu-du-diep-giac-ma",
+      "title": "Chapter V: Exorcising Beasts and Suppressing Rebellions",
+      "subtitle": "Hunt Moong Lo, eliminate crazy fish, crazy crows and three demonic invaders",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 4,
+      "level_0_file": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md",
+      "level_1_file": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+      "level_2_file": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md"
+    },
+    {
+      "id": "quyen-6",
+      "number": 6,
+      "slug": "hoi-6-khai-hoan-dong-chi",
+      "title": "Chapter VI: Triumph of Copper Lead Tam Quan Ke Cho",
+      "subtitle": "Take care of the clothes, carry the throne and process the king back to Muong land",
+      "is_epilogue": false,
+      "illustration_style": "charcoal_indigo_terracotta_chalk_pastel",
+      "total_chapters": 1,
+      "level_0_file": "level-0-context/hoi-6-khai-hoan-dong-chi.md",
+      "level_1_file": "level-1-full-text/hoi-6-khai-hoan-dong-chi.md",
+      "level_2_file": "level-2-detailed-outline/hoi-6-khai-hoan-dong-chi.md"
+    }
+  ],
+  "illustrations": [
+    {
+      "id": "tranh-01",
+      "number": 1,
+      "global_number": 1,
+      "book_id": "quyen-1",
+      "chapter_number": 1,
+      "chapters_ref": "Chapter 1",
+      "title": "Prologue — Telling an old story",
+      "image": "assets/images/tranh-01-mo-dau.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-02",
+      "number": 2,
+      "global_number": 2,
+      "book_id": "quyen-1",
+      "chapter_number": 2,
+      "chapters_ref": "Chapter 2",
+      "title": "Laying ground",
+      "image": "assets/images/tranh-02-de-dat.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-03",
+      "number": 3,
+      "global_number": 3,
+      "book_id": "quyen-1",
+      "chapter_number": 3,
+      "chapters_ref": "Chapter 3",
+      "title": "Giving birth to water",
+      "image": "assets/images/tranh-03-de-nuoc.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-04",
+      "number": 4,
+      "global_number": 4,
+      "book_id": "quyen-1",
+      "chapter_number": 4,
+      "chapters_ref": "Chapter 4",
+      "title": "Giving birth to a sycamore tree",
+      "image": "assets/images/tranh-04-de-cay-si.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-05",
+      "number": 5,
+      "global_number": 5,
+      "book_id": "quyen-1",
+      "chapter_number": 5,
+      "chapters_ref": "Chapter 5",
+      "title": "Giving birth",
+      "image": "assets/images/tranh-05-de-muong.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-06",
+      "number": 6,
+      "global_number": 6,
+      "book_id": "quyen-1",
+      "chapter_number": 6,
+      "chapters_ref": "Chapter 6",
+      "title": "Giving birth",
+      "image": "assets/images/tranh-06-de-nguoi.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-07",
+      "number": 7,
+      "global_number": 7,
+      "book_id": "quyen-1",
+      "chapter_number": 7,
+      "chapters_ref": "Chapter 7",
+      "title": "Divide the year into the month",
+      "image": "assets/images/tranh-07-chia-nam-chia-thang.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-08",
+      "number": 8,
+      "global_number": 8,
+      "book_id": "quyen-2",
+      "chapter_number": 8,
+      "chapters_ref": "Chapter 8",
+      "title": "Ease",
+      "image": "assets/images/tranh-08-dit-dang.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-09",
+      "number": 9,
+      "global_number": 9,
+      "book_id": "quyen-2",
+      "chapter_number": 9,
+      "chapters_ref": "Chapter 9",
+      "title": "Lang Ta Cai",
+      "image": "assets/images/tranh-09-lang-ta-cai.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-10",
+      "number": 10,
+      "global_number": 10,
+      "book_id": "quyen-2",
+      "chapter_number": 10,
+      "chapters_ref": "Chapter 10",
+      "title": "Lang Cun Can",
+      "image": "assets/images/tranh-10-lang-cun-can.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-11",
+      "number": 11,
+      "global_number": 11,
+      "book_id": "quyen-2",
+      "chapter_number": 11,
+      "chapters_ref": "Chapter 11",
+      "title": "Building Lang Cun Can's house",
+      "image": "assets/images/tranh-11-lam-nha-lang-cun-can.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-12",
+      "number": 12,
+      "global_number": 12,
+      "book_id": "quyen-2",
+      "chapter_number": 12,
+      "chapters_ref": "Chapter 12",
+      "title": "Find fire, find water",
+      "image": "assets/images/tranh-12-tim-lua-tim-nuoc.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-13",
+      "number": 13,
+      "global_number": 13,
+      "book_id": "quyen-2",
+      "chapter_number": 13,
+      "chapters_ref": "Chapter 13",
+      "title": "Looking for rice, looking for rice",
+      "image": "assets/images/tranh-13-tim-com-tim-lua.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-14",
+      "number": 14,
+      "global_number": 14,
+      "book_id": "quyen-2",
+      "chapter_number": 14,
+      "chapters_ref": "Chapter 14",
+      "title": "Looking for wine",
+      "image": "assets/images/tranh-14-tim-ruou.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-15",
+      "number": 15,
+      "global_number": 15,
+      "book_id": "quyen-2",
+      "chapter_number": 15,
+      "chapters_ref": "Chapter 15",
+      "title": "Looking for pigs, looking for chickens",
+      "image": "assets/images/tranh-15-tim-lon-tim-ga.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-16",
+      "number": 16,
+      "global_number": 16,
+      "book_id": "quyen-2",
+      "chapter_number": 16,
+      "chapters_ref": "Chapter 16",
+      "title": "Finding the buffalo",
+      "image": "assets/images/tranh-16-tim-trau.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-17",
+      "number": 17,
+      "global_number": 17,
+      "book_id": "quyen-3",
+      "chapter_number": 17,
+      "chapters_ref": "Chapter 17",
+      "title": "Lang Cun Can gets married",
+      "image": "assets/images/tranh-17-lang-cun-can-lay-vo.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-18",
+      "number": 18,
+      "global_number": 18,
+      "book_id": "quyen-3",
+      "chapter_number": 18,
+      "chapters_ref": "Chapter 18",
+      "title": "Get another wife for Lang Cun Can",
+      "image": "assets/images/tranh-18-lay-vo-khac-cho-lang-cun-can.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-19",
+      "number": 19,
+      "global_number": 19,
+      "book_id": "quyen-3",
+      "chapter_number": 19,
+      "chapters_ref": "Chapter 19",
+      "title": "Giving birth to the bronze drum and Lang Cun Need to divide the land",
+      "image": "assets/images/tranh-19-de-trong-dong-va-chia-dat.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-20",
+      "number": 20,
+      "global_number": 20,
+      "book_id": "quyen-4",
+      "chapter_number": 20,
+      "chapters_ref": "Chapter 20",
+      "title": "Finding the Chu",
+      "image": "assets/images/tranh-20-tim-chu.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-21",
+      "number": 21,
+      "global_number": 21,
+      "book_id": "quyen-4",
+      "chapter_number": 21,
+      "chapters_ref": "Chapter 21",
+      "title": "Chop chu",
+      "image": "assets/images/tranh-21-chat-chu.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-22",
+      "number": 22,
+      "global_number": 22,
+      "book_id": "quyen-4",
+      "chapter_number": 22,
+      "chapters_ref": "Chapter 22",
+      "title": "Making a house",
+      "image": "assets/images/tranh-22-lam-nha-chu.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-23",
+      "number": 23,
+      "global_number": 23,
+      "book_id": "quyen-4",
+      "chapter_number": 23,
+      "chapters_ref": "Chapter 23",
+      "title": "Burning down the house",
+      "image": "assets/images/tranh-23-dot-nha-chu.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-24",
+      "number": 24,
+      "global_number": 24,
+      "book_id": "quyen-5",
+      "chapter_number": 24,
+      "chapters_ref": "Chapter 24",
+      "title": "Hunting the Giant Moon",
+      "image": "assets/images/tranh-24-san-moong-lo.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-25",
+      "number": 25,
+      "global_number": 25,
+      "book_id": "quyen-5",
+      "chapter_number": 25,
+      "chapters_ref": "Chapter 25",
+      "title": "Hunting crazy fish, hunting crazy crows",
+      "image": "assets/images/tranh-25-san-ca-dien-san-qua-dien.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-26",
+      "number": 26,
+      "global_number": 26,
+      "book_id": "quyen-5",
+      "chapter_number": 26,
+      "chapters_ref": "Chapter 26",
+      "title": "Invading the ghost field",
+      "image": "assets/images/tranh-26-giac-ma-ruong.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-27",
+      "number": 27,
+      "global_number": 27,
+      "book_id": "quyen-5",
+      "chapter_number": 27,
+      "chapters_ref": "Chapter 27",
+      "title": "The enemy is lucky, the enemy is evil",
+      "image": "assets/images/tranh-27-giac-ma-may-giac-ma-lang.png",
+      "image_generated": false
+    },
+    {
+      "id": "tranh-28",
+      "number": 28,
+      "global_number": 28,
+      "book_id": "quyen-6",
+      "chapter_number": 28,
+      "chapters_ref": "Chapter 28",
+      "title": "Bringing the king back to Dong Chi, Tam Quan Ke Cho",
+      "image": "assets/images/tranh-28-dua-vua-ve-dong-chi.png",
+      "image_generated": false
+    }
+  ],
+  "chapters": [
+    {
+      "id": "quyen-1-chuong-01",
+      "global_number": 1,
+      "book_id": "quyen-1",
+      "chapter_number": 1,
+      "section": "Act I: Opening Heaven and Earth and Origin of Race",
+      "title": "Prologue — Telling an old story",
+      "is_epilogue": false,
+      "illustration_id": "painting-01",
+      "image": "assets/images/tranh-01-mo-dau.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-01-mo-dau.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-02",
+      "global_number": 2,
+      "book_id": "quyen-1",
+      "chapter_number": 2,
+      "section": "Act I: Opening Heaven and Earth and Origin of Race",
+      "title": "Laying ground",
+      "is_epilogue": false,
+      "illustration_id": "painting-02",
+      "image": "assets/images/tranh-02-de-dat.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-02-de-dat.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-03",
+      "global_number": 3,
+      "book_id": "quyen-1",
+      "chapter_number": 3,
+      "section": "Act I: Opening Heaven and Earth and Origin of Race",
+      "title": "Giving birth to water",
+      "is_epilogue": false,
+      "illustration_id": "painting-03",
+      "image": "assets/images/tranh-03-de-nuoc.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-03-de-nuoc.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-04",
+      "global_number": 4,
+      "book_id": "quyen-1",
+      "chapter_number": 4,
+      "section": "Act I: Opening Heaven and Earth and Origin of Race",
+      "title": "Giving birth to a sycamore tree",
+      "is_epilogue": false,
+      "illustration_id": "painting-04",
+      "image": "assets/images/tranh-04-de-cay-si.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-04-de-cay-si.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-05",
+      "global_number": 5,
+      "book_id": "quyen-1",
+      "chapter_number": 5,
+      "section": "Act I: Opening Heaven and Earth and Origin of Race",
+      "title": "Giving birth",
+      "is_epilogue": false,
+      "illustration_id": "painting-05",
+      "image": "assets/images/tranh-05-de-muong.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-05-de-muong.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-06",
+      "global_number": 6,
+      "book_id": "quyen-1",
+      "chapter_number": 6,
+      "section": "Act I: Opening Heaven and Earth and Origin of Race",
+      "title": "Giving birth",
+      "is_epilogue": false,
+      "illustration_id": "painting-06",
+      "image": "assets/images/tranh-06-de-nguoi.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-06-de-nguoi.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-1-chuong-07",
+      "global_number": 7,
+      "book_id": "quyen-1",
+      "chapter_number": 7,
+      "section": "Act I: Opening Heaven and Earth and Origin of Race",
+      "title": "Divide the year into the month",
+      "is_epilogue": false,
+      "illustration_id": "painting-07",
+      "image": "assets/images/tranh-07-chia-nam-chia-thang.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-1-khai-thien-lap-dia.md"
+        },
+        "level_1": "level-1-full-text/hoi-1-khai-thien-lap-dia.md",
+        "level_2": "level-2-detailed-outline/hoi-1-khai-thien-lap-dia.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-07-chia-nam-chia-thang.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-08",
+      "global_number": 8,
+      "book_id": "quyen-2",
+      "chapter_number": 8,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Ease",
+      "is_epilogue": false,
+      "illustration_id": "painting-08",
+      "image": "assets/images/tranh-08-dit-dang.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-08-dit-dang.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-09",
+      "global_number": 9,
+      "book_id": "quyen-2",
+      "chapter_number": 9,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Lang Ta Cai",
+      "is_epilogue": false,
+      "illustration_id": "painting-09",
+      "image": "assets/images/tranh-09-lang-ta-cai.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-09-lang-ta-cai.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-10",
+      "global_number": 10,
+      "book_id": "quyen-2",
+      "chapter_number": 10,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Lang Cun Can",
+      "is_epilogue": false,
+      "illustration_id": "painting-10",
+      "image": "assets/images/tranh-10-lang-cun-can.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-10-lang-cun-can.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-11",
+      "global_number": 11,
+      "book_id": "quyen-2",
+      "chapter_number": 11,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Building Lang Cun Can's house",
+      "is_epilogue": false,
+      "illustration_id": "painting-11",
+      "image": "assets/images/tranh-11-lam-nha-lang-cun-can.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-11-lam-nha-lang-cun-can.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-12",
+      "global_number": 12,
+      "book_id": "quyen-2",
+      "chapter_number": 12,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Find fire, find water",
+      "is_epilogue": false,
+      "illustration_id": "picture-12",
+      "image": "assets/images/tranh-12-tim-lua-tim-nuoc.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-12-tim-lua-tim-nuoc.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-13",
+      "global_number": 13,
+      "book_id": "quyen-2",
+      "chapter_number": 13,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Looking for rice, looking for rice",
+      "is_epilogue": false,
+      "illustration_id": "painting-13",
+      "image": "assets/images/tranh-13-tim-com-tim-lua.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-13-tim-com-tim-lua.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-14",
+      "global_number": 14,
+      "book_id": "quyen-2",
+      "chapter_number": 14,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Looking for wine",
+      "is_epilogue": false,
+      "illustration_id": "painting-14",
+      "image": "assets/images/tranh-14-tim-ruou.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-14-tim-ruou.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-15",
+      "global_number": 15,
+      "book_id": "quyen-2",
+      "chapter_number": 15,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Looking for pigs, looking for chickens",
+      "is_epilogue": false,
+      "illustration_id": "painting-15",
+      "image": "assets/images/tranh-15-tim-lon-tim-ga.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-15-tim-lon-tim-ga.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-2-chuong-16",
+      "global_number": 16,
+      "book_id": "quyen-2",
+      "chapter_number": 16,
+      "section": "Act II: Establishing Lang, Building Muong and Creating Culture",
+      "title": "Finding the buffalo",
+      "is_epilogue": false,
+      "illustration_id": "painting-16",
+      "image": "assets/images/tranh-16-tim-trau.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-2-lap-lang-dung-muong.md"
+        },
+        "level_1": "level-1-full-text/hoi-2-lap-lang-dung-muong.md",
+        "level_2": "level-2-detailed-outline/hoi-2-lap-lang-dung-muong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-16-tim-trau.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-3-chuong-17",
+      "global_number": 17,
+      "book_id": "quyen-3",
+      "chapter_number": 17,
+      "section": "Act III: Starting a Family, Casting a Bronze Drum and Dividing the Land",
+      "title": "Lang Cun Can gets married",
+      "is_epilogue": false,
+      "illustration_id": "painting-17",
+      "image": "assets/images/tranh-17-lang-cun-can-lay-vo.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-3-lap-gia-duc-trong-dong.md"
+        },
+        "level_1": "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_2": "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-17-lang-cun-can-lay-vo.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-3-chuong-18",
+      "global_number": 18,
+      "book_id": "quyen-3",
+      "chapter_number": 18,
+      "section": "Act III: Starting a Family, Casting a Bronze Drum and Dividing the Land",
+      "title": "Get another wife for Lang Cun Can",
+      "is_epilogue": false,
+      "illustration_id": "painting-18",
+      "image": "assets/images/tranh-18-lay-vo-khac-cho-lang-cun-can.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-3-lap-gia-duc-trong-dong.md"
+        },
+        "level_1": "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_2": "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-18-lay-vo-khac-cho-lang-cun-can.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-3-chuong-19",
+      "global_number": 19,
+      "book_id": "quyen-3",
+      "chapter_number": 19,
+      "section": "Act III: Starting a Family, Casting a Bronze Drum and Dividing the Land",
+      "title": "Giving birth to the bronze drum and Lang Cun Need to divide the land",
+      "is_epilogue": false,
+      "illustration_id": "painting-19",
+      "image": "assets/images/tranh-19-de-trong-dong-va-chia-dat.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-3-lap-gia-duc-trong-dong.md"
+        },
+        "level_1": "level-1-full-text/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_2": "level-2-detailed-outline/hoi-3-lap-gia-duc-trong-dong.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-19-de-trong-dong-va-chia-dat.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-4-chuong-20",
+      "global_number": 20,
+      "book_id": "quyen-4",
+      "chapter_number": 20,
+      "section": "Act IV: The Cypress Tree Cycle — Find, Cut, Build and Burn",
+      "title": "Finding the Chu",
+      "is_epilogue": false,
+      "illustration_id": "painting-20",
+      "image": "assets/images/tranh-20-tim-chu.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-4-chu-ky-cay-chu.md"
+        },
+        "level_1": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level_2": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-20-tim-chu.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-4-chuong-21",
+      "global_number": 21,
+      "book_id": "quyen-4",
+      "chapter_number": 21,
+      "section": "Act IV: The Cypress Tree Cycle — Find, Cut, Build and Burn",
+      "title": "Chop chu",
+      "is_epilogue": false,
+      "illustration_id": "painting-21",
+      "image": "assets/images/tranh-21-chat-chu.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-4-chu-ky-cay-chu.md"
+        },
+        "level_1": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level_2": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-21-chat-chu.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-4-chuong-22",
+      "global_number": 22,
+      "book_id": "quyen-4",
+      "chapter_number": 22,
+      "section": "Act IV: The Cypress Tree Cycle — Find, Cut, Build and Burn",
+      "title": "Making a house",
+      "is_epilogue": false,
+      "illustration_id": "painting-22",
+      "image": "assets/images/tranh-22-lam-nha-chu.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-4-chu-ky-cay-chu.md"
+        },
+        "level_1": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level_2": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-22-lam-nha-chu.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-4-chuong-23",
+      "global_number": 23,
+      "book_id": "quyen-4",
+      "chapter_number": 23,
+      "section": "Act IV: The Cypress Tree Cycle — Find, Cut, Build and Burn",
+      "title": "Burning down the house",
+      "is_epilogue": false,
+      "illustration_id": "painting-23",
+      "image": "assets/images/tranh-23-dot-nha-chu.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-4-chu-ky-cay-chu.md"
+        },
+        "level_1": "level-1-full-text/hoi-4-chu-ky-cay-chu.md",
+        "level_2": "level-2-detailed-outline/hoi-4-chu-ky-cay-chu.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-23-dot-nha-chu.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-5-chuong-24",
+      "global_number": 24,
+      "book_id": "quyen-5",
+      "chapter_number": 24,
+      "section": "Chapter V: Exorcising Beasts and Suppressing Rebellions",
+      "title": "Hunting the Giant Moon",
+      "is_epilogue": false,
+      "illustration_id": "picture-24",
+      "image": "assets/images/tranh-24-san-moong-lo.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md"
+        },
+        "level_1": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_2": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-24-san-moong-lo.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-5-chuong-25",
+      "global_number": 25,
+      "book_id": "quyen-5",
+      "chapter_number": 25,
+      "section": "Chapter V: Exorcising Beasts and Suppressing Rebellions",
+      "title": "Hunting crazy fish, hunting crazy crows",
+      "is_epilogue": false,
+      "illustration_id": "picture-25",
+      "image": "assets/images/tranh-25-san-ca-dien-san-qua-dien.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md"
+        },
+        "level_1": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_2": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-25-san-ca-dien-san-qua-dien.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-5-chuong-26",
+      "global_number": 26,
+      "book_id": "quyen-5",
+      "chapter_number": 26,
+      "section": "Chapter V: Exorcising Beasts and Suppressing Rebellions",
+      "title": "Invading the ghost field",
+      "is_epilogue": false,
+      "illustration_id": "painting-26",
+      "image": "assets/images/tranh-26-giac-ma-ruong.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md"
+        },
+        "level_1": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_2": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-26-giac-ma-ruong.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-5-chuong-27",
+      "global_number": 27,
+      "book_id": "quyen-5",
+      "chapter_number": 27,
+      "section": "Chapter V: Exorcising Beasts and Suppressing Rebellions",
+      "title": "The enemy is lucky, the enemy is evil",
+      "is_epilogue": false,
+      "illustration_id": "painting-27",
+      "image": "assets/images/tranh-27-giac-ma-may-giac-ma-lang.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-5-tru-thu-du-diep-giac-ma.md"
+        },
+        "level_1": "level-1-full-text/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_2": "level-2-detailed-outline/hoi-5-tru-thu-du-diep-giac-ma.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-27-giac-ma-may-giac-ma-lang.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    },
+    {
+      "id": "quyen-6-chuong-28",
+      "global_number": 28,
+      "book_id": "quyen-6",
+      "chapter_number": 28,
+      "section": "Chapter VI: Triumph of Copper Lead Tam Quan Ke Cho",
+      "title": "Bringing the king back to Dong Chi, Tam Quan Ke Cho",
+      "is_epilogue": false,
+      "illustration_id": "painting-28",
+      "image": "assets/images/tranh-28-dua-vua-ve-dong-chi.png",
+      "levels": {
+        "level_0": {
+          "overview": "level-0-context/00-epic-soul-overview.md",
+          "book": "level-0-context/hoi-6-khai-hoan-dong-chi.md"
+        },
+        "level_1": "level-1-full-text/hoi-6-khai-hoan-dong-chi.md",
+        "level_2": "level-2-detailed-outline/hoi-6-khai-hoan-dong-chi.md",
+        "level_3": "level-3-summary-outline/chapter-summaries.md",
+        "level_4": {
+          "gallery": "level-4-visual-prompts/illustration-gallery.md",
+          "image": "assets/images/tranh-28-dua-vua-ve-dong-chi.png",
+          "prompt_spec": "level-4-visual-prompts/prompts-28-scenes.md"
+        }
+      }
+    }
+  ]
+}

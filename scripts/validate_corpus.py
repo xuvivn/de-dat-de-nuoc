@@ -3,6 +3,7 @@
 
 Cách dùng:
     python3 scripts/validate_corpus.py --draft   # cho phép thiếu tệp đang biên soạn
+    python3 scripts/validate_corpus.py --locale en --draft  # kiểm tra locale tiếng Anh
     python3 scripts/validate_corpus.py           # yêu cầu đầy đủ 28/28 chương, 28/28 ảnh
 """
 
@@ -15,10 +16,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-INDEX_PATH = ROOT / "locales" / "vi" / "story-index.json"
-
-CHAPTER_HEADING = re.compile(r"^###\s+Chương\s+(\d+)\s*[:：]\s*(.+?)\s*$")
-BOOK_HEADING = re.compile(r"^##\s+(?:Hồi|Quyển)\s+([IVX]+)\b[^\n]*$")
+CHAPTER_HEADING = re.compile(r"^###\s+(?:Chương|Chapter)\s+(\d+)\s*[:：]\s*(.+?)\s*$")
+BOOK_HEADING = re.compile(r"^##\s+(?:Hồi|Quyển|Book)\s+([IVX]+)\b[^\n]*$")
 LEVEL0_SECTION = re.compile(r"^##\s+([1-5])\.\s*(.+?)\s*$", re.MULTILINE)
 MARKDOWN_MARKERS = ("#", "-", "*", ">", "|", "!", "`", "---")
 PLACEHOLDERS = ("TODO", "TBD", "FIXME", "Lorem ipsum", "XXX")
@@ -130,7 +129,7 @@ def check_verse_lines(markdown: str, label: str, report: Report) -> list[int]:
     long_lines: list[int] = []
     in_body = False
     for line in markdown.replace("\r\n", "\n").split("\n"):
-        if line.startswith("#### Lưu ý giọng kể"):
+        if line.startswith(("#### Lưu ý giọng kể", "#### Narration note")):
             in_body = False
         if CHAPTER_HEADING.match(line):
             in_body = True
@@ -151,7 +150,9 @@ def check_verse_lines(markdown: str, label: str, report: Report) -> list[int]:
     return long_lines
 
 
-def check_level1_book(path: Path, expected: dict[int, str], report: Report) -> None:
+def check_level1_book(
+    path: Path, expected: dict[int, str], report: Report, locale: str
+) -> None:
     text = read_text(path, report)
     if text is None:
         return
@@ -184,7 +185,9 @@ def check_level1_book(path: Path, expected: dict[int, str], report: Report) -> N
     check_verse_lines(text, relative(path), report)
 
 
-def check_level2_book(path: Path, expected: dict[int, str], report: Report) -> None:
+def check_level2_book(
+    path: Path, expected: dict[int, str], report: Report, locale: str
+) -> None:
     text = read_text(path, report)
     if text is None:
         return
@@ -204,9 +207,20 @@ def check_level2_book(path: Path, expected: dict[int, str], report: Report) -> N
                 f"    index: {title}"
             )
         body = chapter["body"]
-        for label in ("Nhân vật", "Diễn biến", "Ý nghĩa"):
-            if label.lower() not in body.lower():
-                report.warn(f"{relative(path)}: chương {number} thiếu khối “{label}”")
+        label_groups = (
+            (("Nhân vật",), ("Diễn biến",), ("Ý nghĩa",))
+            if locale == "vi"
+            else (
+                ("Characters", "Character", "Central Characters"),
+                ("Meaning", "Significance"),
+            )
+        )
+        for labels in label_groups:
+            if not any(label.lower() in body.lower() for label in labels):
+                report.warn(
+                    f"{relative(path)}: chương {number} thiếu khối "
+                    f"“{' / '.join(labels)}”"
+                )
     missing = sorted(set(expected) - seen)
     if missing:
         report.missing(f"{relative(path)}: thiếu chương {missing}")
@@ -303,17 +317,24 @@ def find_placeholders(path: Path, report: Report) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--draft", action="store_true", help="cho phép thiếu tệp đang biên soạn")
+    parser.add_argument(
+        "--locale",
+        default="vi",
+        help="mã locale cần kiểm tra (mặc định: vi)",
+    )
     args = parser.parse_args()
     report = Report(draft=args.draft)
+    locale_root = ROOT / "locales" / args.locale
+    index_path = locale_root / "story-index.json"
 
-    if not INDEX_PATH.exists():
-        print(f"x Không tìm thấy {relative(INDEX_PATH)}")
+    if not index_path.exists():
+        print(f"x Không tìm thấy {relative(index_path)}")
         return 1
 
     try:
-        index = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+        index = json.loads(index_path.read_text(encoding="utf-8"))
     except json.JSONDecodeError as exc:
-        print(f"x JSON không hợp lệ trong {relative(INDEX_PATH)}: {exc}")
+        print(f"x JSON không hợp lệ trong {relative(index_path)}: {exc}")
         return 1
 
     chapters = index.get("chapters", [])
@@ -355,26 +376,26 @@ def main() -> int:
 
     # Level 1
     for book in books:
-        path = ROOT / "locales" / "vi" / book["level_1_file"]
-        check_level1_book(path, title_by_book[book["id"]], report)
+        path = locale_root / book["level_1_file"]
+        check_level1_book(path, title_by_book[book["id"]], report, args.locale)
 
     # Level 2
     for book in books:
-        path = ROOT / "locales" / "vi" / book["level_2_file"]
-        check_level2_book(path, title_by_book[book["id"]], report)
+        path = locale_root / book["level_2_file"]
+        check_level2_book(path, title_by_book[book["id"]], report, args.locale)
 
     # Level 3
-    check_level3(ROOT / "locales" / "vi" / "level-3-summary-outline" / "chapter-summaries.md", chapters, report)
+    check_level3(locale_root / "level-3-summary-outline" / "chapter-summaries.md", chapters, report)
 
     # Level 0
     level0 = index.get("levels", [{}])[0]
     if level0.get("overview_file"):
-        check_level0_overview(ROOT / "locales" / "vi" / level0["overview_file"], report)
+        check_level0_overview(locale_root / level0["overview_file"], report)
     for book in books:
-        check_level0_overview(ROOT / "locales" / "vi" / book["level_0_file"], report)
+        check_level0_overview(locale_root / book["level_0_file"], report)
     source_text = index.get("source_text")
     if source_text:
-        source_path = ROOT / "locales" / "vi" / source_text
+        source_path = locale_root / source_text
         read_text(source_path, report)
         root_source = ROOT / "Đẻ đất đẻ nước.md"
         if root_source.exists():
@@ -383,7 +404,7 @@ def main() -> int:
         if source_text not in ancient_files:
             report.error("source_text chưa được đăng ký trong ancient_books của Level 0")
     for ancient in level0.get("ancient_books", []):
-        path = ROOT / "locales" / "vi" / ancient["file"]
+        path = locale_root / ancient["file"]
         read_text(path, report)
 
     # Level 4
@@ -391,13 +412,14 @@ def main() -> int:
     level4 = index.get("levels", [{}, {}, {}, {}, {}])[4]
     for key in ("gallery_file", "prompt_spec_file"):
         if level4.get(key):
-            read_text(ROOT / "locales" / "vi" / level4[key], report)
+            read_text(locale_root / level4[key], report)
 
     # Placeholders trong các tệp đã có
-    for path in (ROOT / "locales" / "vi").rglob("*.md"):
+    for path in locale_root.rglob("*.md"):
         find_placeholders(path, report)
 
     print("=== Đẻ Đất Đẻ Nước · kiểm tra kho dữ liệu ===")
+    print(f"Locale: {args.locale}")
     print(f"Chế độ: {'draft' if args.draft else 'đầy đủ'}")
     print(f"Hồi: {len(books)} · Chương: {len(chapters)} · Tranh: {len(illustrations)}")
     print()

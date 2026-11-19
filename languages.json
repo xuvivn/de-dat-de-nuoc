@@ -19,6 +19,16 @@
       "readme": "locales/vi/README.md",
       "index_file": "locales/vi/story-index.json",
       "base_dir": "locales/vi"
+    },
+    {
+      "code": "en",
+      "bcp47": "en",
+      "name": "English",
+      "native_name": "English",
+      "title": "The Birth of Earth and Water — Five-Level Epic Storytelling Collection",
+      "readme": "locales/en/README.md",
+      "index_file": "locales/en/story-index.json",
+      "base_dir": "locales/en"
     }
   ]
 }
