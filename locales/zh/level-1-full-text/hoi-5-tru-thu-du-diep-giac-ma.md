@@ -5,147 +5,147 @@
 
 ### 第24章：围猎 Moong Lồ
 
-When he was young, the Giant Moong was as small as a cat
-Lying in a bush of lolot leaves.
-Day one, catch a pig or a chicken
-Day two, catch buffalo and cow
-On the fourth day, make footprints with the mouth of the bowl
-Fluffy stripes
-The back is brindled with soft yellow leopard.
-Moong lying on its stomach is as big as nine hot or ten hot
-The fangs are curved and sharp
-Eyes wide open with greed
-Moong roars like thunder!
+巨月亮小时候只有猫那么小
+躺在一片洛洛树叶丛中。
+第一天，抓一只猪和一只鸡
+第二天，抓水牛和牛
+第四天，用碗口留下脚印
+蓬松条纹
+柔软的黄色豹纹背。
+趴着的月亮有九热十热那么大
+獠牙弯曲而锋利
+睁大眼睛，充满贪婪
+月亮怒吼如雷！
 
-Stepping out into the field, the footprints were made of mud
-Stepping out into the forest, footprints are the size of plow furrows!
-Moong grows bigger every day:
-Located in the forest, called Moong an
-Breaking through the forest gate, called Moong hai
-Grinding out the root, becomes Moong honey, Moong fat
-At the root of Cho Chi, Moong four, Moong five
-Located in the crocodile forest, Moong Sau citadel
-Going into the Vau forest, becoming Moong Bay
-Jump into the guava forest and become Moong eight
-Breaking out of the agarwood forest, becoming Moong nine
-Go to the smooth tamarind forest, become Moong ten!
+踏入田野，脚印是沙子
+走进森林，脚印如犁沟大！
+月亮一天比一天大：
+位于森林中，名为Moong one
+出林门，名曰月海
+从根部研磨，成为月蜜、月脂
+去cho chi的根源，成为梦四、梦五
+位于望秀市鳄鱼森林
+穿过Vau森林，成为Moong Bay
+跳入番石榴林，成为梦八
+走出沉香林，成为梦九
+前往光滑的罗望子森林，成为梦十！
 
-As a child, he caught tadpoles in pond mud
-When he grew up, he ate buffalo, cows, and horses
-Pounce on people
-Gouge out your eyes, eat your face, eat your hands!
-Wading in the crevices doesn't get your nails wet
-Going down to the river doesn't get my chest wet
-Going into the blue lagoon without getting my butt wet!
-Moong stood on the horizon
-Moong sat and occupied nine fields
-Moong woke up and took ten breaths, it sounded terrible
-Claws as sharp as ivory spikes
-The claws are crooked like nails
-Fangs as sharp as sharpened knives
-Moong's roar shook the clouds
-Moong screams blindly!
+小时候在池塘泥里抓过蝌蚪
+长大后我吃水牛、牛、马
+抢人
+戳出你的眼睛，吃你的脸，吃你的手！
+在不弄湿指甲的情况下结婚
+下河去不会弄湿你的胸口
+进入蓝色泻湖而不弄湿屁股！
+月亮站在地平线上
+月亮坐占九田
+Moong醒来，呼吸十次，听起来很可怕
+爪子像象牙尖一样锋利
+指甲像指甲一样弯曲
+獠牙如锋利的刀一样锋利
+月亮咆哮，震动云层
+Moong尖叫到失明！
 
-It ate nine thousand green forests down
-Eat hundreds of places in the jungle and eat out:
-Chew the strawberry picker in Quan village
-Bite the duck keeper of Owl village
-Eating people from Muong Bi and Muong Lo
-Eating people from Muong Khen and Muong Khanh
-Muong Nang, Muong Vang, Muong Thang, Muong Dong!
-Eat Lang Cun Khuong's wife while visiting her grandmother
-Eating Cuckoo's wife catches snails in the lagoon!
+它吃掉了九千片绿色森林
+吃遍丛林数百个地方，外出就餐：
+ 泉村咀嚼采摘草莓
+咬猫头鹰村的鸭子饲养员
+吃Muong Bi和Muong Lo的人
+吃Muong Khen和Muong Khanh的人
+Muong Nang、Muong Vang、Muong Thang、Muong Dong！
+看望Lang Cun Khuong的妻子时吃她的奶奶
+吃Cuon Khoi的妻子在泻湖抓蜗牛！
 
-Chu Chuong Muong Nuoc meets to discuss:
-- "Early tomorrow morning
-If someone has no rice in their house, they pour rice into the mill
-If anyone doesn't have fish, slap the pond and catch them!
-Bring a gun and a knife to hunt Moong early
-Knit a hunting net of three thousand and seven eyes
-Tighten the rattan rope to tie the barrel
-Tighten the rope and tie the rope!"
+Chu Chuong Muong Nuoc 开会讨论：
+-“明天一早
+如果家里没有米，就应该把米磨碎
+谁没有鱼，就拍池塘抓鱼吧！
+带上枪和刀早点追捕Moong
+织三千零七眼猎网
+拉紧藤绳绑住桶
+拉紧绳子！”
 
-In the morning:
-Bring a large pack of dogs, a group of hunting dogs
-Carrying a net of three thousand and seven meshes
-Overcoming ten slopes and hundreds of passes
-Arriving at the big iron hill, we met a place of ignorance and ignorance.
-The Moong mark leads into the Vau forest and Gian forest
-Hunters clicked each other's hands gingerly
-When encountering a tree, do not dare to cut its branches
-Afraid of the crazy Moong!
-Hiding down the valley, crossing the valley stream
-Sign back up the pass, speed up the pass.
+早上：
+带一大群狗，一群猎犬
+背着三千零七目的网
+翻越十个斜坡和数百个山口
+前往大铁山，遇见一个愚昧无知的地方。
+Moong标志通往Vau森林和Gianh森林
+猎人小心翼翼地互相敲击双手
+遇到一棵树，我不敢砍它的枝条
+害怕疯狂的Moong！
+向山谷而下，跨过山谷溪流
+回头传球，加速传球。
 
-Suddenly I saw a big Moong lying in front of me:
-I am equal to the hill
-Breasts with termite mounds
-Moong's fur is striped
-Moong's eyes glowed pink
-Moong's tail is made of a bamboo tree
-Claws as sharp as locust thorns!
-Moong lies down, the baby hill doesn't cover all the hips
-When I sit down, the big mountain doesn't cover my entire back!
+突然看到一个大月亮躺在我面前：
+我有小山那么大
+与白蚁丘呼吸
+ Moong的皮毛是条纹的
+Moong的眼睛发出粉红色的光芒
+月亮的尾巴是用竹子做的
+爪子锋利如槐刺！
+当我躺下时，婴儿山遮不住我的臀部
+坐下来，大山遮不住我的整个后背！
 
-The hunter returned to report the news.
-Lang Cun Khuong and Cun Tang share the same chapter:
-The cheers from below shouted
-The hunting gong above knocks down!
-Moong Lo was startled and confused:
-The person on duty at the river head
-People rushed to the mound
-The dog barked loudly
-Gong phang tangled!
-Moong Lo jumped out of the net and slipped out of the ring
-Tuon ran quickly, trying to run as long as possible
-Get right into **Kem Mountain**
-Get into **Khen Mountain**!
-The clamp cave is narrow
-Khen Mountain did not forgive, Kem rock held tightly
-Waiting for the cycle to come back!
-The stick fell like a roast
-The stick comes down like thunder!
-Use a spear to stab, use a javelin, use a knife to slash
-Kill the giant Moong
-Kill that bad Moong!
+猎人回来报告消息。
+Lang Cun Khuong 和 Cun Tang 同一章：
+底下的欢呼声响起
+上方的猎锣敲落！
+Moong Lo 又惊又乱：
+河头值班人员
+人冲上土堆
+狗大声叫
+纠结的宫旁！
+Moong Lo 跳网并掉出擂台
+跑得快，尽量跑得远
+直接进入**凯姆山**
+爬进**肯山**！
+夹洞狭窄
+肯山不饶恕，肯石紧握
+等待章节回来！
+棍子像烤肉一样落下来
+棍子如雷霆般落下！
+用矛挑、用标枪、用刀砍
+刺死巨月
+杀死坏月亮！
 
-Moong died, the Lang family called the whole village to build it up
-The lower half of the body carries the head
-Half of the body carries the upper head
-The carrying pole is warped and twisted
-Procession to Cam, return to Muong to slaughter and share:
-The **Lao** people came first
-Get the skin on the hip
-So Laotian girls weave beautiful lagoons like cotton.
-The **Muong Trong** people came next
-Peel off the skin on the back
-You should know how to embroider horseback images.
-The **Tay** people arrived late
-Get the skin from the tail
-I only know how to embroider images of worms and bees.
-The people of **Muong** are of one mind
-Hold the skin in front of your chest
-So Muong girls weaved deer skirts
-Skillfully embroidered patterns on the chest.
-**Kinh** people and **Cho** people live far away
-There's only mixed meat, intestines, and fat left
-Chop the string and bring it home
-So Kinh people know how to cook meat very well
-Make a lot of traditional food from upper and lower villages!
+Moong死了，Lang家族召集全村人来建造它
+半个身体承载着下头
+一半人顶着上头
+承载梁翘曲、扭曲
+加工至Cam，返回Muong宰杀分享：
+**老挝**人先来
+获取臀部皮肤
+老挝姑娘们像棉花一样编织美丽的泻湖。
+ **Muong Trong** 人紧随其后
+剥掉背面的皮
+应该会绣马背图案。
+**Tay**人迟到了
+把尾巴上的皮取下来
+只懂得绣虫子和蜜蜂的图案。
+**Muong**人民同心同德
+将皮肤放在胸前
+于是芒族姑娘织鹿裙
+胸前绣有清晰的图案。
+**京族**人和**市场**人住得很远
+只剩下杂肉、肠子、脂肪了
+拉紧绳子带回家
+所以京族人很会煮肉
+制作很多上村和下村的传统美食！
 
-The **Muong Ngoai** people were busy with work so they came last
-All that remains is the busy butchery yard
-Hearing this, I looked at the grass and sighed and left.
-When the wind blows, the wind flows
-Coal ash dust flew loudly
-The sky was dark, black dust covered my face
-Full lips covered!
-Can't see the Moong falling apart with my own eyes
-Again, the ash and wind teased me
-I have to bring my dark lips back to the mountains and the village.
+**Muong Ngoai** 工作很忙，所以他是最后一个
+只剩下繁忙的屠宰场
+听了很遗憾，看着草丛叹了口气就离开了。
+风吹过，风流过
+煤灰粉尘飞扬声大
+天色暗下来，黑色的灰尘遮住了我的脸
+捂住嘴唇！
+你无法亲眼看到月亮崩溃
+再次，灰尘和风戏弄了我
+我必须把我的黑唇带回山里，回到乡村。
 
-Moong Lo hunting is over
-Listen again to the story of Crazy Fish Hunting, Crazy Crow Hunting!
+Moong Lo狩猎故事结束了
+再听一遍疯狂捕鱼、疯狂捕乌鸦的故事！
 
 #### 讲述语气提示
 - **计数成长：** Moong 一到 Moong 十逐级加速，表现巨兽膨胀。
@@ -154,119 +154,119 @@ Listen again to the story of Crazy Fish Hunting, Crazy Crow Hunting!
 
 ### 第25章：猎疯鱼、猎疯鸦
 
-At the butchering ground for the Moong Lo
-If it falls, there are still two or three lungs left.
-The dogs ate the lung
-Turned into a crazy dog, a rabid dog!
-Dogs bite and bite
-Throughout the cycle, there are longings for water
-Everyone who sees it is scared, everyone who sees it is disgusted.
-Huong people must kill all mad dogs
-Throw the body into the stream or river
-The dog's body floated adrift.
+在Moong Lo的屠宰场
+如果摔倒了，就剩下两三个肺了。
+狗吃了肺
+变成疯狗，疯狗！
+狗咬伤、咬伤
+整个水循环
+见者皆惧，见者皆恶心。
+芒族人必须杀死所有疯狗
+将尸体扔进溪流或河流中
+狗的身体飘了起来。
 
-The fish swallows one meal
-The fish vomited one day
-Spinning fish turns into wild fish, crazy fish!
-Wild fish at the beginning of Ai River
-On the Am River strip
-At the source of Con River and Cai River
-In the middle of Buoi River
-Every river is full of crazy fish and monster fish!
+一顿饭吞下鱼
+鱼吐了一天
+旋转的鱼变成了野生鱼，疯狂的鱼！
+艾河源头的野生鱼
+Am河地带
+昆仑河、蔡河源头
+Buoi河中央
+每条河流都充满了疯狂的鱼和怪物鱼！
 
-That day Cun Khuong went fishing
-Cun Toi and Cun Tang invited each other to cast nets.
-Suddenly, the ditch fish gathered
-The female fish flocked in
-The flock of sweet fish came
-Outnumbered by ants, the river is covered!
-I bite my hips, I rush into my stomach
-I press my back and bite, I press my joints
-I pressed my hand and bit it
-I look for a forehead stab, a chin slap
-The child clasped it in front of his chest, ending with his earlobe
-I chew my eyelids and bite the bridge of my nose!
-The flock swims along with seven fins that stiffen their arms!
+那天 Cun Khuong 去钓鱼
+村台、村塘互相邀请撒网。
+突然，沟里的鱼儿聚集了
+雌鱼蜂拥而至
+成群的香鱼涌来
+ 寡不敌众，覆盖河流！
+你咬你的臀部，你冲你的胃
+你压背咬，你压关节
+我压住手咬了一口
+我找额头来刺，下巴来巴掌
+孩子捂着胸口，直到耳垂
+我眨着眼皮咬着鼻梁！
+牛群带着七个僵硬的臂鳍游泳！
 
-Cun Khuong's eyes darkened and his eyebrows darkened
-Cun Toi, Cun Tang's hands are swollen and bleeding!
-Find a good knife or sword and leave it at home
-Remember the bow and arrow of the lotus crossbow
-Don't take it with you!
-Cun Khuong's feet kicked the water
-Cun Toi burst into tears
-Cun Tang gulped down river water
-Cun Khuong quickly shouted:
-- "Hey brothers, Muong Trong and Muong Ngoai!
-Bring a sharp sword and long knife
-Come out and kill wild fish, crazy fish and save us!"
+Cun Khuong 加深了眼睛和眉毛
+Cun Toi、Cun Tang的手肿了还在流血！
+找把好刀或剑，把它留在家里
+还记得莲花弩三的箭翼吗
+不要随身携带！
+Cun Khuong的脚踢水
+Cun Toi 泪流满面
+村塘大口喝下河水
+Cun Khuong 连忙喊道：
+-“嘿兄弟们，Muong Trong 和 Muong Ngoai！
+带上锋利的剑和长刀
+出来杀野鱼，疯狂的鱼，救救我们！”
 
-Muong Ram pulled away loudly
-Muong Roc rushed out
-Sword hand, knife hand
-Jump into the river and kill crazy fish!
-The sweet fish general rushed in
-Surrounded by Muong people:
-One slashes vertically, the other punishes horizontally
-The ditch fish drifted left
-The female fish drifted behind
-The appearance of the sweet fish intends to dive into the deep abyss
-His neck was beheaded by Muong people
-Drag the body to the shore to dry in the sun!
-Cun Tang had to be carried home on a stretcher
-Lang Cun Khuong's legs limped.
+Muong Ram 大声拉开
+Muong Roc冲了出去
+剑手，刀手
+跳进河里，杀死疯狂的鱼！
+一条香鱼的身影扑面而来
+被芒人围攻：
+有的人竖砍，有的人横砍
+沟里的鱼向左漂
+母鱼漂到后面
+香鱼将军打算潜入深渊
+被芒人砍头
+把尸体拖到岸边晒干！
+唐存被担架抬回家
+Lang Cun Khuong 的腿软了。
 
-The next day it was hot and sunny
-Thirsty crows search for water in the river
-Dry hair wants to find water to bathe.
-The crow smells strongly
-The crow smells a foul odor
-The crow's wings fly, the crow's mouth cries
-The whole herd came
-Seeing a dead sweet fish with a belly bloated like a drum!
-I peck my belly, I peck my head
-I eat in the front, I eat in the back.
+第二天天气晴朗
+乌鸦口渴了，到河里找水喝
+头发干枯想找水洗澡。
+乌鸦的气味很浓
+乌鸦闻起来很臭
+乌鸦翅膀扑动，乌鸦嘴哭泣
+整个牛群都来了
+看到一条死甜鱼，肚子胀得像女鼓一样！
+我啄我的肚子，我啄我的头
+我在前面吃，我在后面吃。
 
-Eat your fill and drink river water
-The crow feels pain in the head and pain in the stomach
-Fly back to Muong Ram and Muong Roc
-Perching on the roof of the mandarin's house, on areca leaves, on cool branches:
-One went "brain!"
-The two crows called "crow!"
-Five children said "ah!"
-The whole herd went "quack quack!"
-Lang Cun Khuong was dizzy
-Cun Toi, Cun Tang have a headache
-Sent his son to stay, the servant went out to chase away the evil crows:
-Chasing cool branches and crows to oval branches
-Chasing oval and crow branches to crocodile and custard apple branches
-Chasing custard apple branches, crows fly to the roof
-Still calling "crow"!
+吃饱喝喝河水
+乌鸦感觉头疼、胃疼
+飞回Muong Ram 和 Muong Roc
+栖息在官房的屋顶上，栖息在槟榔叶上，栖息在凉爽的树枝上：
+一个说“大脑！”
+两只乌鸦“乌鸦！”
+五个孩子“啊！”
+整个牛群都“嘎嘎嘎嘎！”
+Lang Cun Khuong 头晕
+Cun Toi、Cun Tang 头疼
+送孩子们留下来，仆人们出去赶走邪恶的乌鸦：
+追逐凉爽的树枝和乌鸦到椭圆形的树枝
+追椭圆形树枝和乌鸦到鳄鱼树枝和释迦树枝
+追逐释迦枝，乌鸦飞上屋顶
+还在叫“乌鸦”！
 
-The more Cun Khuong heard, the angrier he became
-Cun Toi, Cun Tang have pain in their ears
-Then take the hemp leaves and string
-Soaked in smoked bamboo shoots.
-The flock of crows flew up and filled the sky
-The screams are even more deafening!
-Cun Khuong stood in a corner
-Aiming at the **chest cavity crow**
-Aim for the **crow in the head**
-Draw an arrow and shoot:
-The arrow wings fly quickly
-Plugged in front of chest!
-The crow bowed down
-Wings spread like a shirt!
+Cun Khuong越听越生气
+Cun Toi、Cun Tang 耳朵痛
+然后取麻叶和绳子
+呼吸熏竹笋。
+成群的乌鸦飞上天空
+尖叫声更加震耳欲聋！
+Cun Khuong 站在角落里
+瞄准**胸腔乌鸦**
+瞄准**头上的乌鸦**
+画箭头并射击：
+箭飞得很快
+塞在胸前！
+乌鸦跪拜
+翅膀像衬衫一样展开！
 
-All the crows flocked to the place:
-I spread my wings to support my head
-I use my beak to bite my tail feathers
-One flies below, one hovers above
-Hold the crow in the chest and head cavity
-Fly over the deep river, into the jungle.
-Cun Khuong, Cun Toi, and Cun Tang lost their anger
-Drinking wine in peace through voong windows again
-Eat outside the window.
+一大群乌鸦来了：
+我张开翅膀支撑我的头
+我用喙咬尾羽
+我在下面飞翔，我在上面盘旋
+帮助乌鸦的胸腔和头腔
+飞越深河，进入丛林。
+Cun Khuong、Cun Toi、Cun Tang 心中愤怒
+又在纸窗下安静地喝酒
+在窗外吃饭。
 
 #### 讲述语气提示
 - **连锁灾厄：** 疯狗、疯鱼、疯鸦三段紧凑衔接。
@@ -275,173 +275,173 @@ Eat outside the window.
 
 ### 第26章：田中鬼敌
 
-From the day he died, Toong In became a plant
-Become a ghost who keeps the field.
-In the morning, he was angry with Lang Cun Khuong
-Sharpen a nine-edged sword, sharpen a seven-bladed knife.
-In the afternoon, Cun Toi and Cun Tang were angry again:
-- "Speak without keeping your voice
-Eat your words and don't keep them!
-Bao left Toong In to die somewhere
-Sit and hold the field
-Be a sacred ghost and call down the rain
-Eat new rice in September and October.
-Now I have had nine rice fields
-It's been seven months of rice!
-Waiting for Lang Cun Khuong, Cun Khuong did not care
-Waiting for Cun Tang, Cun Tang did not offer food
-I hope Cun Toi and Cun Toi don't care about the incense and smoke!"
+同仁从死的那天起就变成了一棵植物
+当守场鬼。
+一大早他就生Lang Cun Khuong的气
+磨九刃剑，磨七带刀。
+下午，对Cun Toi和Cun Tang生气：
+-“毫不保留地说
+如果你食言了，你就不会遵守诺言了！
+Bao离开Toong In去死在某处
+坐稳场上
+做鬼神呼雨
+九月、十月吃新米。
+现在我已经吃了九次米饭了
+已经七个月大米了！
+等Lang Cun Khuong，Cun Khuong不在乎
+等待村塘，村塘没有提供食物
+希望Cun Toi，Cun Toi不在乎烟！”
 
-Toong In felt sad, his face turned red
-Wearing a seven-crested hat, carrying a nine-edged knife
-Run away from the hut and wade deep into the fields
-Xô entered the village intending to chop the bodies of Cun Toi and Cun Tang
-Trying to tear Lang Cun Khuong's heart!
-The tattooed guy walked into Bai hill
-Repent and go home on the hill
-Call the three spirits Cun Toi
-Call the seven souls Cun Tang
-Call Lang Cun Khuong:
-- "Where are you, please come out and be whipped by the river
-Resistant to bamboo heat, heat loss
-Accept nineteen lashes!"
+同仁难过，脸红了
+头戴七顶帽，手持九刃刀
+逃离小屋，涉水深入田野
+他进村砍倒村台和村塘的尸体
+我要撕裂Lang Cun Khuong的心了！
+纹身男进白山
+悔改回家
+召唤三灵Cun Toi
+唤七灵存堂
+致电Lang Cun Khuong：
+- “你在哪里，快出来接鞭子吧
+抗竹坏血病、凹陷坏血病
+被打十九鞭！”
 
-Toong In sat on a bamboo tree behind the house
-Feet resting on the banyan tree behind the door
-Black-headed soldiers surrounded the stairs and sides
-Red-headed soldiers surrounded the foot of the alley
-Whenever Cun comes out, he fights
-Breaking bones and crushing skulls!
-Toong In's soldiers pulled away like grass
-Damn the wind
-Aim at Lang's alley and move forward.
+同仁坐在屋后的竹树上
+把脚放在门后的榕树上
+黑头士兵包围了楼梯和侧面
+红发士兵包围了巷子脚下
+Cun一出来就打架
+简直是骨头碎裂！
+同仁士兵撤退如草
+强风块
+郎家门口。
 
-There is a soldier who is in command, and there is a soldier who is a servant
-Stand guard at the foot of the bridge and the top of the ravine
-At first I heard howling
-Another time I heard shouting
-Hear the fierce screams of ghosts!
-Looking at the ridiculous ghost, the slingshot is arrogant
-Face turned red
-Yellow devil's face meows
-Leaves bring clothes, wind brings pants
-The rumble of drums and gongs brings people into the village!
-The soldier rushed back to Cun Tang palace
-Running to Cun Khuong's house, Cun Toi reported.
+有的士兵在指挥，有的人在管理仆人
+坚守桥下、谷顶
+一开始我听到嚎叫声
+过了一会儿我听到喊叫声
+听到鬼魂的惨叫声！
+看鬼，枪都嚣张
+脸红了
+黄魔脸喵喵叫
+ 叶带来衣服，风带来裤子
+锣鼓喧天，拉进芒翁！
+士兵赶回存唐宫
+跑到Cun Khuong家，Cun Toi报告。
 
-Cun Toi asked:
-- "You touch a fox, you touch a tiger
-Or are you running around drunk when you're full and drunk?"
-Lang Cun Khuong asked again:
-- "You're in pain, you're crawling with bees
-Wasps chase away stings
-But your face is so panicked?
-Cun Tang asked again:
-- "You were scolded by someone, criticized by someone
-Who threatens, who threatens
-But the eyes are white
-Are your cheeks pale?"
+Cun Toi 问：
+-“你碰了一只狐狸，你就碰了一只老虎
+还是吃饱了就喝醉了到处乱跑？”
+Lang Cun Khuong 又问：
+-“你太饥渴了，它在爬行
+ 黄蜂可驱除螫刺
+但是你的表情这么惊慌？”
+唐存又问：
+- “你被人骂了、批评了
+谁威胁谁威胁
+但是眼睛是白色的
+你的脸颊有这么白吗？”
 
-The soldier clasped his hands and bowed
-Fill in the beginning and the end:
-- "I didn't see a fox
-Not drunk on wine or drunk on food
-No bee stings or threats from anyone!
-When watching the foot of the bridge and the source of the slot
-Seeing the demon army as crowded as ants
-From the fields, yellow smoke and black smoke flow into the countryside
-Name Lang Cun Khuong
-Calling out Cun Toi, Cun Tang
-Come, bear it, bear it!"
+士兵双手合十鞠躬
+所有的结局：
+- “我没有看到老虎或狐狸
+不醉酒或食物
+没有蜜蜂蜇伤或来自任何人的威胁！
+观察桥基和槽源时
+看到恶魔大军拥挤如蚂蚁
+从田野里，黄烟、黑烟流入乡村
+姓名 Lang Cun Khuong
+呼唤Cun Toi、Cun Tang
+来吧，承受切割，承受切割！”
 
-After listening, Cun Tang asked:
-- "The enemy from above is coming
-Or do you want to pull me back?"
-Cun Toi dismissed:
-- "The enemy is the enemy, just come out and take a look!
-Take out soldiers to cover and defend
-Stay on top and don't let the house fall apart
-Keep your position down and don't let the wall fall!
-We are not from a difficult land or a poor village
-But give in, take the loss!"
+听完后，存唐问道：
+- “上国的敌人来了
+还是想把我拉回来？”
+Cun Toi 不予理睬：
+- “敌人就是敌人，出来看看！
+让士兵掩护和防守
+抬起头，别让房子破裂
+保持这个姿势，别让墙倒塌！
+我不是来自艰苦的土地，也不是来自贫穷的村庄
+如果你放弃，你就得承受损失！”
 
-Then the sky suddenly became dark:
-Lightning causes floods
-Lightning causes rain
-People who leave must cry
-The moldy tree was crushed
-Incubating chickens must be dew
-Deer leave the road and eat leaves
-Otters follow suit
-Cows and buffaloes refuse to breathe
-Trees do not make branches
-The pot, the green one doesn't have a handle!
+就在这时，天色突然暗了下来：
+闪电引发洪水
+闪电引起降雨
+离开的人一定会哭
+发霉的树被压碎
+鸡是靠露水孵化的
+鹿离开了路，吃掉了树叶
+水獭跟着仆人
+奶牛和水牛拒绝呼吸
+草不长枝
+锅，绿色的没有把手！
 
-Lang Cun Khuong guessed immediately:
-- "It's not a foreign ghost or a strange enemy
-Toong In's father was the enemy!
-It causes anger and evil
-To fight back, to tease me!
-Dear soldiers, please calm down quickly
-Block the Bai hill army from overrunning
-Block the troops in the forest from pouring down
-Defeat the Ma Ruong Enemy!"
+Lang Cun Khuong 立刻猜到：
+- “不是外鬼，也不是陌生的敌人
+树敌的是通仁的父亲！
+会引起愤怒和邪恶
+反击，捉弄我！
+亲爱的战士们，请尽快冷静下来
+阻止白山军侵占
+阻止森林里的部队倾泻而下
+打倒魔界敌人！」
 
-Toong In sent a snake general to listen
-The snake general ran back to report:
-- "Lang's house also serves wine
-The mandarin quickly dressed
-Muong soldiers came in droves, floods!"
-Toong In urged the demon army to rush forward and ordered:
-The red ghost eats breakfast and fights towards the rising sun
-Venomous ghosts eat lunch and fight towards the setting sun
-The cobra hit the door
-A red snake with its beak drags its way through the forest
-The gold mine ghost rushed into the yard
-The eight-legged ghost climbed onto the roof!
-Scream:
-- "Hit in from the door
-Beheading, beheading
-Whoever you touch, behead that person
-Let the Lang family know how to respect themselves and keep their word!"
+同仁派蛇将军来听
+蛇将军跑回来报告：
+-《郎家也卖酒》
+橘子赶紧穿上衣服
+平芒兵蜂拥而至，洪水泛滥！”
+童仁催促鬼军冲上前，下令：
+红鬼吃早餐，向初升的太阳奋战
+毒鬼吃午饭，向着夕阳奋战
+眼镜蛇撞门
+红嘴蛇在森林中拉路
+金矿鬼冲进院子
+八脚鬼爬上了屋顶！
+大声尖叫：
+-“从门口打进来
+斩首，斩首
+碰谁就砍下他的头
+让郎家懂得讲义气，讲信用！”
 
-Next to Lang's house, Cun Khuong's army moved out to search
-Send Cun Toi soldiers to guard the garden
-The Cun Tang army held the square and held the stage.
-At night, they encountered Toong In soldiers in the middle of the field
-The dawn of a new battle:
-The trees fell loudly
-Black smoke rolls high, rolls low!
-Snakes carry each other and spray water
-The gold beak demon carried a spear and rushed in
-Red snake with beak tug of war
-The cobra crawled around his feet.
-Fly away the leaves, wake up the forest!
-Toong In chased Lang Cun Khuong
-Out to the forest of trees, to the Dragon River wharf.
+Lang身边，Cun Khuong的军队出来搜查
+指派村台部队看守花园
+存唐军守住皇宫，守住戏台。
+晚上，我们在田野中央遇到了统仁士兵
+新一天的战斗：
+树木倒下的声音很大
+黑烟滚得高，滚得低！
+蛇互相驮着、喷水
+金矿鬼拎着长矛冲了进来
+红喙蛇拔河
+眼镜蛇在腿上爬行。
+飞走树叶，唤醒森林！
+Toong In追Lang Cun Khuong
+前往森林，到达龙河码头。
 
-Lang Cun Khuong turned his back and put up his spear and sword
-Face intensely red
-Toong In's eyes widened in anger!
-Toong In pounded him with hundreds of lashes
-Lang Cun Khuong struck a hundred spears long!
-Toong In's pants were ripped and his shirt was torn
-My foot tripped over a tree and I staggered and fell!
-Lang Cun Khuong's leg was wrapped by a snake
-Still swinging the spear horizontally and vertically
-Both cheating and hitting!
-Toong In suddenly fell into the water!
-Cun Khuong intended to chase
-The servant warned: "It's not right to chase!"
-Toong In left his life as a ghost to keep the fields
-Dive straight down with the Water Palace Dragon King.
+Lang Cun Khuong转过身来，举起了枪和剑
+脸红得很厉害
+同仁惊讶地睁大眼睛！
+同仁打了一百拳
+郎存姜击出百枪长！
+同仁的裤子被撕破了，衬衫也被撕破了
+我被树绊倒了，一个踉跄，摔倒了！
+Lang Cun Khuong 的腿被蛇缠住
+仍舞枪，横刺竖刺
+只是虚张声势和打击！
+同仁突然掉进水里了！
+Cun Khuong 打算追
+仆人规劝：“追也不对！”
+同仁离开鬼魂，守住田地
+与水宫龙王一起直潜。
 
-Lang Cun Khuong withdrew his troops and returned to Muong
-Cun Toi and Cun Tang came out to welcome:
-The land is peaceful again, the village is healthy again
-The tree has green branches again, the beach is green.
-Listen to the story of Toong In's trip to Water Palace
-Causing the following Ma May and Ma Lang Enemies.
+Lang Cun Khuong 撤兵到Muong
+Cun Toi和Cun Tang出来迎接：
+土地又恢复了和平，村庄又恢复了健康
+树又绿了枝，绿了沙滩。
+听童仁去水宫的故事
+造成以下马五和马郎敌人。
 
 #### 讲述语气提示
 - **听见孤魂之怨：** Toóng Ín 开口责问时读得低缓委屈，让孩子理解“无人祭祀”的缘由。
@@ -450,178 +450,178 @@ Causing the following Ma May and Ma Lang Enemies.
 
 ### 第27章：风暴鬼敌与乡里鬼敌
 
-Toong In lost the battle and abandoned the fields
-Dive down and call the Water King
-Calling the Silver Head Water King to the Dragon King's Palace.
-The King of the Country conferred the title on Toong In
-Be a ghost and steal the road
-Be a ghost guarding the river and the wharf
-In September, we go to the fields to eat new rice
-In October, I returned to the port to drink new wine.
+同仁战败弃田
+潜入水中呼唤水王
+召唤银水水王和龙王宫。
+国王授予统仁
+做鬼抢路
+做一个守护河流和码头的幽灵
+九月，到田里去吃新米
+十月，回港饮新酒。
 
-The ghosts went out for a walk loudly
-Forcing girls to play
-Make your son play
-Taken back to camp as a soldier
-Becoming a maid at Ba Ba's mandarin's house
-Make the children look after the house
-Forcing the old man to make a square and a stage.
-Toong In wears loose pants
-Carp's dorsal stripes
-Wear beautiful clothes like the fins of a silver carp
-Clear head of catfish
-Eyes squinting sweet fish, goby fish
-Big red crest, twisting dragon back!
-Standing looking up at the field, looking down at the end of the road
-My heart still harbors hatred for Lang Cun Khuong
-Enemies of Cun Toi and Cun Tang.
+鬼魂大声出去散步
+强迫女孩子玩
+强迫男孩子玩
+送回营地当兵
+在粑粑官府当丫鬟
+让孩子看家
+强迫老人干活干活。
+同仁穿宽松的裤子
+鲤鱼背纹
+穿漂亮的衣服像鲢鱼的鳍
+鲶鱼清头
+甜鱼、虾虎鱼的眯眼
+大红冠，弯龙背！
+站着抬头看田野，低头看村头
+心里对Lang Cun Khuong仍有恨意
+Cun Toi 和 Cun Tang 都是敌人。
 
-Toong In sent a **nine-finned sweet fish** to swim in the stream to find the way
-Sai **general Ba Ba** asked for orders from King Bo Dau
-Permission to attack Lang Cun Khuong
-Block Cun Toi, Cun Tang.
-The sweet fish swam to Lang's front door
-His back was caught in a fishing net seven meters and nine casts
-Wrapped up in a ten-fathom net!
-The fish called majestically and struggled wildly
-Being pulled to shore.
-General Ba Ba woke up and saw that
-Dive in to report:
-- "The fish was in trouble and was caught and dragged out!
-Please command your troops to gradually attack the palace gate
-But King Bac Dau advised
-Don't fight for too long and harm the villagers!"
+东仁派了一条**九鳍甜鱼**到溪里游来找路
+Sai **将军Ba Ba**向Bo Dau国王请示
+允许攻击Lang Cun Khuong
+封锁坏寸、隐寸。
+香鱼游到郎家门口
+被七米九米深的渔网缠住
+ 被十噚网包裹！
+鱼儿威严地叫着，疯狂地挣扎着
+ 被拉上岸。
+粑粑将军醒来，看到了
+潜回报告：
+- “遇事的鱼被抓了，拖了出来！
+请指挥你的部队逐步进攻宫殿
+但是Bac Dau国王告诉他
+不要战斗太久，伤害村民！”
 
-Toong In was commanded by the Dragon King
-Raise water early to the foot of the hill and palace alley
-In the afternoon, the water rose up to the well!
-Catch the **lark** and ask about Cun Lang's family.
-Chien Chien said:
-- "Lang Cun Khuong is playing the main drum and small drum
-Make rice, grow flowers
-Catch sweet fish and small fish
-Catch eels, catch loaches
-Offer to house ghosts for prosperity and village ghosts for warmth
-But do not worship ghosts to keep the dress
-Don't worship the gods to protect the fields!"
+东仁受龙王指挥
+早把水提到山脚、宫巷
+下午，水涨到井里了！
+抓住**百灵鸟**，询问寸浪家人的情况。
+千千说道：
+- “Lang Cun Khuong 正在演奏主鼓和小鼓
+煮饭、种竹笋
+钓甜鱼和小鱼
+捉黄鳝、捉泥鳅
+拜宅鬼可旺财，拜村鬼可保暖
+但不要拜鬼来保住衣服
+不要崇拜守护田野的神！”
 
-Know that situation
-Toong In chose an auspicious day in July
-Along with sweet fish, Ba Ba general, lizard general
-Close the Bai hill palace
-Flood water to overwhelm the village!
-The water is flooded, flooded
-Destroying rice dunes in village alleys
-The flood flooded the whole country!
+了解情况
+同仁选了七月的吉日
+类似香鱼、巴巴将军、蜥蜴将军
+关闭白山宫
+提高洪水淹没村庄！
+水又深又满
+摧毁村庄小巷里的稻沙丘
+洪水淹没了整个国家！
 
-At that time, Diet Dang was busy hunting
-Lang Cun Can sits at the window
-Cun Toi meshes voong windows
-As for **Cun Tang**, he went to the stream to watch the stream and watch the stream.
-The fish rose to the water and surrounded and captured Cun Tang!
-Cun Tang danced with his knife and wrestled each other to dry his clothes
-Legs wrapped in ropes
-Lizard pulling hair!
-Calling Chu Chu Chu does not understand
-Calling Cun Toi is not close
-Cun Tang was tied up and dragged away by General Ba Ba
-Nose choking on water
-Headphones buzzing
-Straight to the door of King Thuy Palace!
+当时，Dit Dang 正忙着打猎
+郎存灿坐在窗边
+Cun Toi 网格纸板窗户
+只有**存堂**去溪边看溪，看溪。
+鱼浮出水面，紧紧包围并捕获了村塘！
+唐存舞刀相斗，互相摔跤晒衣服
+漂浮在腿周围
+拔毛蜥蜴！
+呼唤楚楚楚听不到
+打电话Cun Toi不近
+存唐被粑粑将军绑起来拖走
+水呛鼻子
+耳机嗡嗡响
+直达水王宫门口！
 
-Toong In has now changed form and shape:
-Human face but arms and legs striped with dragon and snake stripes
-Breast white of wolf, back white of dragon
-Wearing a red crested hat and carrying an ivory sword, he walked out.
-Cun Tang doesn't know
-I'm a brother from the same pot, same father.
-Toong In opened his mouth to reprimand:
-- "Hey Mr. Cun Tang!
-This Toong In guy is dead, dead
-So that your father can have a house at home!
-Yet he went back on his word
-Do not light incense and smoke offerings
-Refusing to offer bones or meat!
-Now Toong In is reincarnated
-Be the Dragon King's ghost!"
+Toong In 现在已经改变了形式和形状：
+人面却有龙蛇纹手脚
+白狼胸，白龙背
+头戴红色冠帽，手持象牙剑，走了出去。
+唐存不知道
+我是同锅兄弟，同父异母。
+同仁开口斥责：
+- “唐存先生啊！
+这个东仁家伙死了死了
+让我爸爸能有一个家！
+但是你却食言了
+请勿烧香供烟
+拒绝供奉骨头或肉！
+现在东仁变身了
+成为龙王的鬼魂！”
 
-After hearing this, Cun Tang got angry and scolded:
-- "Demon Dragon King, don't lie to your face!
-Toong In lives wisely and dies wisely
-Working as a god of fields and rice
-In May, I make offerings to eat the blooming rice
-September and October celebrate the death anniversary of white rice and braised fish!
-My house is not haunted by ghosts
-Have no trouble with dragons or snakes!"
+唐存听了，生气了，骂道：
+- “魔龙王，别当面撒谎！
+同仁明智地生，也明智地死
+他正在作为田和稻之神工作
+五月供养吃花米
+9月和10月庆祝白米饭和红烧鱼的忌日！
+我家没有鬼出没
+与龙蛇无关！”
 
-Toong In was angry
-Ask for General Ba Ba, the dragon general to come
-Mobilize troops of catfish and goby fish
-Gray-blue striped pants, red striped shirt
-Pulled up Cai River and Con River
-Attack the Chu Dynasty while it's still dark!
+同仁生气了
+求龙将军巴巴将军
+动员士兵捕鲶鱼、虾虎鱼
+绿灰色条纹裤、红色条纹衬衫
+拉起蔡河、昆河
+趁天黑袭击楚家！
 
-Chu chu chuong water floats, drums beat
-Pulling soldiers to fill the fields and rivers
-Go find Cun Tang.
-Lang Cun Khuong sat in the palanquin and led the way
-Arrive at Cai River wharf
-Encounter the fish army
-Purple bearded fish soldier
-So he left the palanquin and walked
-Call the army to fight!
-The red-bearded fish shouted loudly:
-- "I died unjustly
-Being a ghost, keeping the fields but being neglected
-The church is crooked and ramshackle!
-Now I am Toong In in the Water Palace!
-Do you want good or evil?
-If you do good, forgive
-Be evil and rob Lang's house!"
+Chu Chuong Muong 水浮击鼓
+拉兵填田河
+寻找存堂。
+Lang Cun Khuong 坐在轿子里带路
+抵达蔡河码头
+与鱼大军相遇
+紫胡子甜鱼兵
+于是他离开轿子走了
+抱兵作战！
+红胡子鱼大声喊道：
+- “我死得很冤枉
+ 守场幽灵却被忽视
+教堂歪歪扭扭！
+现在我在水宫了！
+你想要善还是恶？
+如果你做得好，请原谅
+恶行，抢了郎家！”
 
-Lang Cun Khuong danced with a sword tied with red cloth
-Pointing straight at the blue dragon with stripes on its red back
-Immediately recognized Toong In's transformed form
-Shouted loudly:
-- "O red dragon ghost!
-Cun Tang, you must forgive me immediately
-And our family is not familiar with it
-Dragon family, fish family!"
+Lang Cun Khuong 手持红布绑剑跳舞
+直指红背有条纹的绿龙
+立刻认出变身后的东仁
+大声喊：
+- “红龙鬼啊！
+唐存，你一定要立刻原谅我
+而且我家人也不熟悉
+龙族，鱼族！”
 
-The two sides fought amid a roaring flood:
-The sword cuts away, the sword strikes back
-Sword cuts left, sword cuts right!
-Toong In was exhausted, exhausted
-Weak knees
-Run and hide in the middle of the field.
-Lang Cun Khuong threw his sword after him
-Toong In crashed into the Cai River:
-The dead dragon rolled in the middle of the beach
-Dragon shakes sand and flies away!
-The enemy was lucky to lose and run away
-The ghosts rushed back to the river and to the wharf
-Leaving behind a striped dragon corpse
-The whole village is rotten!
+双方在洪流中激战：
+剑斩，剑斩
+剑向左砍，剑向右砍！
+同仁已经筋疲力尽，他的骨髓已经耗尽
+膝盖无力
+跑并躲在场地中央。
+Lang Cun Khuong 向他扔剑
+Toong In 坠入蔡河：
+死龙滚在海滩中央
+龙抖沙飞走！
+敌人侥幸败逃
+鬼魂们冲回河边，冲向码头
+留下条纹龙尸
+整个村子都烂了！
 
-There was a **crow** who felt sorry for the dragon
-Bring the dragon meat to Hang Trong rock
-Bringing cacti to the stone of Hang Hao pagoda
-Place a dragon image
-Standing on the roof of the house, the roof of the rock!
-The King of Heaven praises the crows for their kindness and repays the crows:
-- "From now on, who will slaughter meat in the middle of the river?
-Make a heart in the middle of the wharf
-You have to spread your heart out on the beach
-Invite the crows to eat!"
+有一只**乌鸦**为龙感到难过
+将龙肉带到Trong Cave岩石
+将仙人掌移到航浩塔的石头上
+放置龙图像
+站在房子的屋顶上，岩石的屋顶上！
+天王称赞乌鸦的恩德并报答乌鸦：
+- “从此以后，谁还去河中央宰肉呢？
+在码头中间做一颗心
+你必须向海滩敞开心扉
+请乌鸦来吃饭！”
 
-The Ma Ruong enemy stopped them
-The Ma May and Ma Lang invaders were destroyed
-The Lang family is strong
-Chu Chuong has become rich, the country has become rich!
-The matter should not be abandoned
-It's not enough to say more
-Sit back and listen to the conclusion:
-**Bring the king back to Dong Chien Tam Quan Ke Cho!**
+马如敌人已停止
+马美和马郎敌人已被消灭
+郎家实力雄厚
+楚国富强了，国家富裕了！
+东西不应该被抛弃
+多说还不够
+坐下来听听结局：
+**将国王带回Dong Chien Tam Quan Ke Cho！**
 
 #### 讲述语气提示
 - **凛冽对峙：** Cun Tàng 坚定拒绝认弟，语气不容动摇。

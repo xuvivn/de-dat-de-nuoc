@@ -5,383 +5,383 @@
 
 ### 第20章：寻 Chu 树
 
-The three Lang brothers
-Go fishing in the river
-Go fishing in the river
-Meet a group of red ants, a family of yellow ants
-Bring bronze gongs and silver drums
-The road is crowded and the buildings are crowded.
-Cun Toi looked out and asked:
-- "O those ants!
-Where to fly? It's crowded
-Bring both bronze gongs and silver drums?
-Looking for land, looking for water
-Or looking for nests, looking for prey?"
+郎三兄弟
+去河里钓鱼
+去河里钓鱼
+遇见一群红蚂蚁、黄蚂蚁
+带上铜锣银鼓
+道路拥挤，建筑物拥挤。
+村台向外望去，问道：
+- “哦，那些蚂蚁！
+飞哪里人多
+铜锣银鼓都带吗？
+寻找土地，寻找水源
+还是寻找巢穴，寻找猎物？”
 
-The ants replied:
-- "Hey old man, old man!
-He had a lot of wealth and a lot of gold
-Lots of food, servants, and residents
-I'm so happy
-But we are still inferior to us by one heaven and one earth!
-The Lang family doesn't know yet
-Haven't been able to see or admire the chu tree yet.
-We go regardless of time or day
-Crossing the great forest, regardless of the years
-Looking forward to visiting the chu tree!"
+蚂蚁们回答：
+- “嘿，村先生，郎先生！
+他很有钱，有很多黄金
+很多米、仆人和居民
+我好开心
+但还是比我们天差地别！
+郎家还不知道还不知道
+还没见过也没有见过楚树。
+我们不分时间、白天去
+穿越大森林，不分年份
+期待参观楚树！”
 
-The three Lang brothers asked:
-- "Golden chu tree or silver chu tree?
-At the beginning of the river, at the water wharf
-Or at the top of the stream, deep in the valley?"
-The ants replied:
-- "Hey Cun Toi, Cun Tang, Lang Cun Khuong!
-That chu tree is in a village bordering the land
-In Muong Nhat Heaven
-The Lang family will never come!"
+郎三兄弟问道：
+- “黄色酸辣酱还是银色酸辣酱？
+在河流或码头的起点
+还是在溪流顶端或深谷？”
+蚂蚁们回答：
+- “嘿 Cun Toi、Cun Tang、Lang Cun Khuong！
+那棵楚树在与土地接壤的一个村庄里
+在Muong Nhat Troi
+郎家不可能来！”
 
-The Lang brothers discussed:
-- "The three of us have a lot of silver and gold
-Why give in to the red and yellow ants?
-Never looked at a chu tree?"
-Please stop throwing your head at the wharf
-I left the net at the end of the river
-Let's go back and sit in the middle window, voong window
-Send people to advertise throughout the upper and lower villages:
-- "Whoever doesn't have rice, digs for rice
-Those who have not yet fished should slap the lagoon or pond
-Tomorrow morning, go look for Chu with the Lang family!"
+郎氏兄弟讨论：
+- “我们三个人有很多银子和很多金子
+为什么要屈服于红蚂蚁和黄蚂蚁？
+没看过楚树吗？”
+请在码头尽头停止抛投
+我把网留在了河的尽头
+我们去坐在中间的窗户吧，纸板窗
+派人到上下村做广告：
+- “谁没有米，就去挖米
+还没钓鱼的，拍拍泻湖和池塘
+明天一早，就跟郎家一起去找楚！”
 
-Listen to three gong rings, nine gong rings
-Chu Chuong felt the water pulling him away
-When hungry, eat rice and fish packages
-Thirst to drink spring and stream water
-Passing through seven forests, nine forests
-In the middle of the road, he encountered children herding buffaloes.
-Cun Khuong took the lead and asked:
-- "Hey kids!
-Which stream has snails?
-Which rock has the potato subject?
-Inner hill or outer hill
-There are stone currant trees and bronze currant leaves
-Brass cotton, tin balls?"
+听三锣响、九锣响
+Chu Chuong 正在把水拉走
+饿了就吃米饭包鱼
+渴饮溪流溪水
+穿越七森林九森林
+在路中间，他遇到了放牛的孩子。
+Cun Khuong 带头问道：
+- “嘿孩子们！
+哪条溪流有蜗牛？
+哪个种族有土豆科目？
+内山还是外山
+有石柏树和铜柏叶
+黄铜棉，锡球？”
 
-The children smiled and replied:
-- "Grandpa, Muong!
-Every stream has no snails
-Which rock doesn't like potatoes?
-Every mountain has its own fate and demise!
-January blooms
-February and March bear fruit
-April and May are ripe and full of red branches
-If you need something, just come in and get it!"
-Cun Khuong shook his head:
-- "That thing is a chute tree, chutney leaves
-Chu Sour is eaten seasonally
-I don't want it!"
+孩子们笑着回答：
+- “爷爷，muong！
+每条溪流都没有蜗牛
+哪种水果比土豆更好？
+每一座山都有它的高低！
+一月开花
+二月三月硕果累累
+四五月，枝头红熟
+如果你需要什么东西，就进来拿吧！”
+Cun Khuong 摇头：
+- “那东西是一棵酸辣酱树，酸酸辣酱叶
+Chu Chua 是季节性的
+我不想接受！”
 
-The three brothers and Chu Chuong pulled away noisily
-Sleeping on Ri Lay hill for twelve months
-Sleeping on Lai Lang hill for twelve days
-I can't see the tree
-It doesn't look good all the time!
-Turning back, I saw a rice tree in the middle of the field
-See the bamboo tree in front of the door
-Thought it was a stone gourd tree, with copper gourd leaves
-Carry ax three and ax seven to cut
-Cutting down trees does not cut down the roots
-The roots are not uprooted
-Dragging the chu to kill one hundred male buffaloes
-One hundred cows died all the time
-But it doesn't move!
-They returned to Ri Lay and Lai Lang
-Find the night, find the day
-Still only see slopes and potatoes
-Can't see the shadow of the tree.
+三兄弟和楚闯吵吵嚷嚷地开走了
+在Ri Lay山上睡了十二个月
+睡莱朗山十二天
+我看不到树
+一直都不好看！
+回头看到田野中央有一棵稻树
+看到门前的东方树
+还以为是石醋栗树，长着铜葫芦叶
+携带三斧和七斧砍伐
+砍树不砍根
+根未连根拔起
+拉楚杀一百头公水牛
+一百头牛一直死
+但它不动！
+他们回到Ri Lay、Lai Lang
+找到夜晚，找到白天
+还是只看到斜坡和土豆
+看不到楚树的影子。
 
-That year, the Lang family had many servants and residents
-**Tam Tach** is the one who keeps the fields
-Gentle, good manners
-Beloved by Lang Cun Khuong
-Early in the afternoon, I followed Lang to go deer hunting
-Go down to the river to dive and catch fish
-Sunny days catch bats, drizzly rain catches mice.
-One day Cun Khuong gave it to Tam Tach
-Visited my wife for three days
-Visit your child three times.
-While at the door of the house, I suddenly heard the sound of a gong
-Hear the sound of the seventh gong calling for assembly in the distance!
-Tam Tach hurriedly set out
-About Tam Quan Ke Cho Copper Lead.
+那一年，郎家有很多下人、住户
+特别是 **Tam Tach** 是负责守田的人
+温柔，有礼貌
+Lang Cun Khuong 的挚爱
+下午一早，跟着郎去猎鹿
+下河去潜水抓鱼
+晴天捉蝙蝠，毛毛细雨捉老鼠。
+有一天，Cun Khuong 送给 Tam Tach
+探望我妻子三天
+探望孩子三遍。
+到了家门口，突然听到锣声
+听见远处传来第七声集合锣声！
+谭达急忙出发
+关于 Tam Quan Ke Cho 铜铅。
 
-The road is only halfway through
-Xa is only halfway through the field
-Hearing the sound of the gong went a long way!
-When he returned to his wife, he was afraid that Lang would punish him
-Follow the water line late
-I'm also afraid that Lang will arrest me.
-Thinking about it, he had no choice but to walk along Bai Kha street
-Carrying a slingshot in one hand and carrying a quiver on the back
-Feet hit a stone and didn't fall
-Leaves shake his shoulders without flinching.
-Midnight passed through the slope
-Hungry, thirsty
-Go to Ngoc Truong, Golden Lane
-Through Nang Truong, Dong Khoi
-Go to the village and ask for food to eat to stay healthy
-Drink water to cool down.
+路只走了一半
+Xa 仅穿过场地的一半
+听到锣声已经走了很远了！
+回到老婆身边，我怕郎会惩罚我
+晚走水道
+我也害怕郎会惩罚我。
+想着想着，他只好沿着白卡街走去。
+一手持弹弓，背一箭袋
+脚被石头绊倒，没有摔倒
+叶子毫不犹豫地摇了摇头。
+午夜穿过斜坡
+又饿又渴
+前往黄金巷玉学校
+经过 Nang Truong, Dong Khoi
+去Muong要饭才能吃得健康
+喝水清新口气。
 
-Arrive at Muong Vang
-Meet the girls cultivating the lowland fields
-Picking green strawberry leaves.
-Tam Tach stopped at the bridge and asked:
-- "Hey kids!
-Transplanted at the source of banyan trees and dead trees
-Have you seen any areas with tall trees?
-Stone currant tree, bronze currant leaves
-Brass cotton, tin balls
-Please tell me!”
-The most beautiful girl in the line looked at him meaningfully:
-- "There are many things in that valley, many things
-Ripe red fruit
-In April, eat the peel and remove the skin
-May and June eat the skin and leave the heart."
-Tam Tach shook his head:
-- "That family name is red chu, sour chu
-It's not what I'm looking for!"
-The girls joked:
-- "You're a boy, why are you looking for fruit?
-If you're not married yet, why look for roots?
-Tired of the body, tired of the body?
-Tam Tach replied gently:
-- "I'm old, have a wife and children
-No more youth
-Don't retort!"
+抵达Muong Vang
+来认识一下耕种低地的女孩们
+采摘青翠的桑叶。
+Tam Tach 在桥边停下来问道：
+- “嘿孩子们！
+榕树、枯树源头移植
+你见过有高大树木的地方吗？
+石醋栗树、青铜醋栗叶
+黄铜棉、锡球
+请告诉我！”
+队伍中最漂亮的一个女孩意味深长地看着他：
+- “那个山谷里有很多东西，很多东西
+成熟的红色水果
+四月，吃皮去皮
+五月和六月会吃掉你的皮，留下你的心。”
+Tam Tach 摇头：
+- “那个姓红楚，酸楚
+这不是我要找的！”
+女孩们开玩笑说：
+- “你是个男孩，为什么要找水果？
+还没结婚干嘛要寻根呢？
+身体累了，身体累了？
+Tam Tach 温和地回答：
+- “我老了，有老婆孩子了
+不再有青春口红
+别反驳！”
 
-The mouth says go away
-Through the sapphire forest, the bamboo forest
-The sky was dark and hazy
-I can't see clearly when I raise my hand
-One body in the middle of the mountain
-Eyes half-closed, ready to sleep.
-Suddenly, on a branch, there was a **howl** making a clear sound
-Tam Tach was startled
-Raise the crossbow and install arrows to shoot.
-Tu howl stood still, tapped his beak and begged:
-- "Dear people, don't shoot me!
-Don't kill me and pity me!
-Whatever you want, let me tell you."
-Tam Tach withdrew his name
-Ask for directions to the rock chu tree and bronze chu leaves.
-Tu Hu replied:
-- "There are people who know the truth about Muong Ong path:
-The chu tree is in front of Mr. Cai Da's gate
-Behind Dao Ky Ong's house!
-The road to get there is full of rivers and many fields
-Through steep slopes and bamboo forests
-Through many fields, many streams
-Just go towards the big forest
-The path of the forest is foolish to walk."
+用嘴说再见
+穿过蓝宝石林和竹林
+天空阴暗而朦胧
+举起手看不清楚
+半山的尸体
+眼睛半闭，准备睡觉。
+树枝上突然传来一声清晰的**嚎叫**
+Tam Tach 吓了一跳
+举起带箭的弩，打算射击。
+嚎叫，站着不动，拍喙乞讨：
+- “亲爱的，别开枪打我！
+别杀我可怜我！
+我会告诉你你想要什么。”
+Tam Tach 撤回名字
+询问前往岩楚树和青铜楚叶的路线。
+屠何 回复:
+- “有人真正了解 Muong Ong 路线：
+蔡达先生门前的楚树
+Dao Ky Ong 家后面！
+去那里的路都是河流和田野
+穿过陡坡和竹林
+穿过许多田野和许多溪流
+往大森林走去
+走在无明森林的路上。”
 
-Meet the junction down to Muong Quick
-The orangutan god **Pair of Noong** came out of the bush:
-- "That person quickly come here with me
-If it is healthy, then the third glue
-I'm the first glue!"
-Tam Tach slowly said:
-- "That sow from that hill!
-You have claws and fangs
-Blue eyes, red nose
-Leave me alone to sleep
-Why are you banging the tree so loudly?"
-The Noong couple grinned:
-- "I am the living orangutan god
-Wide mouth, big belly
-But I'm not afraid of eating people!
-Here we wrestle:
-Whoever wins becomes me, whoever loses becomes me
-Married for nine months, ten generations!"
+与岔路口相遇，前往 Muong Quick
+猩猩神**诺翁夫妇**从灌木丛中走出：
+- “那个人快跟我过来吧
+如果你很强，那么第三个胶水
+我是第一个胶水！”
+Tam Tach 缓缓说道：
+- “那座山的那头母猪！
+你有爪子和尖牙
+蓝眼睛，红鼻子
+别管我，让我睡觉
+为什么把树砍得那么响？
+Noong夫妇咧嘴一笑：
+- “我是活着的猩猩神
+阔口大肚
+不过我不怕吃人！
+来来来我们摔跤吧：
+谁赢就做兄，谁输就做弟
+结亲九月，传承十代！
 
-Tam Tach made an appointment to tie Noong Couple's hands
-Let Couple Noong stand on the beach
-I stand at the top of the hill.
-Tam Tach's head pushed Pair Noong down
-Exhale through your ears.
-The Noong couple was angry and refused to be their sister
-Challenge four:
-- "Use the forest trees to witness
-Take the ants and watch!"
-Dry leaves are scattered around
-The trees roll loudly:
-Glue one, glue two. The Noong pair fell down
-Acacia Tam Tach fell over
-The Noong couple grinned
-Glue four Pairs of Noongs toppling over
-Like a tree with roots and branches!
-Tam Tach is allowed to be his brother
-The Noong couple agreed to let me lead the way.
+Tam Tach 预约绑Noong夫妇的手
+让Noong夫妇站在海滩上
+我站在山顶。
+Tam Tach 的头将 Noong 情侣推倒
+耳朵呼气。
+愤怒的Noong夫妇拒绝成为我的妹妹
+挑战四胶：
+- “用森林树木见证
+带一群蚂蚁去看！”
+干树叶很乱
+树木滚动声很大：
+粘一，粘二，Noong一对倒下了
+Acacia Tam Tach 摔倒了
+Noong夫妇咧嘴一笑
+将四对农工器粘在上面
+就像一棵有根有枝的树！
+Tam Tach 获准当哥哥
+Noong夫妇同意让我带路。
 
-In the morning, the forest was foggy
-The two brothers went to Muong Ong land
-Arrive at Ri Lay Lai Lang valley
-Enter Khao Da hill
-In front of Mr. Dao Ky Ong's house.
-Truly stunning:
-**Stone tree, bronze leaves**
-**Brass cotton, tin balls!**
-Seven yellow flowers, three yellow fruits
-Cotton is like silk and sparkles
-The wind shakes the branches like resounding horse music!
-Around the magic tree:
-The tiger stood to one side
-The slugs stood in a row
-Boars and deer flank in the middle
-Phoenix flanks above
-Unicorn birds flank the si and banyan branches
-Da da roared on the top
-The flock of **Golden Yellow** is busy catching worms on the leaves.
+早上，森林有雾
+两兄弟去了Muong Ong land
+抵达Ri Lay Lai Lang山谷
+进入考达山
+Dao Ky Ong 先生家门前。
+果然，我感到性欲旺盛：
+**石树、铜树叶**
+**黄铜棉，锡球！**
+七朵黄色的花，三个黄色的果实
+棉质如丝，闪闪发光
+风吹树枝如响亮的马乐！
+魔法树周围：
+老虎站在一边
+鼻涕虫站成一排
+野猪和鹿侧翼在中间
+上方凤凰侧翼
+独角兽鸟在巳枝和榕枝两侧
+哒哒在山顶隆隆作响
+**Yang Anh** 羊群正在忙着捕捉叶子上的虫子。
 
-Tam Tach raised his sling, loaded his arrow, and was about to shoot
-An Orangutan on the top looked down and said:
-- "Don't shoot me, man!
-My meat does not satisfy the old man when he is hungry
-My lungs are not as full as when a child is full.
-People want one golden fruit and two ripe ones
-I threw it down to get it
-Put it on the crossbow, put it on the slingshot!
-Just one word:
-Back to the door, to the house
-Don't tell the king or the rich
-Don't tell Ke Cho Lang!
-Then you will be rich forever
-Full of gold and silver
-Rice seeds are crowded with high floors
-Buffaloes and cows flood
-Green copper pot is cooked, ten pans are nine!
-God gives you treasure, you must know how to keep it!
+Tam Tach 举起投石器，装好箭，准备射击
+上面的一只猩猩低头说道：
+- “别开枪打我，伙计！
+我的肉不能满足饥饿的老人
+我的肺已经不像小时候那么饱了。
+人们想要一颗金果和两颗成熟的果子
+我扔下来给你拿
+放在弩管上，放在弹弓管上！
+就一个字：
+到门口，到家
+不要告诉国王或富人
+别告诉Ke Cho Lang！
+那你就永远富有了
+满载金银
+稻种紧密，楼层高
+水牛和奶牛泛滥
+青铜锅熟了，十锅九个！
+上天赐予你宝物，你一定要懂得保管！”
 
-Tam Tach pulled back the crossbow string and put away the arrow
-Pick up one yellow fruit, two ripe ones
-Put it in the slingshot tube.
-Be happy and happy, stop playing around
-Crossing Heaven's mountain
-Through Ai Lane, Yellow Lane, Nang Gate, Belgium Mountain
-Go straight to Dong Chi Tam Quan Ke Cho.
+Tam Tach 拉开弓弦，拿走了箭
+抓住一个黄色水果，两个成熟的水果
+将其放入弹弓管中。
+开心快乐，别玩儿了
+翻越天山
+穿过比利时山南门艾巷、黄巷
+直走Dong Chi Tam Quan Ke Cho。
 
-Tired from the long journey, Tam Tach fell asleep
-Haven't had time to ask my wife yet
-His wife rolled into the middle of the house crying and said:
-- "Dear, you've been gone forever
-Quit your work and your official duties
-Lang punishes and takes clean green five, pick seven
-Throw away all the door and house furniture
-There's nothing left!"
-Tam Tach was not discouraged
-Gently coax his wife:
-- "Honey, don't be sad
-If you lose something, you'll have it again!"
-Last words:
-The yard was full of bulls and cows
-In the house, rice is stored and rice is piled
-The yard is crowded with pigs and chickens
-Blue three, green four, gong four, ten hits full!
-Tam Tach looked at his wife and children and blurted out:
-- "The richest person in this area is Lang Cun Khuong
-But they don't have buffalo yet
-There is no horse with hundreds of injustices
-I don't know about the chu tree or the ash tree.
-And I saw the chu tree
-Got two golden fruits
-A ripe fruit!"
+厌倦了长途旅行，Tam Tach 睡着了
+还没来得及询问我妻子的情况
+妻子滚到房子中间哭着说：
+- “亲爱的兄弟，你已经永远离开了
+辞掉工作和普通话工作
+郎处罚并拿下绿五、七
+拾起所有门和房子物品
+什么都没有了！”
+Tam Tach 并没有气馁
+轻轻安慰老婆：
+- “亲爱的，别伤心
+如果你失去了一些东西，你就会再次得到它！”
+刚刚结束的话：
+院子里全是公牛和奶牛
+屋里，卤饭和沙丘
+猪场、鸡场挤满了人
+青三，青四，锣四，十满！
+Tam Tach 看着自己的妻儿，脱口而出：
+- “这个地区最富有的人是Lang Cun Khuong
+但他们还没有水牛
+没有一匹马有百般委屈
+我不知道椿树和白蜡树。
+我看到了楚树
+获得两颗金色果实
+成熟的果实！”
 
-Who would have thought that night
-**Nang De**, Lang Cun Khuong's eldest daughter
-Sit down and finish weaving on the bamboo loom
-Switch to the bamboo loom
-Listen closely to Tam Tach's words as he brags to his wife and children!
-In the morning, Miss De quickly told her father.
-She did not finish speaking:
-Cun Toi pulled out a silver-handled knife
-Cun Tang pulled out the ivory handle
-Cun Khuong pulled out his whip and hung it on the window
-Send soldiers to arrest Tam Tach quickly!
+谁能想到那天晚上
+**Nang De**，Lang Cun Khuong 的长女
+坐在竹织机上编织
+前往竹织机
+听听Tam Tach向他的妻子和孩子吹嘘的所有话！
+早上，德小姐赶紧告诉了父亲。
+她话没说完：
+Cun Toi 掏出一把银柄刀
+唐存拔出象牙柄
+Cun Khuong 抽出鞭子挂在窗户上
+赶紧派兵抓捕谭达奇！
 
-Cun Toi demanded forty lashes and the blood flowed
-Cun Tang demanded seventy lashes.
-Lang Cun Khuong waved his hand to stop her and suggested:
-- "Hey you two!
-Children should cheat on pork thighs and chicken with garlic
-My old man should trick me into a tray of rice and a cup of wine.
-The rice is full, the wine is drunk
-Tam Tach must speak boldly, say it all!"
+Cun Toi 要求鞭打四十下，鲜血直流
+存唐要求鞭打七十下。
+Lang Cun Khuong挥手制止，盘算着：
+- “嘿你们两个！
+孩子们应该用大蒜欺骗猪腿肉和鸡肉
+老人家应该骗一盘米和一杯酒。
+饭饱酒醉
+Tam Tach 一定要大胆说话，全部说出来！”
 
-The two of you listened with satisfaction
-Sai caught pigs and chickens to worship the Lang family
-Send Mr. Com to call Tam Tach down to the party.
-The tray of rice is spread out in the house
-Long out into the yard
-Five people on a tray, wine mixed with meat and leaves.
-Tam Tach was full of rice and drunk
-The mouth speaks like a song
-The mouth speaks like a buck calling.
-Lang's family poured more wine
-The meat kept coming out
-The more Tam Tach drank, the more passionate he became
-Bluntly tell it all:
-- "O three uncles!
-The richest men in the village
-But you don't know the tree and the tree!
-I know the way to the chu tree
-In the valley behind Mr. Cai Da's house
-Dao Ky Ky Tube!
-Yesterday my family suddenly became rich
-Because there is still a golden fruit left
-Two ripe red fruits
-Store in a crossbow or slingshot tube
-Hang it on a big pillar in the middle of the house!
+你们两个很满意
+赛带着猪、鸡去拜郎家
+派 Com 叔叔去叫 Tam Tach 下来参加聚会。
+满屋子都放着一盘米饭
+长到院子里
+托盘上有五个人，酒和树叶。
+Tam Tach 吃饱喝醉
+嘴里说话像歌
+嘴巴说话就像是在叫嚣。
+郎家又倒了酒
+肉不断流出来
+Tam Tach 越喝越热情
+脱口而出：
+- “三叔啊！
+村里最富有的人
+但你不认识树和树！
+我知道去楚树的路
+蔡达先生家后面的山谷里
+道道Ky管！
+昨天我家突然有钱了
+因为还剩下一颗金色的果实
+两个成熟的红色水果
+存放在弩或弹弓管中
+挂在房子中间的一根大柱子上！”
 
-The three Lang brothers glanced at each other and signaled
-Send an old soldier to sneak to Tam Tach's house
-Run up to the voong window, middle window
-Pull out the crossbow and slingshot tubes and bring them back.
-Pouring out a bright yellow mat:
-Stone fruit, copper leaf
-Brass cotton, tin balls!
-Cun Toi picked it up: "Oh, areca nut!"
-Cun Tang picked it up: "Oh, tangerine!"
-Lang Cun Khuong fondly said:
-- "It's not an areca nut, it's not a tangerine
-It's **cough chu, squeal**!"
-Cun Khuong quickly hid the golden fruit in a red painted chest
-Ripe red fruit goes into a black painted box on a high floor.
+郎兄弟三人对视一眼，示意
+派老兵潜入谭塔奇家
+跑到纸板窗户、中间窗户上
+拔出弩管和弹弓管并带回来。
+倒在亮黄色的垫子上：
+核果、铜叶
+黄铜棉球、锡球！
+村台捡起来：“哦，槟榔！”
+存堂接了起来：“噢，橘子！”
+Lang Cun Khuong 深情地说：
+- “这不是槟榔，也不是橘子
+是**咳咳，窒息**！”
+Cun Khuong 迅速将金色的果实藏在一个红色的箱子里
+成熟的红色水果被放入高楼层的黑色漆盒子中。
 
-After a long time, Tam Tach sobered up
-Knowing that Lang had cheated and robbed the treasure
-Half sad, half angry
-He quickly waved the knife, intending to cut Lang to satisfy himself.
-But think of his foolish wife and young children
-He forced himself to stand up.
-Lang Cun Khuong looked back and shouted:
-- "Hey Tam Tach!
-You want to be rich and have lots of cows and buffaloes
-Wants to live with his wife and children
-We must take Lang's family to find the chu tree
-Don't talk nonsense!
-If you don't listen:
-Then you'll die like a stick
-Died like a buffalo stabbed
-Dead like lightning
-Silent as stone, as moss!"
+过了好久，Tam Tach 才清醒过来
+知道郎作弊抢宝
+一半悲伤，一半愤怒
+急忙挥刀，打算砍郎满足自己。
+但想想他愚蠢的妻子和年幼的孩子
+他强迫自己站起来。
+Lang Cun Khuong回头喊道：
+- “嘿 Tam Tach！
+你想要有钱有钱
+想和妻子孩子住在一起
+必须带郎家去找楚树
+别乱说！
+如果你不听：
+然后你就死得像一根棍子
+像水牛一样被刺死
+闪电般地死去
+笨如石头，如青苔！”
 
-Tam Tach vomited rice and wine all over his clothes
-Spinning and falling down
-I'm sorry, I love my wife and children
-Heartbroken like dead.
-Lang Cun Khuong ordered wine and meat to be served
-Help him to the tray to force him to eat and drink
-Then he asked Tam Tach to lead the way to find the original tree.
-The three Lang brothers were delighted with the buffalo meat and grilled beef
-Prepare to set out to find and cut down the god tree.
+Tam Tach 将米酒吐得满身衣服
+旋转并摔倒
+怜惜自己的财产，爱护自己的妻子儿女
+心碎如死。
+Lang Cun Khuong 点了酒和肉
+握住送料盘
+然后请 Tam Tach 带路寻找原来的树。
+郎兄弟三人对水牛肉和烤牛肉很满意
+准备出发寻找并砍倒神树。
 
 #### 讲述语气提示
 - **长途历险：** 依蚁群、牧童、采桑女、杜鹃、Cặp Noọng 逐段推进，摔跤四回合读得富有动感。
@@ -391,401 +391,401 @@ Prepare to set out to find and cut down the god tree.
 
 ### 第21章：砍 Chu 树
 
-**Part 1: Tightening**
+**第 1 部分：收紧**
 
-Received a golden fruit
-Two ripe plums
-The three Lang brothers discussed getting married
-Send people to shout, those who stay to preach:
-- "Whoever doesn't have rice at home, pound rice
-If there are no fish ready, slap the pond and slap the pond
-The next morning, go chow down with the Lang family!"
+收到金色酸辣酱
+两个熟李子
+郎三兄弟商量结婚
+派人喊话，派人宣讲：
+- “还没吃饭的人，把米舂起来
+如果你没有准备好鱼，就拍打池塘
+第二天早上，去郎家吃饭吧！”
 
-The Lang family cast axes as big as boat planks
-The ax head is as big as a chicken coop.
-From old men to boys thirteen and nineteen
-The girl carried the rice and followed behind
-Carrying axes and knives into the forest to look for chu.
-Cun Toi rides an elephant with a golden saddle
-Cun Tang rides an elephant with a silver saddle
-Lang Cun Khuong sat in a palanquin carrying a dragon
-There are bronze gongs and silver drums
-There is a magician accompanying Tam Tach
-The people of the village came in droves
-Crowded like ants, like bees!
+郎家铸了船板大的斧头
+斧头有鸡舍那么大。
+从老人到十三岁、十九岁的男孩
+女儿背着米跟在后面
+携带斧头和刀进入森林寻找猴子。
+Cun Toi 骑着金鞍大象
+存唐骑着银鞍大象
+Lang Cun Khuong 坐在龙轿上
+有铜锣银鼓
+有一位魔术师陪伴 Tam Tach
+芒人蜂拥而至
+拥挤得像蚂蚁，像蜜蜂！
 
-Through Dong Chi land, Tam Quan Ke Cho
-Go to Dragon hill alley, pass Len En field
-Arrive at Muong Mon, cross Uon bridge
-Through Lung wharf, Noc bridge, Ma market
-Go to King Ong temple outside Ke Cho.
-Lang's family camped
-Offer incense and pray
-Pray to the King for his blessing in finding the chu tree
-Then he pulled his troops back toward the deep forest.
+穿过东芝地、谭权科草
+前往龙山胡同，经过伦恩场
+到达Muong Mon，过Uon桥
+经过龙码头、诺克桥、马市场
+前往Ke Cho外的King Ong寺庙。
+郎一家露营
+上香祈福
+向国王祈求帮助寻找楚树
+然后拉着大军往森林深处走去。
 
-One morning, the road is wide and the valley is long
-Footprints of people walking like fallen leaves:
-Through Lan Ai mountain
-Go to Van Chieng
-Arrive at Khao Da hill
-Through Khao Din hill
-Nine nights, ten days
-Just arrived behind Dao Ky Ong's house.
-Look away, look back:
-See the sky is bright
-Rang where the forest meets the ground
-Light in all nine directions
-Four paths, eight paths!
-The bears stood to one side
-Herds of elephants and herds flocked horizontally
-A herd of roe deer flanks one side
-Golden dragon lightning climbs up, climbs down!
-Seven yellow flowers, three yellow fruits
-Leaves and flowers make horse music:
-The right stone tree, the leaves of the field
-Brass cotton, tin balls!
+一个早晨，路宽谷长
+落叶般行走的人的脚印：
+穿过兰艾山
+前往Van Chieng一侧
+抵达考达山
+翻越考丁山
+十天九夜
+刚刚到达Dao Ky Ong 家后面。
+移开视线，回头看：
+看天都亮了
+森林与地面交汇处
+九个方向都有光
+四种方式，八种方式！
+一群熊站在一边
+成群的大象和成群的大象水平聚集
+一侧有一群狍子
+金龙闪电爬上去，爬下来！
+七朵黄色的花，三个黄色的果实
+叶花奏马乐：
+真石柏树、铜柏叶
+黄铜棉，锡球！
 
-Cun Toi arrived first and stationed himself across the street
-Cun Tang arrived later and set up camp down the slope
-Lang Cun Khuong camped next to a chu tree.
-Tell the cycle to take turns chopping:
-Strike the ax, fifty people hold it
-Pull out the ax, fifty people pull!
-Light can be chopped with a pestle
-Lunch is as big as a bracelet
-All day long, the tree did not fall.
-The three brothers had to return to the camp to rest.
+村台先到，站在横边
+村塘后来也来了，在坡下扎营
+Lang Cun Khuong 在椿树旁扎营。
+通过循环轮流斩波：
+敲斧头，五十个人拿着它
+拔斧头，五十个人拉！
+光可以用杵砍碎
+午餐有手镯那么大
+一整天，树都没有倒下。
+兄弟三人只好返回营地休息。
 
-The next morning
-The forest alley has just dawned with dew
-The three brothers marched back to the original chu.
-Someone comes first
-Exclaimed in panic:
-- "Look at the yellow tree!
-Its roots are still intact
-Yesterday's cut was completely sealed
-The tree is still as big as before, it looks extremely scary!"
-Cun Tang rolled his eyes
-Cun Toi tilted his head back to look
-Cun Khuong frowned and frowned
-Standing far from the tree, my knees trembled.
+第二天早上
+林间小巷刚露露
+三兄弟行军回到原来的城堡。
+有人先来
+惊呼：
+- “看那棵黄柏树！
+它的根仍然完好无损
+昨天的伤口已经完全密封了
+这棵树和以前一样大，看起来非常可怕！”
+唐存翻白眼
+Cun Toi 歪着脖子看
+Cun Khuong 皱起眉头
+站在离树较远的地方，我的膝盖在颤抖。
 
-As for the servant, he slept at the chu tree last night
-Because a bee stings your cheek and an ax scratches your leg
-I couldn't make it back in time
-Come out and say:
-- "It was pitch dark at midnight
-I heard a tangled sound of ghost music
-The ghost cried loudly on the top of the tree:
-'Don't be afraid of an ax as big as a boat plank
-The ax head is as big as a chicken coop!
-Only afraid of the lotus ax blade
-As big as your hand
-The ax body is made of bamboo
-Scrape it with the root of an orange tree
-Cut it off, cut it off again
-The stone has only just fallen, the tree's roots have just left!'"
+至于仆人，昨晚睡在楚树下
+因为蜜蜂蜇了我的脸颊，斧子划伤了我的腿
+我没能及时跟上
+走出来说：
+- “半夜漆黑一片
+我听到竖琴声很大
+鬼在树顶上哭：
+‘不要害怕船板那么大的斧子
+斧头有鸡窝那么大！
+只怕莲花斧刃
+手掌那么大
+斧身是竹子做的
+用橘子树根刮
+剪掉，再剪掉
+石头刚刚落下，树根刚刚离开！”
 
-Hear those words clearly
-Lang's family asked Muong to retire to rest
-Send the craftsman to cast the lotus ax blade
-As big as your hand
-The body is made of bamboo leaves
-Check the roots of the orange tree.
-After forging, prepare the rice tray by the stream
-Pray to the heavens to let it fall and disintegrate
-The ghost room below is up
-The ghost room above hits down.
+听清楚这些话
+郎家让Muong退去休息
+命工匠铸造莲花斧刃
+手掌那么大
+树干由棕榈树制成
+查找橘子树的根部。
+锻造完成后，在溪边准备饭盘
+祈求上天让它坠落解体
+攻击下层鬼屋
+攻击上层鬼屋。
 
-Everyone gathered tightly together:
-One sting, sharp bark
-Second stroke, the shell falls apart
-Three times, the tree leaves fall!
-The tree tilted
-Leaning this way and that way
-The ax licked away, licked back
-The root of the tree has fallen
-The tree's roots are up!
-The chu tree flips like a gong
-The earth shook like thunder calling!
-The roots are falling apart
-Throw it far away
-Four lands and houses
-Three lands of Muong Trong
-Everyone hears the sound of thunder:
-Chu falls with wind
-Chu falls with thunder and lightning
-Zhou is dead and there is a ghost!
+大家紧紧地聚集在一起：
+一枪，尖锐的吠叫
+第二枪，炮弹破裂
+三下楚树落叶！
+树倾斜了
+这边倾斜，那边倾斜
+斧头舔走，又舔回来
+循环的根源已经落下
+主根脱落了！
+楚树如锣般翻转
+大地震动，如雷鸣！
+根部正在散架
+冲远
+四块土地和房屋
+三净土
+大家都听到雷声：
+楚随风落
+有雷电
+楚辞死了，有鬼！
 
-**Part 2: Pulling chu**
+**第二部分：拉楚**
 
-Chopping the tree has cut the root
-The roots have been uprooted.
-Lang Cun Khuong calls for boys, calls for children
-Tighten the rattan rope to tie the nose
-Make the old man chop wood to make beams
-Girls and boys flocked to each other to chat!
-Pulled from dawn
-Arrived at noon
-Connected to the rain
-But the tree did not move
-Roots do not shake.
+砍树断根
+根已连根拔起。
+Lang Cun Khuong 呼唤一个男孩，呼唤一个孩子
+拉紧藤绳绑住鼻子
+强迫老人砍柴做梁
+女孩和男孩聚集在一起聊天！
+从黎明拉起
+中午抵达
+连接阴雨天气
+但树不动
+根不摇动。
 
-Lang Cun Khuong turned back and shouted:
-- "Whoever is good at fortune-telling, try fortune-telling
-Who likes to try mo!
-Who found the reason?
-Make the tree shake
-There will be gold and silver rewards!
-Chu Chuong was bewildered
-Found the fortune teller, the fortune teller arrived:
-He stretched one leg and two knees
-The blind eye must lead by the hand
-He told two eyes and one eyebrow
-Long arms touch heels
-Plump lips, odd tongue like a snake!
-The man asked for two pants and two shirts
-Ask for chicken eggs to worship saints
-The fortune teller asked for the dream of a buffalo
-Ask for four cows to turn on their horns
-I'm full with rice and wine.
-They were full and drunk, both said:
-- "The ghost tree wants to eat rice and honey
-Want to eat honey and eat Tam Tach's lungs!
-The skull must be used as a snare
-Use its bones instead of wood as beams
-The new tree refuses to give up its roots
-Just escaped from the forest
-Pull it away gently, trembling back to Muong!"
+Lang Cun Khuong 转身喊道：
+- “善于算命的人就应该尝试算命
+喜欢尝试的小伙伴们！
+谁能找出原因？
+让树摇晃
+将奖励金银！”
+楚闯一脸茫然
+找到了算命师和算命师：
+他抬起一条腿和两条膝盖
+盲眼必须手牵
+算命先生有两只眼睛和一根眉毛
+长臂触脚跟
+丰满的嘴唇，奇怪的舌头像蛇一样！
+男子要了两条裤子和两件衬衫
+求鸡蛋拜圣人
+算命师问梦见水牛
+让四头牛转角
+酒饭醉。
+他们吃饱了喝醉了，都说：
+- “巫树鬼想吃米和蜂蜜
+想吃蜂蜜，吃谭塔奇的肺！
+必须使用头骨作为圈套
+以其骨代木为梁
+新树不肯放弃它的根
+刚刚逃离森林
+轻轻一拉，颤抖着回到Muong！”
 
-Lang Cun Khuong heard the words clearly
-Ordered the soldiers to command the entire group, while the others served to guard the servants
-Return to the camp to carry a silver-handled knife
-Carrying the ivory rolling label
-Bring out Tam Tach and cut him down!
+Lang Cun Khuong 听得很清楚
+命兵士指挥，另一人掌仆从
+返回营地并携带一把银柄刀
+携带象牙滚动标签
+引出 Tam Tach 并砍倒他！
 
-Tam Tach knelt in front of the stone tree
-In front of the leaves
-Tears streamed down.
-Muong felt sorry for me
-Chu Chuong cried a lot
-But I'm afraid Lang will punish me
-No one dared to say a word.
-Tam Tach put his arms behind him to be tied
-Love the place to eat and live
-Miss my wife, love my children
-My heart is filled with anger, my stomach is angry
-But my mouth couldn't utter a single word.
+谭达先生跪在石椿树前
+树叶前
+眼泪就流下来了。
+Muong 为她感到难过
+楚楚哭得很厉害
+但我怕郎会惩罚我
+没有人敢多说一句话。
+Tam Tach 将双臂放在身后被绑
+喜欢这个吃饭和居住的地方
+我想念我的妻子，爱我的孩子
+我的心充满仇恨，我的胃在愤怒
+但我的嘴却一句话也说不出来。
 
-The forest suddenly became windy
-Lang's command resounded:
-- "O Chu Chuong, longing for the country!
-The Lang family wants peace
-The villagers want to be rich
-Tam Tach must be killed
-Use bones as momentum to pull and pull
-Build a house, build a door
-Chu Chuong, don't be afraid
-Muong Nuoc, don't be surprised!"
-The spear blade whizzed past
-Tam Tach's head rolled quickly
-Red blood poured onto the yellow ground!
+森林里突然起风了
+郎的命令响起：
+- “O Chu Chu Muong Nuoc！
+郎家求和平
+村民想致富
+必须杀死 Tam Tach
+以骨头为动力拉扯
+盖房子，盖门
+楚楚别害怕
+芒国，不要害怕！”
+长枪一闪而过
+Tam Tach 的头快速转动
+红色的血洒在黄色的土地上！
 
-Lang ordered Tam Tach bones to be used as momentum
-Peel and twist the skin to make a zipper
-Take rattan leaves and rattan sticks together
-Da lim continued.
-People clasped their hands indifferently
-The one who reached out tentatively:
-The tree vibrates and moves!
-Cun Toi wears a golden saddle
-Cun Tang wears a silver saddle
-Lang Cun Khuong sat in a palanquin carrying a dragon
-The whole village gathered together:
-The person held the other piece tightly
-The person pinches the nose wire
-The old man pulled the top
-The boy curled his head
-The front foot kicks the back foot
-Step back, step back!
+Lang 命 Tam Tach 骨头造势
+剥去皮，扭成拉链
+获取藤条和藤条
+大林继续。
+人们漠然地握着手
+试探性伸出手的人：
+树震动并移动！
+Cun Toi 金鞍大象
+存堂有银鞍
+Lang Cun Khuong 坐在龙轿上
+全村人齐聚：
+那人紧紧握住另一块
+人捏鼻线
+老爷子拉了顶
+男孩卷着头
+前脚踢后脚
+退后退一步！
 
-The tree is slipping and sliding
-From Cai Da and Ky Ong mounds
-Pull down Cua Kho Rang Kho hill
-Passing in front of Mr. Cai So's house
-To the river, to the stream, to the foot of the hill
-Lang told Muong to rest and rest his strength.
-The old man sat and plucked his gray beard
-Girls let down their hair to catch lice for each other
-People go into the mountains to pick mushrooms
-The one who goes down to the tree to pick the gate
-Boys and girls laugh and talk loudly.
+树在滑啊滑
+来自 Cai Da 和 Ky Ong 土墩
+拉下Cua Kho Rang Kho 山
+经过蔡索先生家门前
+到河边、到溪边、到山脚下
+Lang给了Muong休息的时间。
+老人坐着拔白胡子
+女生们放下头发互相抓虱子
+人们上山采蘑菇
+下楼挑门的人
+女孩和男孩大声笑着。
 
-Suddenly I heard a cracking sound:
-The tip of the tree's nose was crushed
-Four parts is still one point sharp!
-The ant wants to eat
-The python wanted to scream
-The parrot wanted to laugh
-The orphan wants his father
-The dog ran loose
-The peacock wants to sleep!
-Lang Cun Khuong quickly called Muong back and pulled:
-As soon as Muong got up, the chu ran away!
-As soon as Muong looked back, the tree crashed!
-Quickly pull the head and pull the branches
-Hang around the base of the foxglove tree
-The roller was thrown down at Ang Van Chieng
-Sinking and disappearing!
-The tree has no mouth, no mouth
-But when it drifts, it makes a loud noise
-Chu tail guarding the side of Cai Da hill
-The skull's head fell into Van Chieng's lap!
+突然，我听到一声破裂的声音：
+树鼻尖被压碎
+四分依然犀利！
+蚂蚁想吃东西
+蟒蛇想要尖叫
+鹦鹉想笑
+一个孤儿想要他的父亲
+狗跑了
+孔雀想睡觉！
+Lang Cun Khuong 赶紧叫 Muong 拉：
+Muong一站起来，楚就跑了！
+Muong一回头，楚树就倒塌了！
+快拉头，快拉树枝
+捕获在毛地黄树的根部周围
+滚筒被扔向Ang Van Chieng
+沉没消失！
+柏树没有嘴，没有嘴
+但是漂流的时候会发出隆隆的声音
+楚尾守在蔡大山边
+虫子的头掉到了Van Chieng的腿上！
 
-The person who slipped the rope closed his mouth
-The man cried out to heaven:
-Cutting your hand hurts
-My head is throbbing!
-Cun Toi, Cun Tang, Lang Cun Khuong
-Standing on the banks of Fortune
-Chanting in unison:
-- "I won't give up on this one
-How difficult it must be to do!
-Whoever wants to live must dive in to find
-Tie the noseband securely
-Put your shoulder straps back on for weight!"
-The whole village has been searching since morning
-It's time for the moon to fade
-I can't find it, I can't tie it!
-Boys' eyes hurt, old people faint
-From underwater to shore
-I'm tired of waving my arms, my body is limp!
+绳子滑倒的人闭上了嘴
+那人向天呼喊：
+手被割伤痛
+我的头在抽痛！
+Cun Toi、Cun Tang、Lang Cun Khuong
+站在财富的边缘
+齐声念诵：
+- “我不会放弃这个
+很难做到！
+谁想活下去就必须潜入寻找
+将鼻带系紧
+重新系上肩带以增加重量！”
+从早上起全村人都在寻找
+月色已至
+找不到，绑不了！
+男生眼睛疼，老人晕倒
+从水下到岸边
+挥臂累了，身体瘫软！
 
-In the afternoon, Lang Cun Khuong walked along the wharf
-Met a herd of black otters and silver otters crawling ashore.
-Cun Khuong pulled out a sharp knife and was about to slash
-All the sharp marks are about to stab.
-The black otter knelt down and the silver otter begged:
-- "Please sir, sir
-Don't stab, don't cut the otter race!
-If you want something to happen, just say it, just shout!"
-Cun Khuong put the label in the lid
-Insert the knife into the sheath, ask:
-- "Hey black otter, silver otter!
-You are at the beginning of the water, the pool is deep
-Searching all night
-Diving tomorrow morning
-Have you seen the chu floating anywhere, Otter?"
+下午，Lang Cun Khuong 沿着码头散步
+遇到了一群爬上岸的黑水獭和银水獭。
+Cun Khuong 掏出一把尖刀就要砍下去
+拔掉即将刺伤的尖锐痕迹。
+黑水獭跪下，银水獭乞求：
+- “拜托，先生
+不要刺伤，不要切断水獭种族！
+如果你想要什么事情发生，就说出来，大声喊出来！”
+Cun Khuong 将标签贴在盖子上
+将刀插入刀鞘，问：
+- “嘿黑水獭，银水獭！
+你正处水之初，池深
+我找了一晚上
+明天早上潜水
+水獭，你见过楚漂在什么地方吗？”
 
-The black otter and silver otter quickly said:
-- "When diving at noon through the vortex
-I see the tip of a chu tree
-Transforms into a Fish
-The tail turns so the Fish Bites
-Go out to eat soon
-Afternoon swimming around Van Chieng!"
-Cun Khuong happily said:
-- "Can you tie a nose string?
-After tying it up, I like it and reward it:
-If you want wide brocade, I give you wide brocade
-Want deep fields, shallow fields
-I give it all!"
+黑水獭和银水獭连忙说道：
+- “中午通过漩涡潜水时
+我看到梅树的尖端
+变成鱼
+尾巴一转，鱼就咬钩
+赶紧出去吃饭
+下午在Van Chieng周围游泳！”
+Cun Khuong 高兴地说：
+- “你能系一根鼻绳吗？
+喜结良缘后点赞打赏：
+想要宽锦就给宽锦
+想要深田，浅田
+我全力以赴！”
 
-The otters said together:
-- "Mr. Lang!
-We don't have pants legs
-There is no body to wear clothes
-Do not eat rice or drink alcohol
-Don't take the fields!
-Just ask for a water chapter:
-April and May are torn apart, torn apart
-February and March were torn apart and exploded
-And be able to give birth to a child at the Lang house's wharf!"
-The Lang family's heart was satisfied
-The Lang family's stomach had accepted it.
+水獭们齐声说道：
+——“郎先生！
+我们没有腿穿裤子
+没有身体可以穿衣服
+不吃米饭、不喝酒
+别抢田地！
+就求水章：
+四月和五月撕裂，撕裂
+二月三月撕破脸皮
+还能在郎家码头生孩子！”
+郎心里很满足
+郎的胃已经接受了。
 
-The otters dive to the deep bottom
-Tie the rope to your nose
-Connect the first wire
-Everyone cheers and pulls behind:
-The floating chu tree!
-The roots are slipping away!
-Vuc chu took a breath
-The tree roars like thunder!
-The whole village plays drums and gongs
-Pull the chu through the forest and across the beach
-Through mountains, through ravines
-Crowded like ants, like butterflies, like bees!
+一群水獭潜入海底深处
+将绳子绑在鼻子上
+连接第一根线
+全村齐心协力后面：
+漂浮的楚树！
+根正在消失！
+深渊吸了一口气
+树怒吼如雷！
+全村敲锣打鼓
+拉着楚楚穿过森林，穿过海滩
+翻山越岭，穿越沟壑
+拥挤得像蚂蚁，像蝴蝶，像蜜蜂！
 
-Cun Toi elephant with golden parasol
-Cun Tang elephant with silver parasol
-Lang Cun Khuong goes on a hammock or palanquin
-The villagers flocked to Lai Ro
-Get off at Lai Re wharf
-Through Ho Do, Ho Vanh
-Passing the thatched hill of Ken village
-Through Bua Mu, Cam wharf, Nan mountain
-Going down Lan Ai mountain, De village, Xa mine
-Through Muong Khoong, Muong Lam
-Through Dat village, Can field
-Return to Muong Vong, Truong Khoong, Bai Khai
-Go to Cot wharf, Dong Kho
-Through Load Can, Quan Ven
-Go to A cave, go to Uong
-Through Cat Truong, Khuong Truong
-Go to Dinh Trong, go to Pu Be!
+撑着黄色阳伞的村台大象
+存唐象银伞
+Lang Cun Khuong 坐在吊床或轿子上
+芒族人涌向莱罗
+来热码头下车
+经过 Ho Do、Ho Vanh
+路过肯村茅草山
+经过Bua Mu、Cam码头、南山
+霞矿德村兰艾山下
+经过Muong Khoong、Muong Lam
+穿过Dat村，Can学校
+返回Muong Vong、Truong Khoong、Bai Khai
+前往东科科特码头
+贯通式负载罐，Quan Ven
+前往Uong街A Cave
+过 Cat Truong, Khuong Truong
+桑亭仲，来普贝了！
 
-Pull the cycle to Kheng mountain and Cai mountain
-Leaving Muong Tre, rushing to Muong Coc
-Passing through Dao Quang
-Through Ben Pieg and Ben Pung
-Go to Muong Rong
-Round to Muong Khai, Muong Be
-Return to Muong Chin, Vong hill, Pam beach
-Visit Muong Vo well
-Muong Tram and Tro fields
-Through Vin Vong, Com hill, Dat beach
-The foothills of Ne village
-Go to Te Vot river
-Enter Khoi River, Lung wharf
-Go down to Bai Nai, Muong Mac, Muong Qua
-Visit Muong Tran and Muong Truong
-Through Muong Um, Muong Moc
-Seeing the roof of Muong Lam
-Go to Trang market, Vo Don river, Vo Ly
-Through Muong Ram and Muong Khoi
-Through Muong Coi, Vo Gio
-Through Muong Vang and Muong Cua
-Passing Mound Ro, Na Ot
-Arrive at the land of Cun Xua, Dao Bap
-Go to King Ong temple outside Ke Cho!
+拉车去岬山、蔡山
+出Muong Tre，冲进Muong Coc
+穿过道广桥
+通过 Ben Pieg、Ben Pung
+前往芒隆
+转身前往Muong Khai 和 Muong Be
+返回Muong Chin、Vong Hill、Pam 海滩
+好好参观Muong Vo
+Muong Tram 和 Tro 场
+穿过 Vin Vong、Com 山、Dat 海滩
+讷村山麓
+前往蒂沃特河
+科伊河、龙码头
+前往Bai Nai、Muong Mac、Muong Qua
+参观Muong Tran 和 Muong Truong
+经过Muong Um, Muong Moc
+看到Muong Lam的屋顶
+前往Trang市场、Vo Don河、Vo Ly
+经过Muong Ram, Muong Khoi
+经过Muong Coi、Vo Gio
+经过Muong Vang, Muong Cua
+穿过 Mound Ro、na Ot
+抵达道巴村旭之地
+去柯措外的天王庙！
 
-Cross Snake bridge, Dragon bridge, Noc bridge
-Pull the cycle back up Tien Mountain
-Go to Muong Quyen, Muong Lang
-Knocked down by a goblin
-The ghost attacks
-Pulled back to Dragon Bridge and Noc Bridge
-Enter Dong Chi Tam Quan Ke Cho!
+过蛇桥、龙桥、诺克桥
+将楚人拉回天山
+抵达Muong Quyen, Muong Lang
+被哥布林击倒
+梦之鬼袭来
+拉回龙桥和诺克桥
+进入Dong Chi Tam Quan Ke Cho！
 
-The three brothers made a wood submission form
-Make a filing book
-The king collected the papers and received the books
-Merit rewards:
-Cun Toi five hundred pieces of gold
-Cun Tang five hundred pieces of silver
-Chu Chuong black pants, blue shirt
-Lang Cun Khuong was rewarded with opening fairy water
-Make a family heirloom to pass on to future generations!
+三兄弟制作了木质提交表
+认真做好档案簿
+国王收集纸张并收到书
+功绩奖励：
+寸台五百金
+存堂银子五百两
+Chu Chuong 黑色裤子，蓝色衬衫
+Lang Cun Khuong 获得开仙水奖励
+做一个传家宝仙子传给后代！
 
-Whoever has a wife can visit her
-Anyone who misses me can come visit me
-Those who are still young can visit their parents
-Take a day off to get healthy
-Then he returned to build a house for Lang.
-The story of making a chu house and a chapter house
-Please listen to it another time!
+任何有妻子的人都可以拜访她
+想念孩子的人可以来看望孩子
+还年轻的可以去看望父母
+请一天假以保持健康
+然后他就回去给郎盖房子了。
+制作楚屋和章屋的故事
+请再听一遍！
 
 #### 讲述语气提示
 - **大小斧对照：** 船板大斧无功、巴掌小斧三下倒树，突出“得法胜过蛮力”。
@@ -795,262 +795,262 @@ Please listen to it another time!
 
 ### 第22章：建 Chu 屋
 
-Lang Cun Needs to love his children hard
-Cross hundreds of fields and thousands of slopes to bring the chu tree back
-Reward me with lots of gold and silver
-Rewards for clothes
-Bonus for doing business
-Private reward for Lang Cun Khuong
-Fairy water mine in the middle of Muong.
+郎村 爱孩子好难
+穿越百田千坡，带回楚树
+奖励我大量金银
+衣服奖励
+做生意奖金
+Lang Cun Khuong 独家奖励
+Nuoc Tien 矿位于 Muong 中部。
 
-That day Lang ordered big buffalo meat and fat cows
-Plug in hundreds of rods of sweet wine
-Blow good sticky rice
-Be the soul for Cun Toi, Cun Tang, Lang Cun Khuong.
-The rice is full, the wine is drunk
-Lang commanded the house:
-- "O my three children!
-Dad wants to build a door
-Dad wants to fix the house.
-You must go near and far
-Find thirteen skillful workers
-About building palanquins and thrones
-Make twelve giant teeth
-Close the vertical and horizontal beams
-Close the golden and silver beams!"
+那天，郎点了大水牛肉和肥牛
+插入甜酒一百杆
+吹健康糯米饭
+为 Cun Toi、Cun Tang、Lang Cun Khuong 做鬼。
+饭饱酒醉
+郎的命令响起：
+- “我的三个孩子啊！
+爸爸想造一扇门
+爸爸想修房子。
+你必须走近又走远
+寻找十三位能工巧匠
+关于轿子和宝座的建造
+制作十二颗巨齿
+关闭垂直和水平梁
+关闭金银光束！”
 
-My father listened
-Go forward, go backwards
-A procession of thirteen skillful workers
-Cut columns and trim trusses
-Planing vertical beams, cutting cross beams
-Finished making twelve giant teeth.
-But no matter how many times the house is built, it falls down
-It's not a good idea to dig thirty-six holes to erect columns!
+父亲听从了
+前进、后退
+十三名熟练工人组成的队伍
+切割柱子并修剪桁架
+规划纵梁和垂荡横梁
+十二颗巨牙制作完毕。
+但无论你盖了多少次房子，它总是会倒塌
+挖三十六个洞建柱子可不是什么好主意！
 
-The three brothers left the truss unfinished
-Go around the chapter
-Bringing home an **Au mo**:
-Au's head has three vortices
-The nape of Europe's neck is like a bat's wing
-Au's ears are as thin as a wood ear.
-Au placed a chicken egg on his ear
-Place your hand on the bridge of your nose and say:
-- "The deer is black, the cow is yellow
-Guinea pig, silver buffalo
-Birds perch on the roof
-Snails in the fields!
-Mr. Lang's housework:
-Must kill five black buffaloes
-Cut down the gate to make five silver buffaloes
-Worship ghosts and ancestors
-Ceremony for ghosts and grandmothers
-Worship old ghosts and mountain ghosts
-Ceremony for the ghosts of the dead tree and the chu tree
-Worship ghosts, bright ghosts!
-Grilling the leading male buffalo
-Arrange seven folds of food on the table
-Offering to the Water Palace of the Dragon King
-Ceremony for the five directions of heaven and ten lands
-Sacrifice the gods
-The top of the industry is quiet!"
+三兄弟未完成桁架
+穿越章节
+拿起**Au mo**：
+Au的头上有三个漩涡
+欧洲的颈背就像蝙蝠的翅膀
+Au的耳朵薄如木耳。
+他把一个鸡蛋放在耳朵上
+将手放在鼻梁上并说：
+- “鹿是黑色的，牛是黄色的
+豚鼠、银水牛
+鸟儿栖息在屋顶上
+田野里的蜗牛！
+郎先生的家务事：
+必须杀死五头黑水牛
+砍断大门，制作五头银水牛
+祭鬼祭祖
+已故鬼和祖母的仪式
+祭祀老鬼山鬼
+枯树楚树鬼宴
+拜鬼，光明鬼！
+烧烤领先的雄性水牛
+在桌子上摆七折
+供奉龙王水宫
+五方天十地仪式
+祭祀诸神
+新业安宁！”
 
-Listen clearly
-My father returned to pay his respects to his father, the king.
-Lang Cun Can moved and wandered
-Kill five black buffaloes
-Roast five silver buffaloes
-Grilling the head buffalo
-Sacrifice to mountain demons and ancestral demons
-Ceremony to heaven and earth ghosts
-Not a single god remains.
+听清楚算命
+我父亲回来告诉他父亲国王。
+郎村 可以迁入村庄，分散村庄
+杀死五头黑水牛
+烤五头银水牛
+烤水牛头
+祭祀山鬼鬼祖
+祭天地鬼
+没有一个神被留下。
 
-The ceremony is over, Lang Cun Khuong
-He shouldered the gong and carried it up to the house
-Christmas gong five, gong seven
-Play three rounds of the silver drum and the bo drum
-Ho Chu Chuong Cuong Cuong
-Come and build a house!
-The house that Chu built was spacious and spacious:
-In front of the garden, there are Khu houses and Dragon houses
-Inside were built the Long house and the Ngai house
-Build long houses, porches, and guest houses
-Build a warehouse for ninety dunes of rice
-Braised fish sauce and salt
-Store dishes and towels
-Nine gold storage compartments
-Nine treasuries
-Gun warehouse, brimstone warehouse.
-Build Cun Toi palace, Cun Tang camp
-Build a silver kitchen and golden alley for Lang Cun Khuong
-Build a house for Lady Dat to raise silkworms and pick mulberries
-Nine stables
-Ten elephant houses
-Nineteen poor houses
-Send 10,000 troops back!
-Build the East gate and the West gate
-Build the North and South gates
-Dong Chi Citadel, Tam Quan Ke Cho
-Thirty rooms, sixty windows!
+仪式结束了，Lang Cun Khuong
+跨肩扛锣上屋
+圣诞锣五、锣七
+奏三拍银鼓、帛鼓
+何珠昌孟诺
+拉起建楚屋来！
+楚建的房子宽敞又宽敞：
+花园前有库屋和龙屋
+里面建有长屋和艾屋
+建造长屋、门廊和宾馆
+建造一座可容纳九十个稻米沙丘的仓库
+红烧鱼露和盐
+存放碗和毛巾
+九个金色储物格
+九库
+枪械仓库，硫磺仓库。
+建造村台宫、村塘营
+为Lang Cun Khuong建造银色厨房和金色胡同
+为达夫人建造一座房子养蚕采桑
+九个马厩
+十个大象屋
+十九间贫困户
+让万军回家！
+修建东门和西门
+修建南北城门
+东芝潭泉柯措城堡
+三十个房间，六十个窗户！
 
-But:
-The bird has not yet entered the cage
-The peacock has not yet come to dance
-The horse has not yet been stabled or bridled
-Ban Quan, Muong, you have not yet come to visit the Chu house!
-Because the Zhou dynasty is not yet clear
-Chu's alley is not yet bright.
+但是：
+鸟还没进笼子
+孔雀还没来跳舞
+马尚未稳定或挽具
+你还没来参拜呢！
+因为周朝不清楚
+房子的巷子还没有亮。
 
-At that time there were rumors that:
-There is **Song Don** who is so beautiful, so beautiful!
-Her cheeks were as red as pageant flowers
-Her hands are as white as wild banana peels
-Heels are as pink as newly laid eggs.
-But she loved him **Khan Dong**
-It doesn't come down to who loves and who remembers.
-Lang Cun Can felt angry when he heard this
-Wanted to steal her to be his wife
-Then he thought deeply
-Order Khan Dong:
-- "Hey, Khan Dong!
-You want to marry Song Don
-Have to go to streams and wade rivers
-Find the **golden turtle**
-Submit it to the Lang family!
-There are no turtles at the door of the chu house
-Then Song Don must become the next wife of the Lang family!
+当时有传言说：
+有**宋冬**，好漂亮好漂亮！
+她的脸颊红得像花儿一样
+她的手像香蕉皮一样白
+鞋跟像刚下的鸡蛋一样粉红色。
+但她爱他 **Khan Dong**
+这不是谁爱谁记得的部分。
+郎存灿心中愤怒
+想抢她做他的妻子
+然后他深深地想了想
+订购 Khan Dong：
+- “嘿，汗东！
+你想嫁给宋冬
+必须去溪流、涉河
+找到**金龟**
+交给郎家吧！
+楚家门口没有乌龟
+那宋冬一定要成为郎家的下一任妻子！”
 
-Listen to Lang's orders
-Khan Dong cannot eat or sleep peacefully
-Day and night gloomy
-Rice does not bother to swallow
-Visit the fields in the morning, visit the fields in the afternoon
-Hunting ironwood forests, shooting tiger forests
-Catch fish in horizontal streams
-I always miss Song Don in my heart.
-He pulled out his flute and it was all rotten
-Play the flute and make a loud sound
-Call your lover!
-Twenty days of meeting in the hills
-High in the forest, words whisper
-Like a rushing stream
-Like a pair of birds searching for each other.
-Sit and eat betel together
-Divide apricots and tangerines
-Divide grapefruit and jackfruit into segments.
-Khan Dong told what Lang Cun Can forced him to do
-The two promised to stay strong:
-- "Can't get married
-We eat finger leaves together
-Find the forest and strangle yourself for love!"
+听郎的命令
+Khan Dong 吃不下睡不着
+日夜情绪低落
+我懒得吞饭
+上午参观田野，下午参观田野
+狩猎铁木林、射虎林
+在水平溪流中钓鱼
+心里永远怀念宋唐。
+他拔出笛子，笛子全碎了
+吹笛子，发出响亮的声音
+给你的爱人打电话！
+二十天的山里相会
+高林中，低声细语
+像奔腾的溪流
+就像一对互相寻找的鸟儿。
+坐下来吃槟榔吧
+分杏子和橘子
+将柚子和菠萝蜜切成段。
+Khan Dong 讲述了郎存灿强迫他做的事
+两个人郑重承诺：
+- “不能结婚
+我们一起吃叶子吧
+找到森林，永远扼杀你的爱！”
 
-One day he went to work in the fields upstream
-Go to the narrow cave mountain
-Khan Dong met a golden turtle eating alone!
-He waited to catch it
-The turtle ran into the black stone cave
-Khan Dong reached out with his hand.
-Suddenly the lower stone jaw bit up
-The upper stone jaw collapsed!
-He couldn't withdraw his hand
-Pulling my hand does not lift
-Looking ahead, looking back, no one called for help
-Ants piled up on his forearms
-The rock clamped down hard on Khan Dong's wrist!
+有一天，我去上游地里干活
+前往狭窄的洞山
+Khan Dong 遇见了一只独自进食的金龟！
+他潜伏着去抓它
+乌龟跑进黑石洞
+Khan Dong 伸出了手。
+突然下石颚咬了起来
+上石颚落下！
+他的手无法抽回
+拉着我的手不动
+向前看，向后看，无人呼救
+蚂蚁堆积在前臂上
+石头紧紧地夹住了Khan Dong的手腕！
 
-Suddenly there was a striped **brindle dog** that was familiar with the mountains and forests
-Run down, run up to know the owner is in trouble
-Lean back against the owner's leg.
-Khan Dong quickly said:
-- "Ven, Van!
-Quickly run across the river to go home
-Seeing Song Don
-Bite the hem of her dress and drag her to save me!
-Don't scream, don't cry
-Know what to save your master, dog!"
+突然出现了一只熟悉山林的条纹**斑纹狗**
+跑下来，跑上去才知道主人有麻烦了
+向后靠在主人的腿上。
+Khan Dong 连忙说道：
+- “文，斑纹！
+赶紧跑过河回家
+见到宋冬
+咬住她衣摆拖拽她来救我！
+别尖叫，别哭
+知道该怎么做并拯救你的主人，狗！”
 
-Hearing his master's words, Ven ran to the river
-Swim across the stream, across the beach
-When I got home, I saw Song Don rubbing silk.
-It bit the hem of her dress
-Leading across the river into a narrow, closed cave.
-When he reached the top of the slope, he saw that he was stuck
-She cried
-Head down on the rock!
-The old forest trees were moved with pity
-The cry moves mountains and forests
-Fly over the river, around the valley
-Lay called the blue sky
-Pass it to **Buddha's ears**!
+听到主人的话，文跑到了河边
+Bơi qua dòng, băng qua bãi
+回到家，就看到宋冬在搓丝。
+Nó cắn lôi gấu váy nàng
+穿过河流，进入一个狭窄、封闭的洞穴。
+在坡顶，我看到他被困住了
+Nàng khóc rì rì
+Gục đầu vào tảng đá！
+老林的树草都被慈悲感动了
+Tiếng khóc chuyển núi rừng
+Bay qua sông, vòng qua thung
+Lay gọi trời xanh
+Truyền đến tai **ông Bụt**！
 
-The Buddha appeared and gently said:
-- "Dear daughter, I love you
-It's Song Don!
-Don't cry so much that you're old
-Don't cry anymore and suffer!
-I know you are filial
-Understand wise children
-I will save your husband and children
-Don't be sad, you two!"
-The Buddha waved his hand gently:
-The rock suddenly cracked and broke
-Roll round, roll diagonally
-The upper stone jaw is crushed
-The lower stone jaw crumbles!
-Khan Dong waved his hands in shock
-The hand holds a whole golden turtle
-Hurry to show off Song Don:
-- "Buddha give me a golden turtle!"
+Bụt hiện lên dịu dàng bảo:
+- “Hỡi con gái yêu, con chuộng
+Là nàng Sông Dón！
+Chớ khóc lắm mà già
+Đừng khóc nữa mà khổ！
+Ta biết con có hiếu
+Hiểu con khôn ngoan
+Ta sẽ cứu chồng con
+Hai đứa đừng buồn nữa！”
+Bụt vẫy tay khe khẽ:
+Đá bỗng nẻ vỡ tan
+Lăn tròn, lăn xiên
+Hàm đá trên nát nhừ
+Hàm đá dưới vỡ vụn！
+Khan Dong 震惊地握手
+手握一整只金龟
+Vội khoe nàng Sông Dón：
+- “Bụt cho ta rùa vàng！”
 
-The two of them crossed the wharf, crossed the wooden bamboo bridge and headed home
-Put the turtle out to have a look:
-The turtle is bright like fire, brilliant like a torch!
-Light all over the house:
-Let near and far shine through the outside door
-Let's bet on waking up in the morning!
-Khan Dong regretted not wanting to surrender Lang
-But if you don't surrender the golden turtle, you will lose Song Don
-Do not share a basin or blanket
-Not shared.
-At dusk, I brought the turtle to Lang's house.
+两人穿过码头，穿过木竹桥，回家
+把乌龟拿出来看看：
+乌龟明亮如火，灿烂如炬！
+整个房子都有光：
+让远近的光线透过外门
+打赌早上醒来！
+Khan Dong后悔当初没有交出Lang
+但如果你不交出金龟，你就会失去宋冬
+请勿共用盆或毯子
+不能共用垫子。
+深夜不得不把乌龟带到郎家。
 
-The Lang family happily grabbed the golden turtle
-Remove the black painted chest and lock it on the top
-No more asking to marry Song Don.
-Lang Cun Can ordered Lang Cun Khuong to find a worker
-Cooking golden turtle in a copper pot
-Take the water and sprinkle it all over the house, the house will perish!
-From there:
-Bright roof, bright house
-Warehouse morning, camp morning
-Light the throne, light the palanquin
-Bright light, bright bed!
-The palace of King Ke Cho
-At dawn, Dat's house herds silkworms and picks mulberries!
-Dawn at the East gate, dawn at the West gate
-The North door shines brightly, the South door shines brightly
-The whole city of Dong Chi Tam Quan Ke Cho!
+郎家高兴地抢到了金龟
+拆下黑色涂漆的箱子并将其锁在顶部
+不要再向宋冬求婚了。
+Lang Cun Can 命 Lang Cun Khuong 寻找工人
+铜锅煮金甲鱼
+拿水洒满房子，房子就会死掉！
+从那里：
+明亮的屋顶，明亮的房子
+仓库早上，营地早上
+点亮宝座，点亮轿子
+明亮的早晨，明亮的床！
+克措国王宫殿的早晨
+天一亮就在达家喂蚕采桑！
+东门晓，西门晓
+照耀北门，照耀南门
+东池全城，谭权可祖！
 
-Indeed from there:
-The bird has entered the cage
-The peacock danced
-The horse has been stabled and harnessed
-The mandarin and the cun have entered the Chu house!
-The Lang family fired artillery and removed the command tube
-Send soldiers to invite Mr. Muong Bi and Muong Vang
-Invite Mr. Muong Thang, Muong Dong, Muong Vo
-All nine forests and ten lands came to celebrate the Chu family.
-Butcher ten elephants
-Wrestle thirty buffaloes
-Blow one thousand three hundred bundles of rice
-Boil a thousand jars of white wine
-Eight hundred jars of super wine
-Kill nine cows and seven hundred chickens!
-Breakfast and dinner at night are noisy
-Bright of, bright of people
-Dawn of the sky, dawn of the earth
-It's really the house of Mr. Cun, the mandarin
-Truly Mr. Lang's house in Muong Mon!
+确实从那里开始：
+骗子进了笼子
+孔雀翩翩起舞
+马已被稳定并套上挽具
+官和寸来楚府拜访了！
+郎家发射火炮并拆除指挥管
+命令士兵邀请Muong Bi先生和Muong Vang先生
+邀请Muong Thang、Muong Dong、Muong Vo先生
+九林十地都来为楚家庆贺。
+屠杀十头大象
+与三十头水牛摔跤
+吹一千三百袋大米
+煮一千坛白酒
+八百坛超级酒
+杀九牛七百只鸡！
+晚上早餐和晚餐比较吵
+明亮的人，明亮的人
+天之黎明，地之黎明
+真正的官房先生的房子
+真正的郎先生在Muong Mon的房子！
 
 #### 讲述语气提示
 - **上下半场换调：** 前半造 Chu 屋宏阔壮丽；后半 Khán Đồng 与 Sông Dón 遇险得佛陀相助，转为温柔暖意。
@@ -1059,201 +1059,201 @@ Truly Mr. Lang's house in Muong Mon!
 
 ### 第23章：焚烧 Chu 屋
 
-From the day Tam Tach left his body at the root of the tree
-Leaving behind a foolish wife
-With two young children.
-I heard the Lang family celebrate loudly
-**Tam** grabbed his shirt
-**Tach** hugged his shirt and followed him
-Go stand outside Lang's alley and look:
-- "People celebrate
-Why did my father die?
-People celebrate home
-Why did my father die?
-Dad was responsible for finding the secret
-Go chop the morning and yellow jars
-Dad was instrumental in telling the way and finding wealth
-Why are you starving me?"
+从 Tam Tach 离开原楚之日起
+留下愚蠢的妻子
+有两个年幼的孩子。
+听到郎家大声庆祝
+**Tam** 抓住了他的衬衫
+**Tach** 抱着他的衬衫跟着他
+去郎的胡同外面站一下看：
+- “人们庆祝门
+我父亲为什么死？
+人们庆祝回家
+我父亲为什么死？
+爸爸有发现秘密的功德
+拧紧晨黄环
+爸爸在指明道路和寻找财富方面发挥了重要作用
+你为什么让我饿着呢？”
 
-Seeing Cun Tang, Cun Toi came over
-The two quickly got out of the way
-Missing Mr. Lang's footsteps
-Come and welcome people of merit through the door.
-But the Langs walked straight past
-Don't care
-Leaving behind two pairs of expectant eyes
-My legs are tired, my stomach is hungry.
-The two brothers ventured into the large yard
-Head bowed, face dirty, hands dirty.
-The foreman immediately dragged him to the fence and shouted at him:
-- "What kind of celebration has someone with a torn shirt?
-Which guest has a dirty child?
-Torn skirts are prohibited from entering the mandarin's house
-It is forbidden to sit on a tray and drink wine!"
+看到Cun Tang，Cun Toi走了过来
+两人赶紧让开
+好奇郎先生的足迹
+来迎有功之人入门。
+但郎一家径直走了过去
+不在乎
+留下两双期待的眼睛
+腿站累了，肚子饿了。
+两兄弟冒险走进大院子
+低着头，脸脏，手脏。
+工头立刻把他拖到栅栏边，对他喊道：
+- “衬衫破烂的人会庆祝什么？
+哪位客人的孩子脏了？
+破烂衣服禁止进入官邸
+手脚脏了是不准坐在托盘上喝酒的！”
 
-Tam and Tach returned sadly
-Take the old cow to the market to sell
-Buy cotton pants
-The cotton shirt is healthy
-Come back to celebrate Chu's house again.
-That day, thousands of trays of buffalo meat passed through the alley
-Roast beef is out
-Only in the mother
-A pile of buffalo bones with no meat
-A piece of beef bone is sharp
-The Lang family threw it out to Tam, Tach!
+Tam 和 Tach 伤心地回来了
+把老牛带到市场去卖
+买木棉裤
+棉质衬衫完好无损
+再次回来给楚家庆贺。
+那天，数千盘水牛肉穿过巷子
+烤牛肉出炉了
+只在子宫里
+一堆没有肉的水牛骨头
+锋利的牛骨
+郎家扔给Tam，Tach！
 
-The two children were angry
-His face was angry and his eyes were purple!
-Tam picked up a cow bone
-Hit the silver drum hard
-Smooth cowhide rhythm drum:
-The drum surface is punctured like a sieve
-The drums are broken!
-Cun Toi, Cun Tang, Cun Khuong
-Quickly grabbed a silver sword and an ivory sword, ready to slash.
-Tam and Tach threw bones at the soldiers
-Screaming in the middle of the field:
-- "O Cun Toi, Cun Tang
-O Lang Cun Khuong, Chu Chuong longs for the country!
-My father left his body on Lai Ly hill, Lai Lang
-Dead lying on a hill of chu trees
-Give up food, give up rice
-Leave your children, leave your wife!
-But you guys are in the silver star
-Why is Muong country so bad?
-Chu's house is big
-Thanks to the publication, I found stone and copper leaves!
-Yet Lang looked at us like a cat
-Throw bones like a dog
-Being displeased, looking down on the needy and the poor!
+两个孩子生气了
+愤怒的脸，紫色的眼睛！
+谭捡到一根牛骨头
+用力敲响银鼓
+光滑牛皮节奏鼓：
+滚筒表面像筛子一样被刺破
+鼓坏了！
+Cun Toi、Cun Tang、Cun Khuong
+急忙抓起一把银剑，一把象牙剑，准备砍下。
+Tam 和 Tach 向士兵扔骨管
+球场中央尖叫声：
+- “O Cun Toi，Cun Tang
+O Lang Cun Khuong、Chu Chuong 思念祖国！
+我父亲将遗体留在莱朗的莱利山
+躺在楚树山上死了
+放弃食物，放弃米饭
+抛弃孩子，抛弃妻子！
+但你们住在银星
+芒国为何如此糟糕？
+楚家好大
+感谢出版，我找到了石头和铜叶！
+然而郎却像猫一样看着我们
+像狗一样扔骨头
+不高兴，看不起有需要的人和穷人！”
 
-Although the Langs looked after him
-Tam climbed up the window
-Raise your voice to pray to your father
-Stretching his neck to call his ghost:
-- "Let me know where your ghost is!
-Where is my father coming to protect me?"
-Immediately the sky became dark and cloudy
-Thunder, lightning, wind blowing:
-Light the lamp, the lamp goes out
-Light the torch, the torch burns out!
-Brothers Tam and Tach jumped into the yard
-Run to the fields
-Run down to the mulberry forest and into the dry stream
-Run out to the big beach and the yard
-Around the base of the clouds, the horizon
-Run away and disappear, no one can find you!
+朗夫妇照顾
+Tam爬上窗户
+大声向父亲祈祷
+伸手呼鬼：
+- “让我知道鬼魂在哪里！
+爸爸，你要去哪里保护我？”
+天空立刻变得阴暗多云
+打雷、闪电、刮风：
+点灯，灯灭
+点燃火炬，火炬熄灭！
+Tam 和 Tach 兄弟跳到院子里
+跑向田野
+跑下桑林，进入干涸的溪流
+跑去大海滩和giianh海滩
+云底周围，地平线
+逃走消失，没人能找到你！
 
-Months pass
-The Lang family came to arrest the mother
-Tam and Tach are starving in the forest
-I can't bear to hide from Lang and hurt my mother
-I had to return to accept my sins and make amends.
-Cun Toi and Cun Tang wanted to be beheaded immediately
-Lang Cun Khuong stopped:
-- "Forget it, children! They already know their crimes!"
-Then passed on to Tam and Tach:
-- "About selling the door, selling the house
-Sell far and near fields
-Buy nine monkeys from Lang's house
-One hundred cats catch mice
-Only after the ransom has been completed, the fine must be paid!"
+日月如梭
+郎家来抓母亲
+Tam 和 Tach 在森林里挨饿
+我不忍心瞒着郎伤害我妈妈
+我必须回去偿还我的罪孽和赎罪。
+Cun Toi、Cun Tang 想要立刻被砍
+Lang Cun Khuong 停了下来：
+- “别担心孩子们！他们已经知道自己的罪了！”
+然后传递给 Tam 和 Tach：
+- “关于卖门、卖房子
+出售远处的硬币，附近的硬币
+从郎家买九只猴子
+一百只猫捉老鼠
+赎金完成后，只需缴纳罚款即可！”
 
-Tam and Tach returned home, angry and angry
-I love my mother, but I'm angry at Lang
-Must sell all household items
-Selling Mo copper and far copper
-Selling until the chicken jumps the nest is enough to punish.
-There is no door left, no exit
-The two brothers sat by the alley
-The field banks sobbed.
+Tam和Tach回到家，心情又气又气
+爱你妈，生气郎
+必须卖掉所有家居用品
+出售钼铜、远铜
+卖到鸡跳出窝就够惩罚你了。
+没有门，没有出口
+两兄弟坐在巷子边
+在球场边抽泣。
 
-Suddenly there was an old woman harvesting fruit carrying fruit
-Stop to ask questions
-After hearing the story, tears welled up in my eyes:
-- "Stop it, Tam!
-Stop crying, Tach!
-Don't sit around and cry for pain anymore!
-Please tie straw to the cat's tail
-Hang fire on the monkey's tail
-Let them climb into the chu house, the house will collapse!"
+突然一位**老妇人拎着水果去收割**
+停下来问问题
+听完这个故事，我的眼泪夺眶而出：
+- “住手，塔姆！
+别哭了，O Tach！
+别再坐着哭泣了！
+请把吸管绑在猫的尾巴上
+在猴子尾巴上挂火
+让他们爬进楚家，房子就要塌了！”
 
-Tam and Tach listened to her and went to harvest
-Yes, please.
-Tam went to the forest to cut venom
-Go into the mountain hole to catch a poisonous ash-haired monkey
-Tach at home caught the cat and pulled it out.
-The two of them tied straw to the cat's tail
-Hang the torch on the monkey's tail
-Light a fire and drop it straight onto the roof of the house!
+Tam, Tach 听了她的话，去收获了
+拜托，拜托。
+Tam去森林砍毒液
+进山洞捉毒灰猴
+家里的Tach抓住了猫并将其拉了出来。
+两人把稻草绑在猫的尾巴上
+将火把挂在猴子尾巴上
+点燃火并将其直接扔到屋顶上！
 
-Chu's house burst into flames!
-The sky was red with fire and black smoke billowing
-Brighten the mountains of Ai
-Rang Hill Ri Lay Lai Lang
-Fire up Bay Linh fields!
-The fire burned for seventeen days
-Smoke flew for nineteen nights:
-Burned down all the guard posts
-Burned and lost a pair of belts
-Burned down ninety rice dunes
-Burning fish sauce warehouse and salt warehouse
-Burned down the bowl and towel warehouse
-Burned all gold and treasury treasury
-Fire the gun warehouse and the brimstone warehouse!
-Cun Toi palace and Cun Tang camp were burned
-Scorched silver, Lang Cun Khuong's throne!
-The fire spread to the countryside, the fire spread to the mountains
-Burning down the buffalo herding hill:
-The forest is bare, the grass is crushed, the rocks are crushed, and the creeks are dry!
+楚家突然着火了！
+天空被火染红，黑烟滚滚
+照亮整座艾山
+Ri Lay Lai Lang 山
+点燃Bay Linh 场！
+大火烧了十七天
+烟飞十九夜：
+烧毁所有岗哨
+两个皮带瓣都被烧毁并丢失
+烧毁了九十个米沙丘
+烧鱼露仓或盐仓
+烧毁了碗和毛巾仓库
+烧毁所有黄金和国库金库
+烧毁枪支仓库和硫磺仓库！
+烧毁Cun Toi宫殿和Cun Tang营地
+焦银，郎存姜王座！
+山火蔓延乡村，山火蔓延
+放牛山被烧毁：
+光秃秃的森林，压碎草地，压碎岩石，干涸溪流！
 
-The three Lang brothers share the same chapter
-Pull out a knife with a silver handle and an ivory handle
-Rush out to chase and kill Tam, Tach's son.
-The two of them ran all the way up the mountain
-Entering the green valley, passing through the sandy beach
-To the horizon of the clouds, to the horizon.
-Chase to the spot
-Tam and Tach transform
-Hide under a sycamore tree in the middle of the field!
-The Lang family passed by without knowing
-It's not good for the country to move forward.
-Lang Cun Khuong's face turned black with anger and his eyebrows turned purple
-Carrying a knife and slashing randomly at the sycamore tree to make you angry!
+郎兄弟三人同章
+拔出一把银柄和象牙柄的刀
+冲出去追杀Tach的儿子Tam。
+两人一路跑上山
+进入绿色山谷，穿过海滩
+到云海的地平线，地平线。
+靠近地点追逐
+Tam 和 Tach 变换
+躲在田野中央的梧桐树下！
+郎家不知不觉就路过
+不利于国家前进。
+Lang Cun Khuong 气得脸色发黑，眉毛发紫
+提刀乱砍梧桐树根惹你生气！
 
-Unexpectedly, there was red blood flowing out of the sapwood tree!
-Human blood mixed with opaque white blood:
-Real blood is still here but you can't see it!
-Blood flows into the tomato root, turning into a honey bean
-The blood flowed into the lolot leaf bush, turning into a moong hai
-The blood flowed into the open forest, turning into moong three and moong seven
-Blood flows into the forest, turning into moong nine, moong ten!
-A jet of blood
-Transforms into a **Giant Moong**
-Growing up, knowing how to laugh better!
+没想到，根部竟然流出了红色的血液！
+人血与不透明的白血混合：
+真血还在，只是你看不见！
+血液流入茄子根部，变成蜂窝状
+鲜血流入洛洛叶丛中，化为月光二
+血流入空旷森林，化为月三月七
+血流入森林，化作月九、月十！
+一股血迹
+变身**巨月**
+长大了，懂得笑得更好！
 
-Thunder rises, it grows nails and claws
-Lightning wakes up, it grows eyes and ears!
-Ears can probe, feet can crawl
-The back is covered with stripes like a deer
-Eyes bright like torches, like candles
-Claws as sharp as a sickle!
-Anyone who can't run fast will be pounced on and torn to pieces!
-At the beginning of the day, catch pigs and chickens
-In the morning, catch buffaloes and horses
-Half a day catching people in the forest
-Getting people to pick strawberries, mushrooms, and sim
-Even grabbed Mrs. Khuong and returned to her grandmother
-Even forced the healer Vong to visit me!
-All over the upper and lower villages
-Crying before Moong's footprints.
+雷霆升起，长出指甲和爪子
+闪电醒来，长出了眼睛和耳朵！
+耳可探，脚可爬
+背部布满了像小鹿一样的条纹
+眼睛像火把一样明亮，像蜡烛一样
+爪子像镰刀一样锋利！
+谁跑得不快就会被扑上撕成碎片！
+初一抓猪抓鸡
+早上，抓水牛、抓马
+半天森林抓人
+强迫人们摘草莓、蘑菇、sim
+扑向Khuong太太，回到她奶奶身边
+强迫治疗师Vong来看我！
+遍布上下村
+看着Moong的脚印哭了。
 
-Chu Chuong and his country had to buy spears and spears
-Slinging in the forest, sharpening guns to perfection
-Hunting **the Giant Moong**, a strange beast!
-The matter of the Zhou family's suppression is over
-Listen to the story of Moong Lo Hunting below.
+楚楚国要买矛、矛
+在森林中使用弹弓并训练你的枪变得完美
+狩猎**巨月**，一种奇异的野兽！
+周朝镇压的事情结束了
+下面请听巨月狩猎的故事。
 
 #### 讲述语气提示
 - **孤儿委屈：** 开篇两孩子立于门外读得低微凄清。

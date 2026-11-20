@@ -5,375 +5,375 @@
 
 ### 第28章：迎君主回归 Đồng Chì Tam Quan Kẻ Chợ
 
-**Part 1: Worry about clothes and clothes**
+**第1部分：担心衣服，担心衣服**
 
-Chu's real estate has moved on
-Muong land is already rich.
-Chu Chuong wished to welcome the king
-Back to Dong Chi land, Tam Quan Ke Cho.
-But the king doesn't have a red shirt yet, and his pants are loose
-There is no blue brocade belt yet
-There is no silk scarf yet
-No red flower hat yet.
-Muong had to find people who knew how to weave cloth and pick berries
-In the land of Khanh Hao, Tang Ham.
-Lang ordered her **Det Cai Dung**, a good and smart child
-Find a weaver with tips
-Find someone who is skilled at weaving silk.
+褚家房产变了
+芒国的土地本来就很富饶。
+ 楚冲思念国家，欲迎君王
+关于 Đồng Chì，Tam Quan Kẻ Chợ。
+但是国王还没有红衫，裤子也宽松
+还没有蓝色锦带
+还没有丝巾
+还没有红花帽子。
+Muong一定要寻找懂得织布和采摘浆果的人
+在庆浩的土地上，唐咸。
+郎对她说**点才当**，善良又聪明的孩子
+寻找有技巧的织工
+寻找会织丝的人。
 
-Deep rainy day
-Dot Cai Dan took the knife to the wharf door
-Arrive at the door of the jungle
-In the evening, visit Hang Hao and Hang Hap.
-She asked after the fisherman at the head of the wharf
-Spider catcher in the forest:
-- "Let me ask you:
-At the entrance to Lang's house in Bay
-The alley of my sister's house picking strawberries
-Which alley, which way, kids?"
-The one who went fishing and the one who caught spiders replied:
-- "Let's go into the forest alley
-Go to the edge of the ironwood forest
-There is a flock of blue birds at the end of the alley
-Banana flower birds flank the door of the house
-In the house weaving is noisy
-This is the family that picks mulberries and skillfully raises silkworms."
+漆黑的雨天
+那蔡当拿着刀来到码头门口
+到达丛林入口
+晚上，参观Hang Hap和Hang Hap。
+她询问码头第一个渔夫的情况
+在森林里抓蜘蛛的人：
+- “我问你：
+湾郎家门口
+姐姐家的巷子摘草莓
+哪条巷子，哪条路，孩子们？”
+钓鱼的，抓蜘蛛的回复：
+-“我们去森林小巷吧
+前往铁木森林边缘
+巷子尽头有一群青鸟
+香蕉花鸟在房子的门两侧
+屋里织布的声音很大
+这就是采桑巧养蚕的人家！”
 
-Dat Cai Dung sneaked in
-Greet Mr. Lang at the elevator door
-Greet Mrs. Lang at the living room window
-Then he spoke:
-- "We are rich and luxurious
-Muong wanted to take the king back to Dong Chi, Tam Quan Ke Cho
-But the king doesn't have a silk shirt or loose pants yet
-There are no red and blue belts or silk scarves.
-Muong let me come to Lang to spin yarn
-Mr. Lang Bang picks strawberries and pulls cocoons
-Teaching how to pick plump mulberries and weave cool brocade!"
+Dát Cai Đình 潜入
+电梯门口的郎先生你好
+客厅窗边的郎太太你好
+然后他说：
+-“我们富裕又奢侈
+Muong想把国王带回Dong Chi，Tam Quan Ke Cho
+但是国王还没有丝绸衬衫或宽松的裤子
+没有红蓝腰带和丝巾。
+Muong让我来郎纺纱
+Mr.郎邦摘草莓、拉茧
+教你摘富桑，织凉锦！”
 
-Mrs. Lang opened her heart and said quickly:
-- "I give Lang's family a small mulberry tree
-Bring it home and plant it around your garden
-Planted in fields and fields.
-Give me one more:
-Yellow gold is silkworm fruit
-Black black is strawberry.
-Leave it for a long time and the fruit will bloom
-A silver butterfly and a silk butterfly bloom:
-Silver butterflies lay eggs
-Silkworms spin thread, spin cocoons, and weave easily!"
+女士郎敞开心扉，连忙说道：
+- “我送郎家一棵小桑树
+把它带回家并种植在你的花园周围
+田野间种植。
+再给一张：
+黄金是蚕果
+黑色是草莓。
+ 放久了，果子就会开花
+绽放的银蝴蝶，丝蝴蝶：
+银蝴蝶产卵
+丝蝴蝶纺线，结茧，织起来很方便！”
 
-Dat Cai Dat gets tips on picking strawberries
-Fishing for silk and cocoon fishing
-Immediately stride back to the village.
-Chu Chuong played two rounds of the third gong
-Play three nine drum beats
-People crowded Lang's yard and covered the floor of the house to listen to the teachings:
-Dat Cai Duong teaches strawberry picking tips
-Legend of spinning silk and raising silkworms.
+Dhat Cai Don 学会了摘草莓的技巧
+ 钓鱼抽丝抽茧
+ 立即大步回村。
+ 朱冲敲第三锣两遍
+奏三九鼓
+人们挤满了朗家的院子，铺满了房子的地板来听法：
+Dhat Cai Duong 教你采摘草莓的技巧
+纺丝养蚕的传说。
 
-On a good day, there are three gongs per year
-Muong roared up and waded through the clouds, connecting feet
-Clearing three valleys, seven long valley fields
-Let's grow green strawberries with Dat Cai Dung.
-Some people cut old bamboo, others lean young bamboo
-Cut into pieces and weave silk cocoons
-Knitting and waiting for silkworms to turn silver.
+好日子，三五锣响
+Muong怒吼而起，涉水穿云，连脚
+清三谷，七长谷田
+让我们和Dat Cai Dan一起种植绿色草莓吧。
+有人砍老竹，有人瘦嫩竹
+切块织丝茧
+织布，等待蚕变银。
 
-Half a day, silkworms bite the body
-Silver silkworms come out and want to eat sweet mulberry leaves:
-Muong water is bustling
-Pick green mulberry leaves and sprinkle them around the silkworms.
-Have a cool full moon day, a good day and auspicious month
-Silkworms wake up and crawl around the leaves
-Crawled across, crawled back to the shore
-Release the golden thread
-Release a stream of iridescent silk!
+半天蚕咬尸体
+银蚕出来了，想吃甜甜的桑叶：
+孟水流热闹
+摘下青桑叶，撒在蚕周围。
+清凉满月日，吉祥日吉月
+蚕醒了，在叶子周围爬行
+爬过去，爬回岸边
+释放金线
+释放出一股闪闪发光的丝绸！
 
-Muong prepares silk for one month
-Carry silk for nine days.
-Dot Cai Doan advised:
-- "Put the silk into a quiet stream and rinse it until it's clear!"
-The man carrying silk to the river:
-**Silk spreads gold all over the wharf**
-**The silk shines to the home of the Dragon King's Water Palace!**
-The Water King sent fish to attack and rob
-Both are tired
-The silk is gone, the burden is lonely and sad, returning.
+Muong准备一个月的丝绸
+携帛九日。
+Dát Cai Đình 指示：
+-“将丝绸放入轻柔的溪流中，冲洗干净！”
+运丝绸到河边的人：
+**丝绸铺满码头**
+**丝绸照耀龙王水宫之屋！**
+水王派鱼袭掠
+整个村子都累了
+丝已去，担子孤苦归。
 
-At that time, the silkworm's mouth often talked
-The silkworm's heart often says:
-- "The silk is messed up, but I'm still full!
-From now on, I will lay my own cocoon:
-I will curl the golden cocoon and roll it to make a silk cocoon!
-Humans want to get the silk thread
-Must boil a pot of water
-Drop the cocoon in, use chopsticks to thread the thread
-But it turns into a smooth, strong silk thread
-The clothes you wear will last a long time!"
-Having finished speaking, the silkworm crawled to the hot mouth
-Cows graze the banana bush
-Sewing silk in a hurry
-Hook the cocoon on a branch or leaf!
+那时候蚕的嘴往往是薄的
+蚕的心常说：
+- “线程乱了，但我还是饱了！
+从现在开始，我要自己作茧：
+我会把金茧卷起来，卷成丝茧！
+人类想要得到丝线
+必须烧一锅水
+把茧放进去，用筷子穿线
+被拉成光滑、坚固的丝线
+你穿的衣服会穿很久！”
+说完，蚕就爬到了嘴边
+牛爬进香蕉丛里
+匆匆织丝
+把茧挂在枝叶上！
 
-Listening to the silkworm's words, Muong boiled a large pot of water
-Pour the cocoon into the boil
-Tie the silk thread and pull it out
-Thread all over the house, stuck in the loom!
-Dot Cai Duong weaves and weaves bamboo shoots
-Move the shuttle quickly
-Quickly pedal, pound and pound!
-Into weaving for a month
-Dot Cai Đình finished weaving the golden silk sheet
-The silkworm house is shiny and shiny!
+听了蚕的话，Muong煮了一大锅水
+倒入茧，煮开
+系住丝线并将其拉出
+满屋子织线，卡在织布机里！
+蔡丹织隔膜，织竹笋
+ 快速移动梭子
+赶紧踩脚，咚咚咚！
+编织一个月
+蔡丹金丝布织完
+蚕房闪闪发亮！
 
-Muong Nuoc immediately went to welcome **Mrs. Da Dan**
-About cutting loose pants, cutting shirts and scarves for the king to oversee the soldiers and oversee the village.
-Lady Da Dan's mouth is full of food
-My body often wears:
-Demanding to eat buffalo meat in front of the gate
-Drink seven jars of super wine
-Wearing a cashew shirt and red pants
-Ask for three baskets of rice seed, nine tubs of sturdy rice!
-Chu Chuong and Muong country all like it and buy it.
+Muong Nuoc立即前去迎接**夫人。大丹**
+关于为国王裁剪宽松的裤子、裁剪衬衫和围巾，以监督士兵和监督村庄。
+大蛋嘴经常吃东西
+我的身体经常穿着：
+要求在门前吃水牛肉
+喝七坛超级酒
+穿腰果衬衫和红色裤子
+ 求三篓稻种，九桶结实米！
+Chu Chu Chuong Muong Nuoc 产品都很满意，就购买了。
 
-Lady Da Dan went out to the middle of the hill to pray to the sun and the fairies
-Then he stepped onto the doorstep, entered the house and sat far away:
-Cut pants three, shirt seven
-Sewing seven pants and yellow cotton shirt
-Cut the green and yellow brocade belt
-Sewing silk scarves!
-After sewing, present it to the king to see:
-The king looked at it with great satisfaction
-Try it on with your back turned on, it fits, you're satisfied!
+大丹妈妈出去到半山腰祈求太阳和仙女们
+然后上门台阶，进屋远远地坐着：
+剪裤三，衬衫七
+缝制七分裤和黄色棉质衬衫
+剪绿、黄锦带
+缝制丝巾！
+缝好后，献给国王看：
+国王看着非常满意
+翻背试穿，合身，满意！
 
-Chu Chuong looked at the king in good clothes
-People in the house complimented the king on his beautiful clothes
-Everyone praised Mrs. Da Dan
-Everyone is grateful to Ms. Dat Cai Dung, a good and smart child:
-More than a hundred years old, it still steeps one day
-Take care of buying clothes and making pants for the king to wear
-Teach Chu Chuong Nuoc to know how to make silkworms!
+楚闯看着国王的好衣服
+家里的人称赞国王的裤子很漂亮
+大家都夸大丹太太
+大家都很感激Dat Cai Danh女士，一个善良又聪明的孩子：
+一百多年了，还是有一天陡
+担心买衣服做裤子给国王穿
+教Muong Nuoc Chu Chuong桑树产业！
 
-There are loose pants, brocade shirts, and embroidered scarves
-But there is no throne, no palanquin:
-Muong Nuoc refused to carry the king on a regular stretcher
-I want to buy a dragon palanquin, a peacock-tailed throne, and a swallow-tailed throne.
-Rich people and poor villages told each other to make thrones and palanquins.
+已有宽松裤、锦缎衬衫、绣花围巾
+但是没有宝座或轿子：
+该国拒绝用普通担架运送国王
+想买龙轿，孔雀尾宝座，燕尾宝座。
+富人和穷村互相叫着做王座和轿子。
 
-**Part 2: Worrying about the palanquin, worrying about the throne**
+**第二部分：担心轿子，担心皇位**
 
-The king had a silk shirt and loose pants
-Three thousand blue brocade belts
-Eight thousand silk scarves
-Nine thousand dragon crested flower hats.
-Chu Chuong wanted to take the king to Dong Chien Tam Quan Ke Cho
-But there is no throne, no palanquin.
+国王已经有了丝绸衬衫和宽松的裤子
+三千绿色锦带
+八千条丝巾
+九千顶龙纹花帽。
+Chu Chuong想带国王去Dong Chi Tam Quan Ke Cho
+但是还没有宝座和轿子。
 
-Play three rounds of the fifth gong
-The child at Lang's house went looking for a skilled craftsman:
-Carvers, chisels
-Carpenters carve turtles and cranes
-A craftsman carves a dragon's back.
-He went into the tall forest to cut a tree just in time
-Eating nine packets of sticky rice and ten packets of plain rice.
-Find a carver or stripper
-The chisel is good
-Craftsmen carve cranes, deer and dragons
-Busy fighting with **King Mong Nong** in the middle of the beach!
+第五锣敲三遍
+郎家的孩子去找能工巧匠：
+刀具、凿子
+龟鹤雕刻师
+工匠雕刻龙背。
+他走进高大的森林，正好砍倒一棵树
+吃九包糯米和十包白米。
+寻找雕刻师或脱衣舞娘
+凿子不错
+鹤龙雕师
+在海滩中央忙着与**蒙农王**战斗！
 
-The one carrying the spear rushed forward to fight and save:
-King Mong Nong lied
-Run away, run sideways
-Run to the river, jump into the water!
-The chisel was breathing hard, the carver was hungry
-Offering thanks:
-- "Are you looking for rice or looking for property and looking for people?"
-Meet me here and save me from death?
-What credit can I receive, what favor can I receive in return?
+提着长矛的男孩冲过去帮忙：
+蒙农王是个骗子
+避免逃跑、斜跑
+换腿跑到河边，跳进水里！
+凿子气喘吁吁，雕刻师饿了
+表达感恩：
+-“你是找米还是找东西找人
+在这里遇见我并救我于死地？
+我应该得到什么奖励，我能得到什么恩惠？”
 
-He walked with his index finger to the palace door and said:
-- "I don't go looking for rice, I don't look for a place to live.
-I'm looking for a craftsman who specializes in carving crane backs and dragon stripes
-Make a palanquin, make a throne to bring the king to Ke Cho!
-Saving people doesn't count
-Are you a skilled craftsman who teaches the craft of carrying a palanquin?
-Follow me back to Muong!"
+他伸出食指走到宫殿门口，说道：
+- “我不找米，我不找住处。
+我要找雕刻鹤背龙纹的工匠
+做轿子，做王座，把国王带到克措！
+救人不算力气
+您是传授抬轿手艺的能工巧匠吗？
+跟我回Muong！”
 
-The old worker then said a word:
-- "I ate a dozen bowls of rice
-Drink seven jars of wine in one gulp!
-If the Lang family buys enough for me, then do:
-I would like to be **dragon's palanquin**, **peacock's tail throne**!
-Bamboo is subject to the Lord's union
-Wood has mountains
-There will be painted palanquins, golden thrones of all levels!"
+老工人接着说了一句话：
+- “吃了十碗饭
+一口气喝掉七坛酒！
+如果郎家给我买的足够了，那就：
+我想做**龙轿**、**孔雀尾宝座**！
+竹与主合一
+木成山
+将会有彩轿，各级金宝座！”
 
-He went to lead the palanquin and throne workers immediately
-End of the valley, end of six streams
-Arrive at the beginning of Cua May village, the beginning of the king's land.
-Seeing people sitting around, crowded
-The palanquin worker came in and said: "I would like to make offerings to the Muong ghost!"
-The throne worker came in and said: "I would like to exorcise evil spirits and ghosts!"
+他立即去带领轿子和宝座工人
+ 山谷尽头，六溪尽头
+前往Cua May村的起点，王地的起点。
+看到人们围坐在一起，拥挤
+轿夫进来说道：“我要拜一下芒鬼！”
+王座工人进来说道：“我要驱除恶鬼鬼魂！”
 
-Taking workers to the wood yard:
-Workers sawing large pieces, sawing small pieces, and cleaning the wood spent ten days
-Close the wheel to make a palanquin
-Close diagonally to make a throne
-Red paint for long blows
-The throne is painted bright gold!
-Choose four hundred Muong boys
-He wears a dragon-painted shirt and yellow pants at court
-Go to the stream to bathe in the palanquin to be clean and clear
-Then take the palanquin to the village!
-The king looked at it and praised him:
-There is a dragon palanquin
-There is a shining throne!
-Chu Chuong bought enough to bring the king back to Dong Chi Tam Quan Ke Cho.
+带工人到木材场：
+工人锯大锯小、清理木材十天
+制作轿子
+对角制作王座
+红色油漆适合长时间打击
+王座被漆成了亮金色！
+选出四百名芒童
+他在法庭上穿着龙画衬衫和黄色裤子
+去溪边给轿子洗澡干净明亮
+那就坐轿子去村里吧！
+国王清清楚楚地看着他，楚楚王看着他称赞道：
+有龙轿
+有一个闪亮的王座！
+Chu Chu Chuong已经做好了足够的准备，可以将国王带回Dong Chi Tam Quan Ke Cho。
 
-**Part 3: Bringing the king back to Dong Chien Tam Quan Ke Cho**
+**第 3 部分：将国王带回东芝潭泉可祖**
 
-Early dawn:
-Assembly, assembly
-Huong festival, water festival!
-Nine sets of drums and gongs go first
-Ten wards **color talismans** follow!
-There were soldiers at the front carrying swords and spears
-The leader in Cay Gao village
-The person locked his tail at Poong Peu.
+黎明：
+集会、会议篇
+芒节，送水节！
+九组鼓锣先行
+十个结界**彩色护身符**跟随！
+前面有拿着刀枪的士兵
+高孟岛的领导者
+将尾巴锁在Poong Peu的人。
 
-The girl murmured in the river
-The boy walked into the mountain
-The old man walked along the field
-The old woman mended the fields and fields
-Beautiful shirt, slack pants like a bee, like a butterfly!
-Crows flew over and cried loudly
-Butterflies fly back to butterflies
-When the deer saw it, it was startled and ran away
-I poured myself into a deep pool
-The crab fell out of the cave
-The fish were bewildered, the harps flew away!
+少女在河里呢喃
+男孩走进山里
+老人沿着田野行走
+老妇人修补田地和田地
+漂亮的衬衫，宽松的裤子像蜜蜂，像蝴蝶！
+乌鸦飞过来咯咯叫
+蝴蝶飞回蝴蝶
+鹿看见了，吓了一跳，跑开了
+我把自己倒进一个深水坑里
+螃蟹从洞里掉出来了
+鱼儿迷惑了，竖琴飞走了！
 
-The person above pulled back
-The person below pulled up
-Listen to the preacher:
-- "Whoever doesn't have rice should go pound rice
-Those who don't have fish should slap the lagoon or pond
-The next morning, go and bring the king to dawn, early!
-Please pray for forty young boys and forty young boys
-Wear a yellow striped palanquin
-Wear red pants and braces
-Wear a woodpecker hat
-Carry the palanquin beautifully and beautifully!
-Please buy enough drums and gongs
-Giong seven days, nine nights
-Worry about torches and lamps to light up the sun!
-Ask for a hundred loads of white rice and nine loads of dried meat
-Take out to eat monthly, eat daily!
-The girl wears silver bracelets all over her arms
-Boys tie cloth to their wrists to make their souls strong!
-Please expect to be young and old, strong and thin
-Spread it to each other, show it to each other clearly!
-Carry swords with sheaths and spears with hilts
-Warn anyone who commits evil
-Carry a spear to prevent the enemy from rioting on Chu hill
-Enemy chaos on the wide river!"
+上面的人拉了回来
+底线的人拉上来
+听讲道者：
+- “谁没米就去舂米
+谁没有鱼就拍泻湖或池塘
+第二天一早，早点去把国王带到黎明！
+请为四十少年、四十少年祈愿
+穿黄色条纹轿子
+穿红色背带裤
+戴上啄木鸟帽
+抬轿子漂亮又漂亮！
+请购买足够的鼓锣
+风七日九夜
+ 担心火把，担心烧灯褪色！
+请要一百担白米，九担肉干
+月子饭拿出来，天天吃！
+女孩手臂上都戴着银手镯
+男生把布绑在手腕上，让灵魂坚强！
+请各年龄层、老少、壮瘦
+好好告诉对方，给对方看清楚！
+携带带鞘的剑和带柄的矛
+警告任何制造麻烦的人
+提枪阻止入侵者在楚山骚乱
+敌人在宽阔的河边陷入混乱！”
 
-At the beginning of the night, I heard three drum beats
-Mountain caves and long stretches call Chu Chuong to wake up
-Longing to come quickly, longing to come quickly.
-At midnight, I heard three more sounds of the gong and the palanquin
-The king bought eighty palanquins
-Carrying the king's palanquin in red, the king's throne clearly visible:
-**Nine clouds can also hear the sound of drums**
-**Hear the bell ring!**
+夜初，听见三声鼓声
+山洞海浪呼唤楚闯醒来
+ Muong 来得快，Muong 来得快。
+半夜，又听到三声锣响
+国王买了八十轿子
+处理红色王轿，国王的宝座清晰可见：
+**九云之上也能听到鼓声**
+**听到铃声响起！**
 
-Sitting on the dragon palanquin
-The king looked out at the fields
-Looking down at the river
-Turning back to look at the water cycle:
-There are no more enemies
-No more stumbling blocks!
-Only see:
-Storks fly around
-Saw the cows going to eat
-Saw a buffalo in the middle of the beach
-Seeing a girl carrying water
-Seeing the cauldron go out to eat
-See a herd of deer running around!
-Diet Dang is very happy!
+坐龙轿
+国王眺望田野
+俯视河流和码头
+转身看水循环：
+不再有敌人
+不再有绊脚石！
+仅见：
+成群的鹳鸟飞来飞去
+看牛去吃东西
+在海滩中央看到一头水牛
+看到一个挑水的女孩
+看到大锅出去吃饭
+看到一群鹿跑来跑去！
+饮食党很开心！
 
-Suddenly I heard the rooster crowing
-As he taught the king:
-- "There is about Dong Lead Tam Quan Ke Cho
-Still remember returning to my ancestral land
-Remember your home land!
-The full moon day passes, the distant day comes
-Remember where land and water give birth
-The birthplace of the Si tree divides the country and divides the country
-Where fire is born, where home is born
-Where there are stone gourd trees and copper gourd leaves
-Brass cotton, tin balls
-Where there are people who teach weaving
-Where there are workers who know how to make palanquins and thrones!"
+突然听到公鸡打鸣的声音
+如教导国王：
+- “谭权科祖有关于铜铅的内容
+还记得回到祖地
+记住祖国！
+满月日过去，缺席的日子到来
+记住土地和水的诞生地
+梧桐树出生的地方分为乡村和乡村
+火在哪里诞生，家就在哪里诞生
+有石葫芦树、铜葫芦叶的地方
+黄铜棉球、锡球
+有人教编织的地方
+那里有会做轿子和宝座的工人！”
 
-The king looked out again at the wharf, looking back at the river source
-Seeing people waiting
-There are many servants and servants
-There are all kinds of bearded men and old beauties.
-The king immediately lifted his sleeve, pointed his finger and told the old man:
-- "Old men!
-You are fathers and ancestors
-He returned for help
-Stay at home and stay healthy
-Don't go too far over the mountain!"
-The old man bowed silently and said:
-- "King, don't be shy!
-He even took his feet to the river
-He also went through the mountain
-I want to send the king off to the hills
-Bring the king to Nhat Muong
-Even if you die and rot, you'll still be satisfied!"
+国王再次眺望码头，回望河源
+看到一大群人在等待
+充满了仆人和仆人
+各种胡子男、老美人都有。
+国王立即扬起衣袖，指着老者：
+- “老铁们！
+你们是父亲，是祖先
+他回来解脱
+在家，保持健康健康
+不要翻山太远！”
+老人默默鞠了一躬，说道：
+- “王，别害羞！
+他甚至把脚放到河边
+他还是翻山越岭
+想送国王上山
+将国王带到Nhat Muong
+就算死了，骨头都腐烂了，也好听啊！”
 
-Immediately, the king looked further away
-Seeing grass and trees growing
-Green leaves bud, newly curled leaves
-The king's hand broke off a branch
-Sprinkle leaves on the road
-Tell them to make sure they have enough business
-Remind people to stay healthy and stay healthy.
-The king did not go to Ke Cho alone
-Don't live alone, just be alone.
+那一刻，国王的目光望向更远的地方
+看草木生长
+绿叶芽，新卷叶
+国王的手折断了一根树枝
+在路上撒上树叶
+告诉我们要有完整的商业计划
+提醒人们保持健康，保持健康。
+王不单独前往克措
+不要一个人住，就一个人呆着。
 
-From now on
-This day, the day has come
-The land has been made, it has been revealed
-The alley has been done, it has been done!
+从现在开始
+这一天，这一天来了
+地球已经被造，它已经被揭示
+胡同完成了，完成了！
 Chu Chuong Muong Nuoc:
-Everyone does it
-People who eat and talk often
-Someone who calls and talks often
-Old stories from ancient times are passed down well
-The top is beautiful, the whole branch is beautiful
-For the next ten generations, become a place, become a place!
+每个人都会这样做
+经常吃饭、说话的人
+经常打电话、经常说话的人
+自古以来的老故事都流传得很好
+顶部很漂亮，整个树枝都很漂亮
+为了未来十代人，成为一个地方，成为一个地方！
 
-The matter has come to an end
-Giving birth to land, giving birth to people
-Things should be fun
-Fight ghosts, fight demons and return to the forest
-Born, became the land of Dong Chi Tam Quan Ke Cho!
-Who is still listening?
-I've heard it and heard it again
-Listen for the rest of your life
-The story begins according to good years and good months:
+故事已完结
+孕育地球，孕育人类
+应该很有趣
+斗鬼斗魔回归森林
+生下后，成为东芝谭权克措之地！
+谁还没听完？
+听过又听过
+余生永远聆听
+故事按照好年好月开始：
 
-This land, this land
-Hey chu, hey chapter
-Hey fire, hey water!
-The sun has risen
-The face of the month has become clear
-It's morning, it's morning
-**Brighten the country, brighten the country!**
+嘿土地，嘿Muong
+嘿楚，嘿章
+嘿火，嘿水！
+太阳已经升起
+这个月已经明朗了
+周期已破晓，章节已破晓
+**光明的国家，光明的国家！**
 
 #### 讲述语气提示
 - **三段礼乐：** 采桑织绸（细腻）→ 救匠造轿（诙谐）→ 迎王归朝（开阔庄重）。

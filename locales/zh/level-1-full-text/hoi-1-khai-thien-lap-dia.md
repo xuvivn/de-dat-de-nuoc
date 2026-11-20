@@ -5,1105 +5,1124 @@
 
 ### 第1章：开篇——讲述一段古老的故事
 
-Telling an old story:
-On the hill, I spoke to the silver butterfly
-Under the water, I talk to you
-In the sky, I speak to the Milky Way River
-Inside the door of the house
-The elderly pass it on to their children.
+讲一个老故事：
+在山上，我对银蝴蝶说话
+在水下，我和你说话
+在天空中，我对银河河说话
+屋门内
+老人传给孩子。
 
-I want silk to make pants and shirts
-I want a white, cottony beach filled with rice
-Dyed purple and blue
-Want to weave brocade in the dragon's yard
-I want to spread a white cloth for a tall shirt
-Children of tomorrow's people
-We must go to Dong Bong hill early.
+想要有丝绸做裤子和衬衫
+想要一片白色的、棉花般的、种满稻米的海滩
+染紫色和蓝色
+想在龙院织锦
+想铺一块白布给高衫
+明天的孩子
+一定要早点去东峰山。
 
-Want to eat grilled deer meat, dried deer
-Want to eat braised fish, pickerel fish
-Children of tomorrow's people
-You have to go down to the river and cast your net
-Go into that stream and weave it
-Make forks, make threads.
-A boy goes to the forest and has a friend with a gun
-A girl pounding rice has a basket and a straw friend.
+想吃烤鹿肉还是干鹿肉
+想吃红烧鱼或者梭子鱼
+明天的孩子
+你必须到河边撒网
+前往那条溪流并编织它
+制作叉子和线。
+一个男孩去森林，有一个带枪的朋友
+舂米姑娘有篮子，有网友。
 
-Want to know the story of the ancient Muong people
-So look it up and listen to it.
-Old people and children forget their hunger when they hear the story
-Boys and girls listen to stories
-Leave all the sims in remote areas
-Found out that.
-Listen to one story clearly
-Tell the wall something
-Listen to all the tops, all the branches
-Full day, full day
-Help me remember.
+想了解古代芒族的故事
+然后看到并听到它。
+老人和小孩听了这个故事就忘记了饥饿
+男孩女孩听故事
+将所有SIM卡留在偏远地区
+我觉得好难。
+清晰地听故事
+告诉墙壁一些事情
+听听所有上层、所有分支的声音
+全天，全天
+让你的心记住。
 
-Once upon a time, that day
-Under the ground, there is no land yet
-In the sky, there is no sky yet
-There are no red stars in the sky
-There is no green grass under the ground.
-Without land, people are still afraid of being lost
-Without water, people are still afraid of ghosts
-About the scene of returning to Muong, afraid of the ghost of the rock
-Fear of bad luck and bad omens
-Afraid of ghosts and human shadows.
+从前，那天
+地下，还没有土地
+天空中，还没有天空
+天上没有红星
+地底下没有绿草。
+没有土地，人们还是害怕迷路
+没有水，人还怕鬼
+关于回到Muong的场景，害怕岩石的鬼魂
+害怕霉运和不祥之兆
+对鬼和人的恐惧。
 
-There is no water around the mine yet
-There is no river rhyme in three directions
-There is no way or way back
-Haven't given birth yet
-The land is still fragmented
-The water is still bubbling
-Look up, look down in darkness.
+矿井周围没有水
+三路无江韵
+没有回头路
+还没生孩子
+土地依然碎片化
+水还是很乱
+在黑暗中向上看，向下看。
 
-I want to wake up but I haven't heard anything yet
-Buong wants to wake up but there is no dust
-The stream wants to wake up but there is no branch yet
-I want to wake up but I don't have any money.
-The roots want to wake up
-You should not climb too hard
-The cassava vine wants to wake up
-It is not a place to be forced
-I want to wake up
-Haven't climbed land or water yet.
+我想醒来但我没有俚语
+Buong想要醒来但还没有灰尘
+想要唤醒的流还没有分支
+你想起床但还没有时间吗？
+根想要醒来
+爬的时候不要太用力
+木薯藤要醒来
+这不是一个被迫的地方
+我要醒来
+还没有爬过陆地或水上。
 
-The sword wants to rise but doesn't have steel yet
-The narrow flag wants to rise but there is no wall flag yet
-Carrying rice and wanting to get up, there is no way to carry wine
-The waterfall wants to wake up but there is no star yet
-Why do you want to wake up without a day or a month?
-The plowmen want to wake up but have no hands
-Tomorrow I want to wake up but I don't have a tongue
-Every row is opaque, every guy wants to get up
-There is no hammer or anvil yet.
+剑欲升却无钢
+窄旗欲升却无墙旗
+我想拎米起床，但还不能拎酒
+瀑布想要醒来却还没有醒来
+为什么一天没一个月就想醒来？
+农夫想醒来却没有双手
+明天我想醒来但我没有舌头
+货不透明，男人要醒醒
+还没有锤子，没有铁砧。
 
-The swallow wants to wake up but there are no birds yet
-If the monkey wants to wake up, there is no But hill or U hill
-The cuckoo wants to wake up and doesn't have a bead yet
-Butterflies want to wake up without antennae
-The buffalo wants to wake up but there is no cow yet
-The little bird wants to wake up but there is no warbler yet
-The lark has not yet worn its enamelled clothes.
+燕子想要醒来，却还没有鸟儿
+如果猴子想醒来，就没有But hill或U hill
+杜鹃想要醒来却没有念珠
+蝴蝶想要在没有触角的情况下醒来
+水牛想醒来却没有牛
+小鸟想醒来却没有莺
+云雀还没有穿银衫。
 
-The kingfisher wants to wake up but the bird is not there yet
-I want to wake up but my chest and hips are still there
-Statues and pipes without horns or tusks
-Roosters and wild chickens without crests
-Peacocks and pheasants have not yet had their combs
-Hello, do you want to wake up, little bird?
-The birds sing but the birds gather.
+翠鸟想要醒来，却还没有鸟儿
+爸爸想醒来但没有胸没臀
+雕像、无角或獠牙的管子
+没有鸡冠的公鸡和野鸡
+孔雀和雉鸡无冠
+你好，小鸟，你想醒来吗？
+鸟儿歌唱，鸟儿聚集。
 
-Banana fish and anchovy fish have no gills or fins
-Humans have no face or nose yet.
-My king's teachings still compete with my king's teachings
-No village furniture, private property
-The king does not love, the lord does not like
-Not a clumsy person, not a talented one
-Tough.
+香蕉鱼、无鳃无鳍凤尾鱼
+人类的孩子还没有脸或鼻子。
+我仍然与你们国王的宗教竞争
+没有乡村家具、私有财产
+王不爱，主不喜欢
+有些人笨拙，有些人才华横溢
+艰难。
 
-The water of the river is not as good as the bai bai leaves
-The water of the river is not as good as the famous leaves
-There is no water in the Tam and Te rivers yet.
-The hill has no young bamboo shoots yet
-The hill has no bamboo shoots and is full of holes.
-Under the water there are no fish or shrimp yet
-At the beginning of the day, the slug and turtle had not yet been born
-None of them have faces or legs
-Cows go to eat on the hills.
-In the water, there are no otters yet
-There are no people in river or stream cages yet.
+河水不如白白叶
+河水不如名叶
+Tam河和Te河还没有水。
+山上还没有嫩笋
+山上还没有长满洞的竹笋。
+水下没有鱼虾
+刚开始的时候，还没有鼻涕虫和海龟
+目前还没有动物有脸或腿
+牛去山上吃东西。
+水里，水獭还没有生产
+河流或溪流谷仓中还没有人。
 
-People of that day
-Shouldn't be, not yet
-Anything that doesn't exist yet, shouldn't exist yet.
-The roaring wind has not passed yet
-The sparse forest has no fortune yet
-There are no silver butterflies on earth yet
-The water surface doesn't have any sharks yet
-Inside the door of the house
-There is no old man who transmits it back and forth.
+那天的人
+不应该，还没有
+你还没有的一切，你不应该拥有。
+呼啸的风还没有过去
+疏林还没有发财
+地球上还没有银蝴蝶
+水面还没有鲨鱼
+屋门内
+没有一次次传送的老人。
 
 #### 讲述语气提示
-- **开篇放缓、气息饱满：** 前四句如向四方致意，“讲述一段古老的故事”后略作停顿，让孩子静心落座。
-- **讲述而非说教：** 三段“想要……”渐快而明朗，保留民间歌谣般的邀约感。
-- **虚无空间：** 自“地上还没有土地”起压低声音、放慢节奏，每一句“还没有”如远钟轻敲。
-- **沉静收尾：** 末句“还没有长者代代相传”放慢读完，静默一两秒再转入下一章。
+- **缓慢、圆润地打开：** 前四句读起来像是向四个方向打招呼；在“旧生活”之后轻轻停顿，让听者坐下。
+- **讲故事的声音，而不是说教：** “想要……”三节逐渐朗读，清新如邀请；保留“枪友”、“篮友、篮友”这几个字很有趣。
+- **空旷的空间：**从“地底下，还没有陆地”降低了声音，放慢了速度；每一句“还没有”都是沉稳的敲击节奏，如远方的钟声。
+- **结论：** 最后一句“再传再无老人”慢慢读，然后沉默1-2秒再换章。
+
 ---
 
 ### 第2章：生土
 
-If you want to eat rice, you have to find seeds and sow rice
-If you want to eat fish, you have to dig into streams and ponds
-Want to know why there is red soil and brown soil?
-We must tell each other to sit and listen to stories.
+想吃稻子就得找种子播种稻子
+想吃鱼就得挖溪流、池塘
+想知道为什么有红土和棕土
+我们必须告诉彼此坐下来听故事。
 
-Once upon a time, that day
-Look at the sky, the sky is vast and spacious
-Look at the land, the land is deserted and empty.
-Rumor has it:
-There was a year of heavy rain and drool
-The water goes beyond the seven U hills
-The rising water overflowed nine Bai hills.
-Fifty days of receding water
-Seventy days of low water
-The water recedes and finds a way out
-The water dropped quickly, opening a shallow path.
+从前，那天
+看看天空，天空广阔无垠
+看那片土地，那片土地荒芜空旷。
+有传言：
+有一年流口水的雨
+水过七U山
+涨水漫过九座白山。
+退水五十天
+七十天的水流下来
+水退了找到出路
+水落得很快，开辟出一条浅浅的小路。
 
-A green tree grows
-The green tree has ninety branches
-Branches poke into the sky, green leaves move
-The trunk on the ground, the tree trunk can vibrate
-In the canopy, in the branches
-There are voices of women and girls.
+长出一棵绿树
+绿树有九十枝
+树枝伸向天空，绿叶移动
+树干在地上，树干会振动
+在树冠上，在树枝上
+有妇女和女孩的声音。
 
-The branch that reaches the sky is the first child
-His name is Mr. Thu Tha
-The sprung branch is the second child
-Her name is Ms. Thu Thien.
-The two of them should be a good couple
-Transmitted to:
-The chicken has spurs
-The vines can climb
-Bamboo has thorns and tops
-Humans can talk, have food, and have hands.
+伸向天空的树枝是第一个孩子
+我的名字是Thu Tha先生
+弹出的树枝是第二个孩子
+她的名字是Thu Thien女士。
+你们两个应该是很好的情侣
+传送至：
+鸡有骨刺
+瓜藤会爬
+竹子有刺有尖
+人类会说话、有嘴、有手。
 
-Then:
-Underground is no longer discrete
-The water is no longer tumultuous
-There is no more confusion in the sky
-Looking up and down, there is a place, there is a place
-There is a way down
-There is a way up.
+那么：
+地下不再是离散的
+水声不再喧闹
+天空不再混乱
+上下看，有一个地方，有一个地方
+有一条向下的路
+有一条路可以上去。
 
-Hook wants to wake up and has a slang
-When Buong wanted to get up, there was dust
-The stream that wants to wake up already has a branch
-If you want to wake up, you already have money.
-The roots want to wake up
-Should have climbed up and down
-The cassava vine wants to wake up
-There is a place to escape
-I want to wake up
-Climbed land and water.
+钩子想要醒来，已经有了俚语
+当Buong想要起身时，有灰尘
+想要唤醒的流程已有分支
+如果你想醒来，你就有钱。
+根想要醒来
+应该爬上爬下
+木薯藤要醒来
+有一个地方可以逃走
+我要醒来
+爬过陆地和水上。
 
-If you want to get up, you already have steel
-If the narrow flag wants to rise, there will be a wall flag
-If you want to get up when carrying rice, you already have to carry wine
-The waterfall wants to wake up and there is a star
-The star wants to wake up and the sky is bright.
-The plowmen want to wake up and have their hands
-If you want to wake up tomorrow, you already have a tongue
-Every row is opaque, every guy wants to get up
-There are hammers and anvils.
+剑欲升，已有钢
+窄旗想要升起，有墙旗
+想要拎米起床，就已经要拎酒了
+瀑布想要醒来，有一颗星星
+星星要醒了，天都亮了。
+犁地想要醒来，拥有自己的双手
+如果你想明天醒来，你已经有舌头了
+货不透明，男人要醒醒
+有锤子和铁砧。
 
-The swallow wants to wake up and there are birds
-If the monkey wants to wake up, there are But Hill and U Hill
-The cuckoo wants to wake up and already has a rosary
-Butterflies want to wake up and already have antennae
-If the buffalo wants to wake up, there will be a cow
-The little bird wants to wake up and there is a warbler
-The lark was wearing a silver enamel shirt.
+燕子要醒还有鸟儿
+猴子想要醒来的话，有But Hill和U Hill
+杜鹃要醒来，已经有一串念珠了
+蝴蝶想醒来，已经长出了触角
+如果水牛想醒来，就会有一头牛
+小鸟要醒来，有莺
+云雀穿着一件银色珐琅衬衫。
 
-The kingfisher wanted to wake up and the bird was already there
-I want to wake up, my chest and hips are already there
-Statues and pipes have horns and tusks
-Cocks and wild chickens have combs
-Peacocks and pheasants have combs
-Hello, I want to wake up, little bird
-The singing birds have gathered together.
+如果翠鸟想醒来，鸟就会在那里
+爸爸要醒了，可是他有胸有臀
+带角和獠牙的雕像和管子
+公鸡和带鸡冠的野鸡
+孔雀和雉鸡有鸡冠
+你好小鸟，我要醒来
+歌唱的鸟儿聚集在一起。
 
-Banana fish and turtle fish have gills and fins
-Human children have faces and noses
-I have you, I have you.
-The way to be king is not to fight
-Tao makes people not steal
-There are village items and hidden treasures
-The king loved, the lord liked
-Some are clumsy, some are talented
-There are boys and girls.
+香蕉鱼和凤尾鱼有鳃和鳍
+人类的孩子有脸和鼻子
+我有你，我有你。
+称王之道不是战斗
+做人之道不是偷窃
+已有村庄物品和隐藏宝藏
+国王所爱，主所爱
+有些人笨手笨脚，有些人才华横溢
+这是一个男孩和一个女孩。
 
-River water is equal to Bai Bai leaves
-The water of the river is equal to the name name leaves
-There is water from the Tam River and Te River.
-Bai Hill has large animals and young bamboo shoots
-The hill has bamboo shoots full of holes
-The open forest has small birds.
-Underwater gives birth to fish, crabs, and shrimps
-Early in the day, babies and turtles were born
-The evening of the otter's birth
-Luong boats have people working on rivers and streams.
+河水等于白白叶
+河水等于叶子的名字
+有潭河、特河的水。
+白山有大动物和嫩笋
+山上长满了洞的竹笋
+开阔的森林，有小鸟。
+水下生鱼、蟹、虾
+一大早，一只乌龟和一只乌龟出生了
+水獭出生的晚上
+Luong 独木舟上有人照管河流和溪流。
 
-People in those days were not good enough
-But there is everything underground
-The roaring wind was heard
-We can see the light rain
-Sparse forests bring fortune
-There was a silver butterfly on the ground
-The water surface already has sharks.
-There was a banyan forest
-There is a forest house
-There is a path going down and a path going up
-There are amaranth and pennywort
-Anything that wants to grow becomes a body and a form
-I have also become a body and a form.
-Inside the door of the house
-No one has transmitted it back and forth.
+那个时候的人都不够优秀
+但地下什么都有
+听到隆隆的风声
+我们可以看到小雨
+稀疏的考林带来财富
+地上有一只银色的蝴蝶
+水面已是黄昏。
+榕树林里有一个地方
+Gianh森林里有一座房子
+有一条向下的凹槽和一条向上的路径
+已经有苋菜和五味子了
+任何想要成长的东西都会成为身体和形态
+我也变成了身体和形体。
+屋门内
+还没有人来回传送。
 
-The land is there
-The land is vast and far away
-Untold stories make up a gang
-The story is not related to customs.
-Old people, young people
-Listen to stories coming and going
-Listen to old stories again, old stories.
-People live happily and eat well
-There are also smart people and foolish people
-Wise people listen to stories
-A fool listens quickly and listens quickly
-Have to wait to hear more
-The story of giving birth to water.
+土地已经存在
+地广人稀
+不为人知的故事组成了一个帮派
+关于风俗的不为人知的故事。
+老年人、年轻人
+聆听来来往往的故事
+再听听老故事，老故事。
+人们住得开心，吃得好
+人也有聪明人和愚人
+聪明人听故事
+傻瓜听得快听得快
+必须等待听到更多
+水中诞生的故事。
 
 #### 讲述语气提示
-- **大水涌动与退落：** 先厚重推进，说到“五十天退水、七十天水落”时逐渐舒缓平静。
-- **生命逐层展开：** 每念到“已有……”像推开一扇门，语气明亮温和。
-- **结尾过渡：** 最后一句轻声落下，为第 3 章的干旱作对照。
+- **以商业节奏开场：**前四句读起来清晰愉快，仿佛在告诉对方坐下；这是从虚空到大地的第一个联系。
+- **洪水：** “五十天退水/七十天低水”均匀、缓慢地读出，让听者感受到时间的流逝。
+- **绿树九十枝：**惊讶地压低声音； “Thu Tha”和“Thu Thien”两个名字念得庄重，每个音节都清晰可见。
+- **“已经存在”的苦：**读书就像逐渐打开每一扇门；每一句“有”都是明亮的、不紧不慢的节拍。
+- **结论：** 最后三句放低了语气，放慢了速度，然后像承诺一样放下了《生孩子的故事》。
+
 ---
 
 ### 第3章：生水
 
-The rooster crowed on the pass
-The evil one cried loudly on the mountain
-The sun rises and lights up the forest and the beach
-Brightens the nine lands and ten directions.
-During the season there is no rice
-The fishing net doesn't produce fish
-Planting potatoes and beans is not recommended.
-It's too sunny:
-Poor soil
-The land is barren and dry
-The cassava vines have all their leaves withered
-Areca trees withered away
-Bamboo forests do not grow bamboo shoots
-The cotton rope looks golden
-Amaranth and pennywort are shriveled.
+公鸡在垭口打鸣
+恶人在山上大哭
+太阳升起，照亮了森林和海滩
+光明九国十方。
+在没有米的季节里工作
+渔网不出鱼
+不建议种植土豆和豆类。
+太晒了：
+贫瘠的土壤
+土地贫瘠干燥
+木薯藤的叶子枯萎了
+槟榔树完全枯萎
+竹林不长竹笋
+棉绳看起来很黄
+苋菜和五味子枯萎了。
 
-The bird crawled to the ground
-The animal crawled into the water
-Black dogs and mastiffs stick out their tongues
-Otters run up Vong hill
-The boar ran over the hills and into the fields.
-Nine months term
-Twelve years of sun burned the earth
-The stream dried up, the turtle's shell broke
-Dry hills, broken deer antlers
-Too much sun, trees have no leaves
-It's sunny, the land has no grass
-Buffaloes eat frozen soil
-People drink dew water
-Wild chickens looking for water
-The eyes are rough and the eyes are thick with bamboo.
+小鸟掉到地上了
+动物爬进水里
+黑狗和獒伸出舌头
+水獭跑上 Vong 山
+野猪跑过山丘，跑进了田野。
+九个月期限
+十二年的阳光摧毁了地球
+溪水干涸，龟壳破裂
+干山、断鹿角
+阳光太多，树没有叶子
+阳光明媚，地里没有草
+水牛吃冻土
+喝露水的人
+野鸡寻找水源
+眼睛粗，眼粗竹。
 
-Mr. Poong Peu
-Sitting at the window of the outer wing, weaving
-Sitting weaving nets in the inner room
-Looks like land
-Look up at the sky
-Mr. Poong Peu wishes:
-Wish, oh wish
-Wishing for some rain!
-It rained for nine nights and ten breakfasts
-It rains nine mornings and ten nights
-Rain in the middle of the field
-The rain circled the stream bank
-Rain erodes mountains
-Rain erodes the yellow mound
-Rain from this horizon
-To that horizon
-Rain, rain, wind
-Wind and wind, rain and rain
-The rain flooded deep fields and shallow fields
-Rain overflows stream banks and high banks
-The rain cools the hearts of gentle and fierce animals
-Cool reeds and palm trees.
+Poong Peu 先生
+坐在外翼窗边钓鱼
+在内屋坐着织网
+看起来像陆地
+抬头看看天空
+Poong Peu 先生祝愿：
+愿望就是愿望
+希望下点雨！
+下了九个晚上十个早餐的雨
+雨九早十夜
+田野中央下着雨
+雨绕着溪岸
+雨水侵蚀山脉
+雨水侵蚀黄土丘
+雨从地平线上来
+到那地平线
+雨雨雨风风
+风风雨雨
+雨水淹没深田、浅田
+雨水漫过河岸和高岸
+雨水冷却了温柔和凶猛动物的心
+凉爽的芦苇和弓树。
 
-Rumor has it that at that time:
-The sky is filled with clouds
-The sky is filled with strange clouds
-The wind roared on all sides
-Clouds piled up
-Clouds pile up in patches
-Rain clouds, wind clouds
-Black clouds, yellow clouds.
+当时有传言：
+天空布满了云彩
+天空多云
+风从四面八方呼啸而过
+云层层叠叠
+乌云密布
+雨云、风云
+乌云，黄云。
 
-Listen to the whistling wind
-Listen to the sound of the rain
-The thunder god roared down
-The goddess of lightning came down and screamed.
-At the beginning of the night, the rain was as big as a tomato seed
-In the morning, it rained the size of a grapefruit
-It's raining even though it's pouring rain
-It rained nine nights
-It rained for nine days straight
-Rain breaks branches and leaves
-The rain falls and the reed leaves fall
-The rain took Lady Ngau back to heaven
-The rain took Ngau across the Ngan River
-The rain washes the antlers of the deer
-Rain cleans phoenix feathers
-Clean the wings of wild birds.
-The first day was filled with dust and rain
-The next day, the rain flooded the trees.
+听呼啸的风声
+听雨声的嗡嗡声
+雷神咆哮而下
+闪电女神尖叫着降临。
+初夜，下了一场西红柿籽那么大的雨
+今天早上下了一场柚子般的雨
+雨虽大却下雨
+下了九晚雨
+连续下九天雨
+雨折枝叶
+雨落芦叶落
+雨带牛回天堂
+大雨带着Ngau渡过银江
+雨水冲刷着鹿角
+雨洗凤毛
+清洗野鸟的翅膀。
+雨沙沙的第一天
+第二天，大雨淹没了树木。
 
-Four months of sprinting
-Seven months of low water
-Water from nine hills flows into a stream
-Nine streams flow into one river
-Nine rivers flow into one pool.
-Water makes things difficult, makes things easy
-Dig up the black soil with your mouth
-Dig up the yellow soil with the mouth of the basket.
-Floating herds of valley crabs and stone crabs
-Floating fish in the cave
-Floating in a flock of ransoms wading through the river
-Drifting crucian carp
-Floating on a tortoise to visit nine streams
-Floating banana fish to visit nine pools
-Floating tadpoles visit nine lagoons
-The family drifted out to the mouth of the lake
-Floating schools of silver carp all over the province and fields
-Floating schools of anchovies, their hearts spilling out into the large tank
-Floating fish eggs are speckled
-Toss the beach and shore.
+四个月的冲刺
+七个月的低水位
+九山流水一流
+九流汇一河
+九河汇一潭。
+水使事情变得困难，使事情变得容易
+用嘴挖黑土
+用篮口挖出黄土。
+漂浮的河谷蟹和石蟹群
+洞穴里的浮鱼
+漂浮在河里
+漂流鲫鱼
+浮龟游九溪
+漂浮香蕉鱼游九池
+漂浮的蝌蚪游览九个泻湖
+一家人漂流到湖口
+全省各地田间漂浮的鲢鱼鱼群
+一群群漂浮的凤尾鱼，它们的心溢出到大水箱里
+漂浮的鱼卵有斑点
+折腾沙滩和海岸。
 
-Water recedes, water goes down
-Water rises, water goes
-There is land, the land is crumbling
-There is water, the water is still murky.
-Wise people listen to stories
-A fool listens quickly and listens quickly
-When listening to stories at night, don't be in a hurry
-Have to wait to hear more
-The story of giving birth to a sapling tree.
+水退去，水往下流
+水涨，水去
+有土地，土地正在崩溃
+有水，水还是浑浊的。
+聪明人听故事
+傻瓜听得快，听得快
+晚上听故事别着急
+还得等听更多
+梧桐树诞生的故事。
 
 #### 讲述语气提示
-- **干渴紧绷：** 前段语速稍收紧，突出“九月旱、十二年晴”的焦灼。
-- **雷雨倾盆：** 乌云与雷电段陡然起势，雨点“初夜如茄籽、清晨如柚果”明快推进。
-- **舒缓收束：** 水归河海后语气转为清凉松弛。
+- **以干涩开头：** 声音缓慢、干涩、疲倦；每一句话都短如微弱的呼吸。不要快速阅读。
+- **许愿下雨：**“愿望就是愿望”这个词变得更快更精彩；说到“雨、雨、风、风”时，它像小孩子求雨一样尖叫。
+- **大雨：** 强烈、激烈的阅读、雷声；但不要尖叫——维护天堂的威严。
+- **撤退：**放慢速度，放松；每一句的放开，都如水渐渐退去。
+- **结论：** “要等听更多/生梧桐树的故事”慢慢读，然后短暂沉默。
+
 ---
 
 ### 第4章：生榕树
 
-The valley soil has soaked up water, the soil has loosened
-The hill land is soaked with water and the soil is friable
-The sycamore tree grows brightly
-The sycamore tree grows like crazy.
-At the beginning of the day, si is equal to the body of a pestle
-Every morning, ignorance is equal to a mat
-In the afternoon, the si is as big as a four-by-three stick.
-The sycamore tree grows four sunken branches
-The sycamore tree grows thirty floating branches
-There is a towering branch
-There is a leaf of choice
-Soar straight into the sky.
+山谷土壤吸水，土壤松动
+山土被水浸湿，土质松脆
+梧桐树长得鲜艳
+梧桐树疯狂地生长。
+一天开始时，si 等于杵身
+每个早晨，无知等于一张席子
+下午，巳有四乘三的棍子那么大。
+梧桐树长出了四根凹陷的树枝
+梧桐树长出三十根浮枝
+有一根高耸的树枝
+有一张选择卡
+直冲云霄。
 
-Father and son, the King of Heaven
-Sit by the window
-Drink a lot of wine
-Look under the house
-Seeing ignorance rise up clearly
-Seeing the sycamore branches growing luxuriantly
-Cover one side with soil
-Covering one side of the horizon.
-Rice drying on earth does not dry
-Gently dry the vegetables.
-Eye-catching, God wants to destroy
-Stunning, Thunder wants to bang
-But I'm afraid of damaging the seedling fields
-Damage to tuber and potato fields
-The world starves to death.
+父子天王
+坐在窗边
+少饮酒
+看房子下面
+看见无明明显升起
+看梧桐枝繁茂
+覆盖土壤的一侧
+覆盖地平线的一侧。
+地球上的米不干
+轻轻擦干蔬菜。
+刺眼的眼睛，上帝要毁灭
+眼睛刺痛，雷霆想要轰击
+但又怕破坏苗田
+块茎和马铃薯田受损
+世界都饿死了。
 
-Father and son, the King of Heaven
-Steel scraper into the mouth of the Gang worm
-Scraper the gold into the deep mouth of Hoc
-Deep cavity to eat outside the skin
-Send the Gang deep down to carve out the entire core
-Eat the heart of the sycamore tree for sweetness
-Remove the intestines of the sycamore tree for good taste.
-Deep shape, hollow like a feather tube
-Its length is as long as the name of the bowing leaf
-Eat outside the skin early in the morning.
-Deep body Gang with shaggy hair
-Yellow leopard stripes
-At midnight, the tops swooped down
-Go eat tree intestines.
+父子天王
+钢刮刀插入刚虫口
+将金刮入深孔口
+侵蚀皮肤外部的深洞
+向下发送铸铁蜗杆以雕刻出整个核心
+吃梧桐树心甜甜的
+将梧桐树的肠子去掉，味道鲜美。
+形状深，空心如羽毛管
+它的长度和名字弓叶一样长
+早上在皮肤上吃。
+深身 蓬松的头发
+黄色豹纹
+午夜时分，山顶俯冲而下
+去吃树肠吧。
 
-From there:
-Worms go down to eat the skin
-Deep Gang came down to eat inside
-Bite the root and dig out the heart of the sycamore tree
-The sycamore tree wilts
-The sycamore tree turns yellow
-The roots have rotted
-The stump has fallen
-Leaning branches fill the valley
-His head was broken and he fell onto Chu hill.
+从那里：
+虫子下去吃皮
+帮虫下来吃里面的东西
+咬断根部，挖出梧桐树心
+梧桐树枯萎了
+梧桐树变黄了
+根已经腐烂了
+树桩已被倾倒
+倾斜的树枝填满了山谷
+头破了，上了楚山。
 
-That's already happened
-It was done back then
-Heard the story of the original si long tree again
-I heard the story of the tree with its branches rotting
-Giving birth to the countryside, to the water.
+那已经发生了
+当年就完成了
+又听了原版四龙树的故事
+又听到了小树树枝腐烂的故事
+生于村庄，生于水。
 
 #### 讲述语气提示
-- **树势雄伟：** 榕树日夜长大的部分要有惊叹与向上拔升感。
-- **惜树不忍伤民：** 天王的犹豫与虫蛀段落略带惋惜，不用惊悚腔调。
-- **转化而非毁灭：** 大树倒向 Chu 丘，留出深厚庄重的余韵。
+- **成长的节奏：** “清晨……早上……下午……”三句话读得更快，仿佛看到一棵树在眼前升起。
+- **天王之音：**“饮酒”读起来轻飘飘的，有点嚣张；天上的怒火平息了。
+- **两只虫子：** Worm Hoc的声音细弱而干涩；深罡的声音沉重而隆隆。慢慢地读“午夜，陀螺俯冲而下”。
+- **结论：** 最后三句像倒树一样逐渐倒下；在“生于乡村，生于水”之前再停一拍。
+
 ---
 
 ### 第5章：生芒地
 
-A dead sycamore tree is a bad omen
-During that year
-The body of ignorance turns into a snake Ly Ky Lai Cai
-The snake has nine arms and twelve heads
-The snake's tail is at the mountain's navel
-Snake head at Chu hill.
-Touching snakes, snake bites, snake enemies
-Snake bite bleeds black blood
-Black blood turns into a snake.
-Puffy eyes turn into bees
-The bee has a silver head and a sting nine inches long
-The bee's back is nine fathoms long
-Meet deer, weasels, monkeys, and bees
-When a tiger runs away, a bee chases away
-Meet snakes, foxes, and bees.
-Crushed leaves turn into animals and animals
-Wild animals like tigers and wolves
-Muong is as gentle as a fox.
+梧桐树死了是吉兆还是凶兆
+那一年
+腐烂的尸体变成了Ly Ky Lai Cai蛇
+蛇有九只臂，十二个头
+蛇尾在山肚脐
+楚山蛇头。
+触摸蛇、咬蛇或敌对蛇
+蛇咬伤流黑血
+黑血变成蛇。
+浮肿的眼睛变成蜜蜂
+蜜蜂有一个银色的头和九英寸长的刺
+蜜蜂的背有九噚长
+认识鹿、黄鼠狼、猴子和蜜蜂
+老虎逃跑，蜜蜂赶走它
+遇到蛇、狐狸和蜜蜂。
+压碎的树叶变成动物和野生动物
+老虎、狼等野生动物
+老虎像狐狸一样温柔。
 
-The roots fell loudly
-The roots of delusion are falling apart
-Pour one thousand nine hundred and nineteen branches.
-A branch fell into the ground
-You should go to Muong Sap
-A branch fell into the ground of Jap
-Should be Muong Giap
-A branch falls into the land of Bi and land of Lo
-So Muong Bi, Muong Lo
-A branch falls into Ong land, Sa land
-So Muong Ong, Muong Sa
-A branch leans toward Vong land
-So Muong Vong.
+树桩轰然倒塌
+根都快掉下来了
+倒一千九百一十九个树枝。
+一根树枝掉在地上
+应该是Muong Sap
+一根树枝掉进了武元甲的土地
+应该是孟甲
+一根树枝落入碧地、洛地
+应该是Muong Bi、Muong Lo
+一根树枝掉进翁地、萨地
+应该是Muong Ong、Muong Sa
+一根树枝斜向Vong land
+应该很渴望Vong。
 
-A branch fell on Khoong land, De land
-A fallen branch in Co Ke, Tien Lang
-A branch to the land of Ice and land of Ben
-One branch goes to Lap land, Yen land
-A branch falls on Khi land, Do land
-One branch goes to En land and Kho land
-One branch goes to Ai, Truong, Kha land
-A branch falls to the ground, the ground to Troi
-A branch enters the land of Mo, the land of Fortune
-A branch fell to the ground. Smoke
-One branch goes to Kim land, Oi land
-A branch fell to Nang
-One branch goes to Lamp land, Che land
-One branch went to the land of Men and the land of Tre
-One branch goes to Vam land, Vong land
-A branch hits the Flooded land, Landslides
-A branch fell to the ground in Vong
-One branch goes to Sang land, Tong land
-One branch landed on Bang land and Un land.
+一根树枝落在德兰Khoong land
+天朗措柯的一根倒下的树枝
+一根树枝前往冰之国和Bến国
+前往立地、安地的支线
+一根树枝落在 Khi 土地、Do 土地上
+分行前往恩地、科地
+支线到Ai、Truong、Kha land
+一根树枝掉到地上，大地崩塌，大地流淌
+一根树枝进入了墨国，福地
+一根树枝掉在地上 烟雾
+一根树枝回到金国和爱国
+一根树枝掉到了Nang的土地上
+一根树枝去往灯之国，车之国
+一根树枝去毯子之地和树之地
+分支前往Vam land、Vong land
+一根树枝刺穿洪水泛滥的土地，山体滑坡
+一根树枝掉在地上
+前往桑地、通地的支线
+一根树枝落在平地、无地。
 
-A branch fell to the ground Khao
-A branch enters the pond soil
-A branch to Coi land
-A branch to Vinh land
-A branch fell to the warm ground
-One branch goes to Du land, O land
-A branch fell to the old ground
-One branch goes to Rach land, Meet land
-A branch about Hao Hao
-A branch enters Len land, En land
-A branch goes to the land of the Finger, the land of the Top
-A branch loops up Lau, up Kho
-A branch drooping on Smoke soil, Nen soil
-A branch to Khoi land, Len land
-One branch or more Vin Vong.
+一根树枝掉在地上 Khao
+树枝伸入池土
+前往Coi land的分店
+通往荣市土地的分支
+一根树枝落在温暖的地面上
+一枝去杜之地，O之地
+一根树枝掉在地上 老人
+通往Rach land、Meet land的分支
+一个关于浩浩的分支
+分公司进入恩地Len地
+分支前往Thuong land, Top land
+一根树枝绕Lau，向上Khu
+烟土、嫩土上垂下的树枝
+通往科伊地、伦地的支线
+一根或多根Vin Vong。
 
-A branch to Muong Vang and Muong Vo
-A branch through Muong Trang, Muong Tre
-One branch should be Luong Trang, Muong Te
-A branch to Vanh land, Golden land
-A branch becomes Muong Chin
-A branch becomes Muong Rong
-One branch goes to Mat, Coc, Muong Tien
-A branch should be Dry, Manly, Cocuous, and Lazy.
-As for the last branch, it should be Me, Muong Man.
-There is one young green branch left
-Still standing tall and inert
-Claiming the land of Thunder and Clay of the King of Heaven.
+前往 Muong Vang, Muong Vo 的分店
+穿过 Muong Trang、Muong Tre 的分支
+一间分店应该是Luong Trang, Muong Te
+前往Vanh land、Golden land的支线
+一枝成为Muong Chin
+一根树枝成为Muong Rong
+Mat, Coc, Muong Tien 分店
+树枝应该是干爽的、有男子气概的、粗犷的、懒惰的。
+特别是最后一个分支应该是我，孟曼。
+还剩一根嫩绿枝
+依然昂首挺胸，面无表情
+声称要回到天王雷土之地。
 
-The land is there
-The land should no longer be shabby
-Water is available
-Water should no longer be desolate
-Heaven is there
-The sky is no longer vague.
-There is land, water, and a village
-But humans are not there yet.
-Listen to the story
-Tell stories to the wall
-Listen to the story of Giving birth below.
+土地已经存在
+土壤将不再变得粗糙
+有水
+水不应再荒凉
+天堂就在那里
+天空不再模糊。
+有土地、有水、有村庄
+但人类还没有。
+听故事就明白
+对着墙讲故事
+下面继续听生孩子的故事。
 
 #### 讲述语气提示
-- **前段灵异与威仪：** Ly Ky Lai Cài 与银头蜂读得沉稳清晰，不刻意夸张吓人。
-- **如数家珍般点名：** 一千九百一十九芒地名清单以平稳有拍子的节奏念出，偶尔加重一两个地名让孩子记住。
-- **留白引出人类：** 结尾点出“土地已成而人类未生”，自然衔接下一章。
+- **以奇怪的预兆开头：** “一棵枯死的梧桐树带来了好兆头”缓慢而低沉地读；在“那一年”之前保持短暂的沉默。
+- **蛇和蜜蜂：**声音有点吓人但不是尖叫；每一个化身影像只需要一个清晰的节拍，不需要拖长。
+- **倒下的梧桐树：** “Rumble”、“jing hinh”读起来很重，然后以更稳定、更轻的节奏切换到 muong 列表 - 就像数着每一个新的土地。
+- **年轻的绿色树枝：** 将语气改为平淡、固执的声音：“仍然挺立而惰性”；这是一个有趣的细节，所以请带着一点恶作剧来阅读。
+- **结论：**“但是人类还不存在”缓慢地读起来并停顿；最后三句轻轻放开，邀请你进入下一章。
+
 ---
 
 ### 第6章：生人
 
-**Da Dan Lady**
+**大丹女士**
 
-Sycamore tree:
-The branches turned into Mrs. Da Dan's limbs
-The ruffled branches turned into Lady Da Dan's head
-The branch separated from the spoon turns into ears and eyes
-The towering branches turn into chest and back.
+梧桐树：
+树枝变成了大丹夫人的四肢
+毛茸茸的树枝变成了大丹的头
+一根树枝与勺子分离就变成了耳朵和眼睛
+高耸的枝干化作胸背。
 
-Mrs Da Dan
-Mouth often wants to eat fish
-Yes, I often ask for food
-The mouth speaks words of instruction
-Yes, think wisely.
-She was on the ground listening low
-Want to fly high into the sky.
-Silkworms eat, silkworms give birth
-Spiders eat, spiders lay eggs
-Lady Da Dan laid two eggs:
-An egg hatched into a Silver Butterfly Cun
-An egg hatches into Cun Mom Bo.
+木大蛋
+嘴经常想吃鱼
+是的，她经常要食物
+口中说出教导的话
+是的，明智地思考。
+她趴在地上低声聆听
+想要飞得很高。
+蚕吃，蚕生
+蜘蛛吃东西，蜘蛛产卵
+大丹夫人下了两个蛋：
+一枚蛋孵化成银蝶寸
+一颗蛋孵化成村妈妈波。
 
-The Silver Butterfly has just hatched
-Have eaten nine bowls of rice
-Adults are as big as a basket
-Newborn Cun Mom Bo
-Have eaten five bowls of sticky rice
-Adults are as big as a squeegee.
-Last year, next month
-The two brothers are taller than hill nine and ten
-Laughter like a drum
-The voice was like thunder
-The shoulder bone is eighty feet long
-The spine is seven hundred spans long
-Good general of path, general of cun, general of lang.
+银蝶村刚刚孵化
+吃了九碗饭
+大人有篮子那么大
+刚出生的寸妈妈博
+五碗糯米饭都吃完了
+成人有橡皮扫帚那么大。
+去年，月复一月
+两兄弟比九山和十山还高
+笑声如鼓
+声音如雷
+肩骨长八十英寸
+脊椎长七百跨
+适合刀、寸、郎。
 
-**Two fairies on the Tam River**
+**潭河上的两个仙女**
 
-One year, the King of Heaven sent his daughter down to play
-Three years later, the King of Heaven sent his daughter to visit him.
-Ten fairies came down to play with flowers
-One morning, down to the rain clouds
-One afternoon, down to the clouds and wind
-The fairy flew down to bathe on the banks of the Tam and Te rivers.
-The Fairy went out to the fields
-Tien went down to the light road
-Meet Cun Mom Bac riding a golden horse to hunt deer and fortune
-Meet Cun Mom Bo riding a silver horse hunting wild boar.
+有一年，天王送女儿下山游玩
+三年后，天王派女儿来到人间。
+十个仙女下来玩棉花和花
+一个早晨，下到雨云的枝头
+一个下午，云淡风轻
+仙女飞下来到塔姆河和特河岸边沐浴。
+仙女下田
+Tien 走向光路
+遇见银蝴蝶村骑金马捕鹿发财
+遇见村妈妈骑着银马打野猪。
 
-Miss A and Miss Hai want to ask for directions
-I still respect my son
-Just step aside
-Move aside
-Let your horse go first.
-Hai Cun saw a stranger and wanted to ask
-Seeing the beauty say:
-- "What country do you live in?"
-Beautiful figure, beautiful body, curvy back, smooth hair?"
+A小姐和海小姐想问路
+我还是尊重我的儿子
+立即退到一边
+移到一边
+让你的马先走。
+海村看到陌生人想要询问
+看到美女说道：
+- “你住在哪个国家？
+美丽的身材，美丽的身材，曲线优美的背影，光滑的头发？”
 
-I held the reins so the horse could stop
-He pulled the reins so the horse could stand evenly
-Let's say hello to strangers:
-- "What country are you in?"
-Passing through the forest to my house one morning
-Give my country good fortune to raise silkworms
-The girls visit
-Let my strawberry forest be full of green leaves
-Let the stream have lots of fish and shrimp
-Give me a star. It's a late day
-May the Morning star come quickly
-Let the birds dance and sing on the branches
-Singing words of love and remembrance."
+请勒住马，阻止它
+他拉动缰绳，让马平稳地站着
+跟陌生人打招呼吧：
+- “你们是哪个国家的女孩？
+一天早上去森林里擦干我的房子
+赐祖国养蚕福气
+女士们来参观
+让我的草莓林长满绿叶
+让小溪里有很多鱼虾
+给我一颗星 这是缓慢的一天
+愿晨星快点到来
+让鸟儿在枝头翩翩起舞
+唱出爱与纪念的话语。”
 
-Sisters, listen to that
-Let's urge Miss A and Miss Two:
-- "Hello, you two guys
-Hello me as if the stars are awake
-Why doesn't my heart speak up?
-Come out and visit, take a look
-Come out and say hello
-If it sounds fun, stand for a long time
-If you hear the sound of your pimp or pimp, go away right away."
+女士们，听听这些话
+恳请Nang A和Nang Hai：
+- “大家好
+像星星苏醒一样迎接我
+哪一颗心不说话？
+出来参观看看
+出来打个招呼
+如果听起来很有趣，就站很长时间
+如果你听到你的皮条客或皮条客的声音，请立即离开。”
 
-Miss A and Miss Hai went to the main road
-Walk around and wait
-And the fairies are waiting
-On top of the rocky mountain, Elephant Lies
-In the middle of a lush green forest.
-Miss A and Miss Hai stepped out and bowed their heads and said:
-- "Mr. Cun the eldest, Mr. Cun the second
-My sisters did not dare to find a way to avoid it
-The sisters want to return to Muong Du and Muong Khoi
-Lost his way to the valley near his house
-Please open your compassion
-Give me a few hours to ask for directions."
+Nang A 和 Nang Hai 前往大马路
+四处走走等待
+小仙女们都在等待
+卧象岩山顶
+位于郁郁葱葱的绿色森林之中。
+A小姐和海小姐走了出来，低头回答道：
+- “村老大，村老二
+女士们，不敢想办法躲起来
+女性想要回到Muong Du和Muong Khoi
+迷路到他家附近的山谷
+请表现出你的同情心
+给我几个小时问路。”
 
-Silver Butterfly Cun replied:
-- "You girls are too late to get here
-I have dipped my toes in poor soil
-Don't be afraid of dry soil sticking to it
-Please step into the well
-Please come downstairs
-The land is difficult, the village is poor
-But the alley is still open."
+银蝶村 回复:
+- “你们女孩来得太晚了
+已将脚趾浸入贫瘠的土壤
+不怕干土粘在上面
+请进入井中
+请下楼
+土地困难，村庄贫困
+但巷子还开着。”
 
-Miss A went down
-Cun Mom Bac led the horse down
-Ms. Hai walked out
-Cun Butterfly Bo led the horse out.
-On top of the rocky mountain, Elephant Lies
-Non Tien peak is high
-I can't wait for you two
-The longer you wait
-The longer it takes, the more absent it becomes
-As she listened, she became even more silent.
-Heaven's drum has marked the year's watch
-The house is empty. Heaven has announced the forbidden time
-The fairies hurriedly closed their shirts in the back and tied them in the front
-Carry pink, silky feathered wings and fly home to Heaven.
+她倒下了
+银蝴蝶村牵马而下
+女孩二号走了出去
+寸蝶波牵马而出。
+卧象岩山顶
+Non Tien 峰高
+我等不及你们两个了
+你等待的时间越长，花费的时间就越长
+时间越长就越缺席
+她越安静，就越沉默。
+天鼓已敲响年更
+房子是空的。上帝已经宣布了禁忌时间
+仙女们赶紧把衬衫从后面扣到前面系在前面
+带着粉色丝质羽毛的翅膀飞向天堂之家。
 
-There were many sisters when I went
-Returned leaving behind two
-My door, God has installed it
-The door, Heaven is closed.
-Miss A, Miss Two
-Headphone door slams shut
-Listen to the latch of the door
-Returning to the sky, it was already late
-I have to stay here, in the lower world.
-Cun Mom Bac married Nang A, so the family name was Lang
-Cun Mom Bo married Nang Hai, so his family name was Dan.
+我去的时候还有很多姐妹
+返回时留下两个
+我的门，上帝已经安装了
+门，天堂关闭了。
+A小姐、二小姐
+耳机门砰地关上
+听门闩的声音
+回到天空，天已经黑了
+我必须留在这里，在下界。
+Cun Mom Bac 与 Nang A 结婚，所以姓 Lang
+村婆嫁给了南海，所以姓丹。
 
-Nine months, twelve years
-Women give birth to descendants:
-First, give birth to Cun Khong Lang
-Second, give birth to Cun Khong Va
-Third, giving birth to Cun Khong Tap, Kong Toi
-Fourth, give birth to Cun Khong Em, Khong Am
-Fifth, give birth to Cun Khong Lam, Giant
-On Friday, Cun Khong May was born
-On Saturday, Cun Khong Lot was born
-Eighth, give birth to the Golden Cun
-Ninth, giving birth to Lang Chang Xe
-Tenth, giving birth to a male with a Tung bird and a female with a tot bird.
-The male Chim Tung and the female Chim Tot are the youngest, the darling.
+九个月，十二年
+生育后代的女性：
+首先，生下Cun Khong Lang
+第二，生下Cun Khong Va
+第三，生下Cun Khong Tap, Kong Toi
+星期三，生下 Cun Khong Em, Khong Am
+周四，产下巨人Cun Khong Lam
+星期五，出生 Cun Khong May
+星期六，出生 Cun Khong Lot
+第八，生出金寸
+第九，生下郎昌Xe
+第十，生下男Chim Tung和女Chim Tot。
+男Chim Tung，女Chim Tot 是最小的孩子，亲爱的。
 
-**Tung Bird, Tot Bird**
+**桐鸟，小鸟**
 
-Telling the story of Tung Chim's Cock and Tot Bird's Hen:
-There is no place to eat
-There is no compartment
-Bean on a mulberry branch, cut off a mulberry branch
-Clinging to the rope of Ta Ten, breaking the rope of Ta Ten.
-Tung Bird, Tot Bird
-Planning to go to the wharf and swallow the leaves to death
-Die to relieve suffering
-Going out into the forest to hang myself
-Die to avoid humiliation and pain.
+讲述Tung Chim Cock和Tot Chim Bird的故事：
+没有吃饭的地方
+没有生活隔间
+桑枝上的豆子，折下桑枝
+抓住塔十绳，折断塔十绳。
+桐鸟，小鸟
+打算去码头把树叶吞死
+以死解苦
+我打算去森林里挂着我的脖子
+为避免羞辱和痛苦而死。
 
-Clear street, large yard
-Chim Tung and Chim Tot meet the worried lady Da Dan
-Meeting Mrs. Da Dan, she often loved her and said:
-- "You two, don't go out into the forest because you're afraid of bears
-Don't go into the valley to be afraid of tigers.
-The female finds a cool place to preen
-That's why Trong Cave is rocked
-The male came out and pecked its beak
-So Hang Hao rock
-Dig the land so the river is deep and the fields are wide
-There is a place to eat and a place to live
-Don't risk your life and suffer."
+开阔的街道，大院子
+Chim Tung 和 Chim Tot 遇见忧心忡忡的Da Dan女士
+当我遇到大丹女士时，我很喜欢她并说：
+- “你们两个，别到森林里去怕熊
+不要进山谷怕老虎。
+雌性找到一个阴凉的地方梳理毛发
+这就是 Trong Cave 震撼的原因
+雄性出来啄嘴
+苏杭浩摇滚
+开垦土地，河深田阔
+有吃饭的地方，有包厢住的
+不要冒生命危险而受苦。”
 
-Listen to Mrs. Da Dan
-The female came out to preen her feathers so she kicked Trong Cave
-The male came out and pecked his beak so he kicked Hang Hao
-There is a place to eat and a room to live
-There is a place to sit and play.
-In the morning, the bird went to see Mrs. Da Dan weaving silk outside
-In the afternoon, the bird went to see the lady weaving brocade in the inner room
-Lady Da Dan's silk has lice and lice
-Da Dan brocade has dog beetles and ghost beetles
-Bird watching is clear
-Birds watching birds have walled.
-Chim Tung and Chim Tot came back to learn how to weave silk and brocade
-Chim Tung silk does not have lice or lice
-Gim Tot brocade has no dog beetles or ghost beetles.
+听听大丹的话
+雌性出来整理羽毛，所以她踢了 Trong Cave
+雄鸟出来，用嘴啄了一下航浩
+有吃饭的地方有住的房间
+有地方可以坐下来玩。
+早上，鸟儿去看大丹夫人在外面织丝
+下午，鸟儿去看内室织锦的女士
+大丹夫人的丝绸有虱子和虱子
+大旦锦有狗甲虫和鬼甲虫
+观鸟清晰
+观鸟鸟已见墙。
+Chim Tung 和 Chim Tot 回来学习如何织丝织锦
+锦东丝绸无虱无虱
+Brocade Chim Tot 没有狗虫或鬼虫。
 
-Mrs. Da Dan said:
-- "You must listen:
-The female flew into the rocky mountain Hang Trong
-Chisel out nine stone slabs
-The male flew into Hang Hao mountain
-Chisel out nine deep slabs of soil
-Carving holes and holes.
-The male flew to the Cai River
-The couple took nine sticks of grass and worshiped them
-The female flew down to the Con River
-Take ten sticks of grass
-Go back and circle again and again to make a nest.
-The nest is round like the sun
-The nest is as wide as a river mouth
-The mouth of the nest is as high as a mountain
-The end of the nest is like a stilted roof
-The top of the nest is like the front roof of the house
-When entering, you must step lightly
-Be light on your feet when going out
-The bottom of the nest is as big as the mouth of a river or a lake."
+穆大蛋说道：
+- “你必须听：
+雌性飞入 Hang Trong 的落基山
+凿出九块石板
+雄飞入杭蒿山
+凿出九块深土板
+凿出空心和孔洞。
+雄飞至蔡河
+两人拿了九根草来拜
+雌性飞下康河
+拿十根草
+回去一圈又一圈地筑巢。
+巢像太阳一样圆
+巢宽如河口
+巢口高如山
+巢穴的尽头就像吊顶
+巢顶就像房子的前屋顶
+进入时请轻放
+外出时脚步要轻
+巢底有河口或湖口那么大。”
 
-Get days, get months
-The Tung Bird and the Gaur Bird enter the cave and the nest to lay eggs
-Nine days, nine nights, nine months
-Got one thousand nine hundred and nineteen good eggs
-There is one egg with seven corners, nine edges, and ten frames
-Those are bad eggs, bad eggs.
-The Tung bird incubated for ninety days without a trace
-The Tot bird incubated for ninety days without a trace
-The egg does not open and does not hatch into a baby.
+Được ngày, được tháng
+桐鸟和豆鸟进入洞穴和巢穴产卵
+Chín ngày, chín đêm, chín tháng
+得到了一千九百一十九个好蛋
+有一个鸡蛋有七个角、九个边、十个框
+Ấy là trứng ung，trứng xấu。
+桐鸟孵化九十天无踪迹
+托特鸟孵化九十天无踪迹
+鸡蛋不会打开，也不会孵化成婴儿。
 
-**Eggs hatch into all kinds of species**
+**卵孵化成所有物种**
 
-Chim Tung and Chim Tot were angry and stewed
-Throw away the eggs:
-Throw an egg into the sky and the Lightning god hatches
-Throw an egg into the sky and a Cloud god will hatch
-Throw a long egg and hatch a shrew
-Throw a big egg and a pig will hatch
-Throw a pygmy egg, hatch an elephant species
-Throw a loi ngoi egg and a fish will hatch
-Throw an egg into a leaf and a wild beast will hatch in the forest
-Throw an egg out and it will hatch into a plant
-Throw an egg on a red dirt hill and a bamboo family will hatch
-Throw an egg into the valley and it will hatch into a pine tree family.
+Chim Tung 和 Chim Tot 生气了，炖了
+扔掉鸡蛋：
+将鸡蛋扔向天空，闪电神就会孵化
+将鸡蛋抛向天空，就会孵化出云神
+扔长蛋，孵出鼩鼱
+扔一个大鸡蛋，就会孵化出小猪
+扔一颗侏儒蛋，就会孵化出大象
+扔一个loi ngoi蛋，鱼就会孵化
+把鸡蛋扔进树叶里，森林里就会孵化出野兽
+将鸡蛋扔进篮子里，植物亲戚就会孵化
+红土山上扔一颗鸡蛋，竹林一家开花
+将鸡蛋扔进山谷，就会孵化出一棵裸露的松树。
 
-The orchid apricots are ripe
-The moist anthurium buds have cracked at the top.
-In April, birds watch silk weaving again
-In March, birds watch brocade weaving
-Weaving brocade and silk have not yet been completed
-The Tung Bird and the Tot Bird brought eggs.
-Get days, get months
-Birds go into their nests to lay eggs, and then go to their nests to incubate eggs
-Hamlet was silent for forty-nine days
-The hamlet went missing for fifty days
-Get a four-piece black egg
-Four-shaped oval eggs
-Square face, nine-sided round face
-Clearly twelve straps.
-These eggs are Breed eggs, Line eggs
-It's the breeding that makes you, the person you are.
+山兰杏熟了
+湿润的红掌花蕾顶部已裂开。
+四月鸟语丝织
+三月鸟看织锦
+织锦、丝绸尚未完成
+桐鸟和小孩鸟有蛋。
+获取天数，获取月数
+鸟儿到巢里产蛋，到巢里孵蛋
+哈姆雷特失踪四十九天
+哈姆雷特 五十天无踪
+获得四片黑蛋
+四形椭圆蛋
+方脸、九边圆脸
+显然有十二条带子。
+这个蛋是品种蛋，系蛋
+是教养造就了你，造就了你。
 
-Chim Tung and Chim Tot returned home
-Return the nest to Mrs. Da Dan:
-- "I kept the eggs
-I'll take care of it."
-Mrs. Da Dan ran and shouted for nine hours
-Wander around calling nine places:
-- "O ghost land of Heaven
-O orphan bird, widow bird
-Who flew into Drum Cave
-Incubate until Po eggs crack and Chieng eggs hatch
-Tomorrow:
-If you want clothes, I will give you clothes
-If you want gold and silver, I will give you gold and silver
-If you want deep fields, I will give you deep fields
-If you want a crop field, I will give you a crop field."
+鸟桐和鸟回家
+把鸟巢还给大丹夫人：
+- “我保留了鸡蛋
+我会照顾你的。”
+大丹太太跑喊了九个小时
+闲逛打电话九个地方：
+- “天上的幽灵之地啊
+哦孤鸟寡妇鸟
+谁飞进了 Trong Cave
+孵化直至 Po 蛋破裂、Chieng 蛋孵化
+明天：
+你要衣服我就给你衣服
+你想要金银，我就给你金银
+如果你想要深领域，就给他们深领域
+如果你想要丰收田，我就给你丰收田。”
 
-At that time, in Heaven's ghost land
-Land of orphans and widows
-There are birds with healthy feathers
-There is a peacock with a good tail
-Spread the word, spread the word:
-- "We would like to enter the hamlet
-But there is no back to wear a dress
-No stomach to wear clothes
-Doesn't know how to eat or drink alcohol
-So don't take fields.
-In April, please nest in the golden beach
-In September and October, please nest on a beautiful beach."
+那时，我们在天堂鬼域
+孤儿寡妇之地
+有一只比比普鸟，羽毛健康
+拥有美丽的孔雀尾巴
+传播消息，传播消息：
+- “我们想进入村庄
+但是穿裙子没有背
+没胃口穿衣服
+不知道如何饮食
+不应占用字段。
+四月，请窝在金沙滩
+请在九月和十月在美丽的海滩筑巢。”
 
-Mrs. Da Dan's heart was satisfied
-Bich Bip and Peacock come into the incubation
-After four months of incubation, I heard the difference
-The nine-month incubation period is so obscure
-Bibip lost all of its beak feathers
-The red peacock has all its back feathers
-But the egg does not crack or open.
-The two birds quickly returned to return the eggs:
-- "The eggs are stored and cared for by the mother
-We've been incubating forever and haven't seen Po crack or Chieng bloom."
+大丹夫人心里很满足
+Bim Bip，孔雀鸟进入孵化
+经过四个月的孵化，您应该能听到差异
+经过九个月的孵化，听起来很模糊
+大黄蜂失去了所有的喙羽
+红孔雀背毛全了
+但鸡蛋没有破裂或打开。
+两只鸟很快就回来还蛋了：
+- “母亲保管并照顾鸡蛋
+我们孵化了很长一段时间，却看不到Po开裂或Chieng开花。”
 
-Mrs. Da Dan again announced:
-- "O ghost land of Heaven
-O orphan bird, widow bird
-Someone entered Trong Cave
-Incubate and crack Po eggs, hatch Chieng eggs
-Tomorrow:
-If you want clothes, I will give you clothes
-If you want gold and silver, I will give you gold and silver
-If you want deep fields, I will give you deep fields
-If you want a crop field, I will give you a crop field."
+大蛋又出去打广告了：
+- “天上的幽灵之地啊
+哦孤鸟寡妇鸟
+有人进入Trong Cave
+孵化并打碎Po蛋，然后孵化Chieng蛋
+明天：
+你想要衣服，我给你衣服
+你想要金银，我就给你金银
+如果你想要深领域，就给他们深领域
+如果你想要一块收获田，我就给你一块收获田。”
 
-At that time, there was the Cao Chao bird's drum and the Skylark's female bird
-Agile in Muong Ma land
-Flying over to Mrs. Da Dan's house, she spoke:
-- "We would like to enter the hamlet
-But if you don't have a back, you can't wear pants
-If you don't have a stomach, you won't wear a shirt
-Doesn't know how to eat or drink alcohol
-So don't take the fields
-Just ask to nest in a good, beautiful place
-February and March at the ditch bank
-April nests in leaf banks."
+那时有曹超鸟鼓、云雀屋顶
+孟玛土地的敏捷
+飞到大丹夫人家，他说道：
+- “我们想进入村庄
+但是没有背就不能穿裤子
+没有胃就不会穿衬衫
+不知道如何饮食
+所以不要抢田地
+请只在美好的地方筑巢
+二月和三月在沟岸
+四月在叶岸上筑巢。”
 
-Mrs. Da Dan's heart was satisfied
-Cao Chao and Skylark hurriedly flew into Trong Cave
-Meet Bim Bip, the Peacock bird has just flown out
-His eyes were red and angry and he asked:
-- "Cao Chao, Skylark
-My body is the size of a basket of ten
-Our tail feathers are equal to a blanket, a blanket
-Spread out with a mat
-The hamlet was silent for fifty days, and ninety days without a trace
-Even if Po cracks, Chieng eggs hatch.
-They fly with hair
-His size is not as big as an areca nut
-Why do you also want hamlet?"
+大丹夫人心里很满足
+曹超和云雀子连忙飞进了通洞
+遇见Bim Bip，孔雀刚刚飞出去
+他红着眼睛，愤怒地问道：
+- 《曹超、云雀子》
+我的身体有十个篮子那么大
+我的尾羽有毯子那么大，毯子
+用垫子摊开
+哈姆雷特沉默五十天，九十天消失
+即使Po裂开，Chieng蛋也会孵化。
+他们用头发飞翔
+他的个头还没有槟榔那么大
+为什么你也想沉思？”
 
-Drum Cao Chao, Mai Chien Chien shook their heads:
-- "Bim Bep's feathers are healthy, Peacock's tail is healthy
-In the morning, don't use golden wings to cover the rising sun
-In the afternoon, do not use silver wings to cover the setting sun
-Don't take a fake rock
-Do not lightly smash the leaf tips
-How to crack a Po egg and hatch a Chieng egg?
+曹操鼓与云雀女摇头：
+- “Bim Bep 的羽毛很健康，孔雀的尾巴很健康
+早晨，不要用金色的翅膀遮住初升的太阳
+午后，别用银翼遮住夕阳
+请勿使用假石击打
+不要轻击叶尖
+如何破解破蛋并孵化芈蛋？
 
-Having finished speaking, the bird flew into Trong Cave
-After four months of incubation, they should be separated
-Incubation is nine months so it's dark
-Cao Chao lost all his beak feathers
-Lark's back feathers are all red.
-In the morning, the female uses her golden wings to cover the rising sun
-In the afternoon, the male uses his silver wings to cover the setting sun
-The female took a fake rock and hit it
-The male took the top of a leaf and lightly smashed it.
-Suddenly I saw Po's egg crack
-Seeing Chieng eggs hatch!
+说完，小鸟飞进了Trong Cave
+孵化了四个月所以分开
+经过九个月的孵化，天黑了
+曹超喙羽全部脱落
+红云雀背上的羽毛全都有。
+清晨，雌鸟用金色的翅膀遮住初升的太阳
+午后，雄性用银色的翅膀遮住夕阳
+雌性拿起一块石头假装打它
+雄鸟拿起叶子的顶部，轻轻地把它砸碎。
+突然我看到Po的鸡蛋裂开了
+亲眼目睹Chieng蛋孵化！
 
-Listen to Lao noise
-Listen to the sound of Kinh
-Listen to the noise of Mon and Muong languages
-Listen to the Thai language
-Listen to the bustling Man language
-I heard the sound of Tip
-It sounds so loud
-Hear voices and laughter.
+聆听老挝噪音
+聆听Kinh的声音
+听蒙语、芒语图片
+听到泰语一阵骚动
+聆听男人的喧嚣
+听到Tip的声音
+声音好大
+听到声音和笑声。
 
-One egg, Mr. Dit Dang hatched
-Egg two, Mr. Lang Ta Cai hatched
-Three eggs hatched and Mr. Lang Cun Can hatched
-Four eggs, hatched as Butterfly Khang
-Five eggs hatched on Mr. Xang Xi
-Six eggs, hatched the girl Vạn Hai Kip
-Seven eggs hatched, Lady Chin, owner of rice
-Eight eggs hatch and the whole cycle is full of water
-When the eggs are ripe, they hatch an albino baby with bulging eyes
-Ten eggs will hatch an orphan or a widow
-When the eggs are eleven, the crippled one who climbs a palm tree hatches
-Twelve eggs hatch, one is one-eyed, one is blind.
+一枚蛋，Dit Dang 先生孵化
+第二颗蛋孵化成郎大才先生
+郎存灿先生孵出三枚蛋
+四颗蛋，孵化为康蝴蝶
+五枚蛋，在Xang Xi先生身上孵化
+六个蛋，孵化成女孩，名叫瓦海基普
+米主金夫人孵出的七个蛋
+八个蛋，在整个水循环中孵化
+鸡蛋煮熟后，孵化出一个眼睛凸出来的白化婴儿
+十个蛋，孵化一个孤儿，一个寡妇
+当蛋十一岁时，当它们孵化时，它们会残废并爬上棕榈树
+十二颗蛋孵化，一颗是独眼的，一颗是瞎子的。
 
-Thus:
-All mortals are born from the Drum Cave
-Taken from Hang Hao.
-The story behind, remember the sentence before
-Pass it on
-Don't forget, the whole country and the whole country
-Listen to the story about dividing years and months.
+因此：
+凡人皆诞生于鼓洞
+摘自杭浩。
+背后的故事，记住前面那句话
+转发
+勿忘全国、全国
+继续听划分年月的故事。
 
 #### 讲述语气提示
-- **四段换气：** Dạ Dần 祖母（温暖风趣）→ 两位天女（清丽轻柔）→ Chim Tùng 与 Chim Tót（先忧后明）→ 神卵孵化（渐趋热闹）。
-- **保持 Dạ Dần 的温情主线：** 她虽常讨鱼饭，口中却处处教导儿孙智慧。
-- **四海一家之感：** 神卵孵出各民族与各姓氏时，声音充满喜悦与包容。
+- **四大节拍：** 大蛋 → 两个仙女 → 桐鸟 – 雏鸟 → 孵化蛋。在每个标记处暂停超过一拍 **...** 以便让听众有时间改变场景。
+- **穆大蛋的声音：** 温暖，缓慢，像奶奶给孙子讲故事；当她念出“天鬼国啊”的时候，铃声悠长，带着呼唤的节奏。
+- **二寸小伙子：**年轻，声音洪亮，有点傲慢但很有礼貌；两个仙女，声音清亮、小而害羞。
+- **Tim Tung – Chim Tot：** 第一部分悲伤地压低了声音，几乎是耳语；当学习如何编织和筑巢时，事情会变得更新鲜、更快。
+- **孵化蛋：** 渐读，每个“蛋一...蛋二...”都是一个开场节奏；当你看到种族群体列表时，改变每个声音的口音，就像听拥挤的市场一样。
+- **结论：** “凡人皆从鼓洞而生”，缓缓而庄严地念出；这是全章的主打句。
+
 ---
 
 ### 第7章：分年分月
 
-There is land below
-There is heaven above
-There was a chapter about wishing for water
-There are luffa vines and areca trees climbing a tangled trellis
-The flowers are ripe and the tips of the branches are red
-The fruit has ripened and has good roots
-Someone is making rice in the lower village
-Someone has cast a net above.
-But there is no day, no month
-I don't know which date to put forward first
-Pick up the next day.
+下面有陆地
+上面有天堂
+已经有水篇了
+丝瓜藤和槟榔树爬在纠结的格子上
+枝头已开出成熟的红花
+果熟了，根也好
+下村有人做米饭
+有人在上方区域撒网。
+但没有日，没有月
+不知道先提哪个日期
+第二天来取。
 
-At that time:
-There is Mr. Cuong Minh Vang Ram
-There is the Lady of Heavenly Thunder
-Going to mine bright copper
-Mining gold to cast the sun
-Cast nine suns
-Cast twelve bright faces.
-The sun rose brightly
-The bright face rises brightly.
-Intense sunlight:
-Working in the fields doesn't mean eating corn
-Looking for a source, I can't find drinking water
-Farming is not about rice, it's about color
-I can't fish when I go fishing
-I can't get any birds when I go slingshotting.
+当时：
+有Cuong Minh Vang Ram先生
+有天雷娘子
+去开采光亮铜
+开采黄金铸造太阳
+铸出九个太阳
+能投出十二张明亮的面孔。
+太阳照耀着升起
+明亮的脸庞明亮地升起。
+强烈阳光：
+种田不需要玉米吃
+找不到饮用水源
+种田不在于米，而在于颜色
+钓鱼钓不到鱼
+我弹弓打不到鸟。
 
-Chu Chuong must discuss it
-Muong Nuoc must discuss:
-- "For drinking water
-To have fields to work
-To have a playground
-We have to shoot down the sun
-Shoot down the moon
-Just quiet the valley, quiet the village to live in
-The new rice blooms, so it becomes rice
-Newly bloomed flowers are fragrant
-Flying birds are flexible
-The long moon is long."
+楚闯必须讨论
+Muong Nuoc 必须讨论：
+- “用于饮用水
+有工作的领域
+有一个游乐场
+我们必须射落太阳
+射下月亮
+新近安宁山谷，安稳村落，以此为家
+水稻开花就变成水稻
+新开的花儿香
+飞鸟灵活
+月亮很长。”
 
-Rumor has it that at that time they were from the Ngao family
-There are red painted crossbows and black painted crossbows
-Buy and smoke the old bamboo for three years.
-The Ngao family said:
-- "Nine suns shot down eight
-Let a sun bring sunshine
-Twelve bright faces shoot out eleven
-Let one light shine in the night sky.
-Who doesn't know the night, find the bright side
-Who does not know the day, follows the sun."
+传闻当时是Ngao家族的
+有红漆弩和黑漆弩
+买一根已经熏了三年的旧竹签。
+Ngao家人说道：
+- “九个太阳击落八个
+让太阳带来阳光
+十二张亮脸射出十一张
+让一侧照亮夜空。
+不懂黑夜的人，寻找光明的一面
+不知道日子的人，就会追随太阳。”
 
-Ngao family
-The left hand screws the crossbow string five times
-The right hand installs the dome arch.
-Flying arrows, sharp arrows
-Arrows fly vertically and horizontally
-Shooting to the bright side shivered
-If you hit it, the sun will fall!
-The sun fell, the sky was pitch black
-It's as dark as entering a thatched valley or a stone cave.
+吴氏家族
+左手拧弩弦五次
+右手安装穹顶拱门。
+飞箭、尖箭
+箭头垂直和水平飞行
+向明面射击瑟瑟发抖
+如果你击中它，太阳就会落下！
+太阳落山了，天空一片漆黑
+晚上，就像进入茅草谷或石洞。
 
-From then on, there was a day sky and a night sky
-But there are no years yet, there are months.
-Chu Chuong stepped out
-Preaching in high and low villages:
-- "Who calls for the sky to bring light?
-Want money and luxury
-Want private gold
-Want nine buffaloes and ten cows
-What do you want? Wish for that!"
+从此就有了白天的天空和夜晚的天空
+但还没有年，有月。
+楚冲走了出来
+上村下村传教：
+- “谁向天空呼唤光明
+想要金钱和奢侈
+想要私金
+想要九头水牛和十头牛
+你想要什么？”
 
-There are cocks and chickens underground
-Outside on the riverbank there is a soft duck roof
-Going to eat outside Mr. Poong Peu's garden.
-The rooster said:
-- "I will not trade for silver or gold
-Do not plow vertical or horizontal fields
-So don't take buffaloes or bulls."
-The duck's hen spoke softly:
-- "From now on
-The eggs we lay, the hens have to incubate
-When our children are born, you have to take care of them
-In good season, beg for badger seeds
-When the crop fails, people beg for flat seeds."
+地下有公鸡和小鸡
+河岸外面有一个柔软的鸭屋顶
+去Poong Peu先生的花园外面吃饭。
+公鸡说：
+- “我不会交易白银或黄金
+不要犁垂直或水平的田地
+所以不要与水牛或公牛结婚。”
+软鸭子的母鸡开口了：
+- “从现在开始
+我们下的蛋，母鸡要孵
+当我们的孩子出生时，你必须照顾他们
+好时节，乞獾籽
+当庄稼歉收时，我要扁平的种子。”
 
-Mr. Poong Peu's heart was satisfied
-Mr. Pong Peu's stomach is satisfied.
-The chicken jumped onto the duck's back smoothly
-Swimming in the surrounding, wide river
-A crowing sound in the East
-The nape of the neck turns to the west.
-The sun heard the sound of chickens rushing
-Spread golden sunshine
-The bright side hears the soft sound of ducks
-Rise up and reveal.
-The fields have become fields
-The strawberry beach has become a strawberry beach
-The forest is good for vegetables, and areca nuts are good for chambers
-It looks like there are things, people's faces already know how to smile.
+Poong Peu先生心里很满足
+Poong Peu先生的胃得到了满足。
+小鸡顺利地跳到了鸭背上
+在周边河里游泳，河很宽
+东方传来鸡鸣声
+颈背向西。
+太阳听到鸡奔跑的声音
+传播金色的阳光
+明亮的脸听鸭子轻柔的声音
+崛起揭晓。
+田地变成了田地
+桑园变成了桑园
+森林好菜，槟榔好房
+看事物，人的脸上已经懂得微笑。
 
-There is a night sky and a bright sky
-But there are no months yet, there are years
-Whichever date comes first
-Which day comes next?
-Rumor has it:
-The eldest Muong gave birth to Mr. Thu Tha
-Second largest Muong gave birth to Mrs. Thu Thien
-Stand up and command to make years and months:
-A year has twelve months
-A month has thirty days
-Some years are full, some years are empty
-Some months are full, months are short.
+有夜空也有明亮的天空
+但是还没有月份，有一年
+以先到者为准
+接下来是哪一天？
+有传言：
+大Muong生下Thu Tha先生
+第二大Muong生下Thu Thien夫人
+站立并指挥年份和月份：
+一年有十二个月
+一个月有三十天
+有的岁月是满的，有的岁月是空的
+有些月份是充实的，有些月份是短暂的。
 
-Take the full month first which is January
-Called the first month of the year
-Let the silkworms climb the leaves.
-Set out February, March
-Put the fish in the field.
-Set out April
-Let King Mong Nong dry his back.
-Set out May, June
-Let the King of the Country come up and raise soldiers and farms.
-Set out July, August
-Let King Tai Tuong come down to make rain and wind.
-Set out September, October
-Laying rice on top, fish on the bottom
-Rice flower, rice fruit, fruit with branches.
-Set out November, December
-Let Mr. Bang Pin ride the clouds to the upper world.
+首先取整月，即一月
+称为一年中的第一个月
+让蚕爬上树叶。
+出发二月、三月
+把鱼放在田里。
+四月出发
+让蒙农王擦干他的背。
+5月、6月出发
+让国王崛起，养兵兴国。
+7、8月出发
+让大祥王下来造雨造风。
+设定9月、10月
+上生稻，下生鱼
+米花、米果、带枝果。
+11月、12月出发
+让Bang Pin先生乘云去上层世界。
 
-Mr. Bang Pin rides dark clouds
-Riding a clear white cloud
-Riding on branches, clouds of rain, clouds of wind.
-The wind high above was blowing
-The wind on the ground is howling
-The pouring rain
-The rain subsided.
-On the ground the wind blew
-The forest insists on having fortune
-On the land there is a Cun Buom Bac house
-On the water surface, there is a Gong Vo house
-In the door, in the house
-Old grandparents have grandchildren and children to continue their descendants.
+Bang Pin先生驾驭乌云
+乘着清澈的白云
+骑枝，云雨，云风。
+风在高处吹
+地面上的风沙沙作响
+倾盆大雨
+雨下得真沉闷。
+风吹在地上
+森林坚持有福气
+陆地上有一座房子，名叫银蝴蝶
+水面有一座贡沃屋
+门内、屋内
+老祖父母有孙子孙女。
 
-The story is not over yet
-Not enough words yet
-Our story is still long
-Sit back and listen, stand back and listen
-The following simple story.
+故事还没有结束
+话还没说完
+我们的故事还很长
+坐下来听，站着听
+下面这个简单的故事。
 
 #### 讲述语气提示
-- **炽热与舒爽的对比：** 九个太阳烘烤时语气焦急，射落多余日轮后顿觉清凉。
-- **鸡鸭渡河：** 富有童趣，读得明快生动。
-- **岁时定序：** 数算十二个月时均匀沉稳，末尾轻声带出“Dịt Dàng”，引出第二幕。
+- **像总结一样打开：**前八句读得很慢很清晰，仿佛在倒数已经存在的东西；到“但是还没有一天，还有一个月”，然后降低你的声音并创造空间。
+- **九个太阳：** “黎明”、“黎明”读起来强烈、明亮；炎热的阳光刺眼而干燥。
+- **射日：** 快速、果断的节奏； “如果你击中，太阳就会落下！”放手，保持沉默，让黑暗降临。
+- **鸡和鸭：**将基调改为轻松、欢乐，夹杂着一点喜剧；这是孩子们在紧张之后可以笑的地方。
+- **月份的划分：** 像敲击月份的节奏一样均匀地读；每月一次，不着急。
+- **结束：** 最后三句话又长又慢，然后放开“下面的简单故事”作为进入第二幕的承诺。

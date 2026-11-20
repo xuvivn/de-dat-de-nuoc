@@ -5,102 +5,102 @@
 
 ### 第8章：Dịt Dàng
 
-There is land below
-There is heaven above
-Someone has chosen a place to live
-There were people looking to drink and eat.
-But the cycle must come
-Muong country must be rich
-There must be a healthy chicken mother and a door
-A leafy tree must have roots and branches.
-Chu Chuong wanted Mr. Dit Dang to lead the army
-Carrying him out to protect the village and the country
-The way to eat and live is new.
+下面有陆地
+上面有天堂
+有人选择了居住地
+有人在寻找喝的东西或吃的东西。
+但是这一章一定要来
+芒国一定很富裕
+必须有一个健康的鸡妈妈和一扇门
+绿树成荫，必有根有枝。
+Chu Chuong 希望 Dit Dang 先生领导军队
+带他出去保护村庄和国家
+新的饮食和生活方式。
 
-At dawn, people shouted loudly to each other
-Walking narrowly on one side of the road
-Round to the mountain, the mountain
-Laughter echoed on Bai hill
-The voice echoed on Gianh hill
-The lower and upper villages pull back to Dit Dang's house.
-Mr. Dit Dang called his child at the door
-Call the person in the house
-Take out the mat and spread it out
-Take betel, take areca nuts and invite your friends
-Boil a pot of green tea to serve your friends.
+黎明时分，人们互相大声喊叫
+沿着芒翁一侧狭窄地走
+绕行子山和母山
+白山上回荡着笑声
+声音回荡在镜山上
+下村和上村拉回Dit Dang家。
+Dit Dang 先生在门内喊他的孩子
+给家里的孩子打电话
+取出垫子并展开
+带上槟榔，邀请朋友
+煮一壶绿茶招待朋友。
 
-Dit Dang raised his voice and asked out into the countryside:
-- "Hey Muong, oh Muong
-Today is a sunny day
-Green grass, green buds
-What is the purpose of Muong country coming here?
-Or call me to hunt deer on Lai Lang hill
-Hunting deer at Ri Lay peak
-Or go build a door or build a house?"
+Dit Dang 提高了声音，向郊外问道：
+- “嘿芒，芒
+今天是个晴天
+绿草和芽
+Muong Nuoc 人为什么来这里？
+或者叫我去莱朗山打鹿
+Ri Lay 峰猎鹿
+还是去建门或者建房子？”
 
-Muong Nuoc immediately said:
-- "No, no, Mr. Dit Dang
-Yes, yes, Mr. Dit Dang
-Didn't call him to go hunting on Lai Lang hill
-Didn't force him to hunt deer at Ri Lay peak
-I didn't call him to build a door or build a house.
-Since the beginning of time, there has been heaven and earth
-There are many people on earth looking for food and shelter
-Chu Chuong wanted to send him to lead the army
-Pick him up to keep the village
-Let the country be peaceful and warm
-The new land is rich, the new country is prosperous."
+Muong Nuoc 立即说道：
+- “不，不，Dit Dang 先生
+是的，是的，Dit Dang 先生
+没叫你去莱朗山打猎
+没有强迫他去Ri Lay峰打鹿
+我没有要求他盖一扇门或盖一座房子。
+从太初就有天地
+地球上有很多人在寻找食物和住所
+楚楚想派他带兵
+接他去守村
+让祖国和平温暖
+新土地富裕，新国家富裕。”
 
-Dit's stomach still wants to eat fish
-Yes, I still want to eat rice and soup
-Just told Muong:
-- "Muong nuoc
-When I went to lead the army, I was still afraid of being cursed by ghosts
-I went to the countryside and was still afraid of ghosts and ghosts.
-Chu Chuong had to roast ten large ducks
-Meat of ten large beasts
-Worshiping ghosts to enchant the head of the village
-There were also nine more baskets of gold and twelve baskets of silver
-Worshiping the King of Earth and King of Heaven."
+节食的胃还想吃鱼
+是的，我还想吃米饭和汤
+刚刚告诉Muong：
+- “Muong nuoc
+出去带兵还怕被鬼诅咒
+到了村子里，我还是很怕鬼怪的。
+楚闯必烤十只大鸭子
+十大猛兽的肉
+村里拜鬼
+又九筐金，十二筐银
+拜地王、天王。”
 
-When it's sunny, Chu Chu clears the trees so that Dat Dang can have a way
-When it rains, the river lowers its branches and roots to make a bridge.
-The processioner in front
-The pick-up behind.
-Dat Dat walked down the first step
-Chu Chuong whispered and discussed.
-Dat Dat walked down the middle stairs
-Muong country was as quiet as paper.
-Dit Dao went out to the yard and to the alley
-Everyone knows it, everyone knows it.
-Dat Dat just walked out onto the street
-Suddenly the wind was loud and rushing
-Dust swirled around the sky and earth
-Kumquat leaves with curved branches!
-Demons cursed the way and blocked the alley
-Stick out ninety-nine red measuring tongues
-Hold up ninety-nine tiger teeth
-Licking his face, scratching his eyebrows.
-The golden dragon rushed forward baring its fangs
-The red crested dragon has a green crest, and the red crest shows venom.
-Dit Dau pulled out his sword and looked for silver
-Poke the tip of the knife with the ivory handle
-But the evil dragon does not forgive
-The curse does not leave.
+天气晴朗时，chu chu 会清理树木，以便 Dit Dang 有路可走
+下雨时，在水中，放下树枝和树根，可以架起一座桥。
+游行者在前面
+后面的接机。
+轻松迈下第一步
+楚闯小声议论。
+轻松走下中间的台阶
+芒国寂静如纸。
+轻松出门到院子、到巷子
+大家都知道，大家都知道。
+达达刚刚走到街上
+突然，风刮得很猛
+尘埃席卷天地
+金橘叶弯枝！
+鬼施咒语封锁小巷
+伸出九十九个红色量刃
+举起九十九颗虎牙
+舔脸、抓眉毛 轻松。
+金龙张牙舞爪冲上前
+蓝色波峰，红色波峰露出毒液。
+迪特轻松拔出剑，寻找银子
+将象牙柄的刀尖插入
+但恶龙并不原谅
+诅咒不会消失。
 
-Dit Dang had to turn around and go back
-Unable to walk, I had to tell my mother:
-- "Please allow me to return home
-I don't dare to go out to command soldiers or soldiers anymore
-Because the ghosts blocked the way
-The golden dragon and the dragon have blocked the path."
+滴滴只好转身回去
+我走不动了，只好告诉妈妈：
+- “请让我回家
+我不敢再出去指挥士兵或士兵了
+因为鬼挡住了路
+金龙和龙已经封锁了巷子。”
 
-After listening, Chu Chuong took Dit Dang back to the door
-Went to Lang Ta Cai's house again
-Ask Lang Ta Cai to lead the army and protect the village.
-The story is not over yet
-Not enough words yet
-Sit back and listen to the story of Lang Ta Cai.
+楚楚听完，带着Dit Dang回到门口
+又去了Lang Ta Cai家
+请郎打才率领军队，保护村庄。
+故事还没有结束
+话还没说完
+坐下来听郎打财的故事。
 
 #### 讲述语气提示
 - **迎请队伍：** 宏亮喜庆，展现众芒百姓结伴前行的气势。
@@ -110,71 +110,71 @@ Sit back and listen to the story of Lang Ta Cai.
 
 ### 第9章：Lang Tà Cái
 
-Below there is earth, above there is heaven
-But the Chu Chuong must be rich, the country must be rich.
-At dawn, people shouted loudly to each other
-Walking narrowly on one side of the road
-Round to the mountain, the mountain
-Laughter echoed on Bai hill
-The voice echoed on Gianh hill
-Pulled together to Lang Ta Cai's house.
+下有地，上有天
+但是楚国一定要富，国家一定要富。
+天一亮，人们互相大声喊叫
+走在路的一侧
+绕到子山、母山
+白山上回荡着笑声
+声音回荡在镜山上
+一起来到Lang Ta Cai家。
 
-Lang Ta Cai spreads out a mat to invite people
-Offer betel, areca nuts, and green tea to guests
-Then he raised his voice and asked, echoing through the cycle:
-- "Hey Muong, today is a beautiful sunny day
-What is the purpose of Muong country coming here?
-Call me to hunt deer on Ri Lay hill
-Or hunt deer on Lai Lang hill?"
+郎大才铺席请人
+为客人奉上槟榔、槟榔、绿茶
+然后他提高了声音大声问道：
+- “嘿 Muong，今天是一个美丽的阳光明媚的日子
+Muong Nuoc 人为什么来这里？
+叫我去Ri Lay山打鹿
+还是去莱朗山打鹿？”
 
-Muong Nuoc immediately said:
-- "Mr. Lang Ta Cai
-Didn't call him to hunt deer or deer
-Dit Dau couldn't leave
-Chu Chuong wanted to take him out to lead the army and protect the village
-For the rich and prosperous people."
+Muong Nuoc 立即说道：
+- “亲爱的郎大才先生
+没有叫他去猎鹿或者鹿
+我不能轻易离开
+楚冲想带他出去带兵保护村子
+对于有钱人来说，一个温暖的家。”
 
-Lang Ta's stomach still wants to eat fish
-Yes, I still want to eat rice and soup
-Then he told Chu Chu:
-- "I went out to lead the army, afraid of a ghost
-I'm afraid of vampires, I'm afraid of vampires.
-Ten great beasts must be killed
-Grill ten big fish
-Worshiping ghosts to enchant the head of the village
-Nine more baskets of gold and twelve baskets of silver
-Worshiping the King of Earth and King of Heaven."
+浪塔的胃还想吃鱼
+是的，我还想吃米饭和汤
+然后告诉楚楚：
+- “我出去带兵，怕有鬼
+我去村子是因为害怕吸血鬼。
+必须杀死十只大型动物
+烤十条大鱼
+村里拜鬼
+九担金子，十二筐银子
+拜地王、天王。”
 
-When it's sunny, there's a way to clear the trees
-When it's raining, you'll want to use the water to lower your roots to make a bridge
-One welcomes in the front, one receives in the back.
-Lang Ta Cai went down the first step
-Chu Chuong whispered.
-Go down the middle stairs
-Muong Nuoc waited silently.
-Lang Ta Cai walked straight onto the street
-Suddenly the wind blew loudly and violently
-Kumquat leaves with curved branches
-Dust covers the sky and earth!
-The demon stuck out ninety-nine red measuring tongues
-Raising ninety-nine tiger teeth to scratch his face
-The dragon rushed forward baring its fangs
-The green bamboo boat bares its venom.
-Lang Ta Cai pulled out his silver sword and ivory-handled knife
-Dragons and dragons will not be spared
-The curse does not leave.
+天气晴朗时，有办法清理树木
+下雨的时候，你需要水来建桥
+一个在前面接收，一个在后面接收。
+Lang Ta Cai 下了第一步
+楚冲小声说道。
+从中间的楼梯下去
+Muong Nuoc 静静地等待着。
+Lang Ta Cai 径直走到街上
+突然风刮得又大又猛
+金橘叶弯枝
+尘埃席卷天地！
+女巫伸出九十九条红色量舌
+举起九十九颗虎牙来抓脸
+巨龙张牙舞爪向前冲
+青竹船裸露着毒液。
+郎大才拔出银剑和象牙柄小刀
+龙，无情
+诅咒不会消失。
 
-Lang Ta Cai had to turn back:
-- "Please allow me to return home
-Don't dare to go out to lead soldiers and soldiers
-Because ghosts block the way
-The channel is clear, the green dragon is blocking the path."
+Lang Ta Cai 只得折返：
+- “请让我回家
+不敢出去带兵带兵
+因为鬼挡路
+水流流，青龙挡道。”
 
-Chu Chuong brought Lang Ta Cai to the door
-We invited each other to Lang Cun Can's house again
-Invite Lang Cun Can to protect the village and the country.
-The story is not over yet, words are not finished yet
-Sit back and listen to the story of Lang Cun Can.
+Chu Chuong带着Lang Ta Cai到门口
+我们又互相邀请去郎村灿家
+邀请郎村参来保护村庄和国家。
+故事还没结束，话还没说完
+坐下来听郎村灿的故事。
 
 #### 讲述语气提示
 - **镜面复沓：** 沿用第 8 章节奏但略快一点，让孩子敏锐察觉“同样的排场、同样的退却”。
@@ -183,98 +183,98 @@ Sit back and listen to the story of Lang Cun Can.
 
 ### 第10章：Lang Cun Cần
 
-Dawn
-People called each other loudly
-Walking narrowly on both sides of the village
-Round to the mountain, the mountain
-Laughter echoed on Bai hill
-The voice echoed on Gianh hill
-The far and near villages come to Lang Cun Can.
+黎明
+人们大声互相呼喊
+沿着村庄两边狭窄地走
+绕到子山、母山
+笑声回荡白山
+声音回荡在镜山上
+远村，近村都来郎村参。
 
-Lang Cun Can called the guards
-Call the servant
-Carry the mat and spread it out
-Take betel and areca nuts and invite them
-Cook a pot of green tea for guests.
-Lang Cun Need to change his pants
-Wear nine fathoms
-Pull the ends of the scarf like an otter's head
-Black eight-fathom belt.
-Stand up and see the appearance of a ferocious beast
-Speak loudly like thunder.
-But close your eyes
-Lang Cun Can is gentle and gentle
-Open your eyes
-Lang Cun Can is also healthy.
+郎村 需要叫守卫
+叫仆人
+拎起垫子并展开
+拿槟榔和槟榔来请他们
+为客人煮一壶绿茶。
+郎存 需要换裤子
+穿九噚
+像水獭头一样拉动围巾两端
+系黑色八跨腰带。
+站起来看猛兽的模样
+大声说话，如雷鸣般。
+但闭上眼睛
+郎存可温柔可温柔
+睁开眼睛
+郎存灿也很健康。
 
-Standing in the middle of the clear yard, Lang Cun Can asked:
-- "Hey Muong, Chu Chuong
-Today is a good windy day
-The water is clear, the sun is shining, the forest is peaceful
-Muong country called me to go hunting
-Or go fishing or netting?
-If you go hunting, wait for me to prepare a tube of gunpowder
-Or is it evening?"
+站在空旷的院子中央，郎存灿问道：
+- “嘿 Muong，chu chuong
+今天是个有风的好日子
+清澈的海水、灿烂的阳光、宁静的森林
+芒国叫我去打猎
+或者去钓鱼或撒网？
+如果你去打猎，等我准备一管火药
+也许已经是晚上了？”
 
-Muong Nuoc replied in unison:
-- "No, no, Lang Cun Can
-Yes, yes, Lang Cun Can
-Don't call him hunting
-He did not ask him to cast his net or cast his net.
-Since the beginning of time, there has been heaven and earth
-The people elected Dit Dang and Lang Ta Cai
-Go out to command the soldiers and keep the village warm
-But the two men reached the beginning of the village
-Broken by dragons and dragons
-Had to return to the door, to the house.
-Now, Lang Cun Can, don't be afraid that it's difficult
-Don't be afraid of being alone
-The Muong country wants to bring Lang out to lead the army and the Muong country."
+Muong Nuoc异口同声地回答：
+- “不不，郎存灿
+是是是郎存灿
+别叫他狩猎
+我没有叫他撒网，也没有撒网。
+从太初就有天地
+人民选出Dit Dang 和Lang Ta Cai
+出去指挥战士，温暖村庄
+但两人到达了村子的尽头
+被龙龙碎
+我不得不回到门口，回到房子。
+现在郎存灿，别怕难
+不要害怕孤独
+芒国想要带郎出来统领军队，拿下芒族。”
 
-Lang Cun Can turned around, grabbed a machete and walked out
-Humbly replied:
-- "Listen to Chu Chuong
-I'm confused in my body
-Worrying far and near in the heart.
-Strength equal to figs and figs
-Wealth is as small as a cassava seed.
-Yes, I would like to take charge of the army and defend the village
-But still afraid of the dragon and ghost.
-Chu Chuong had to burn ten great mountains
-Chase ghosts out of alleys and villages
-Meating whole moong and regular moong
-Worshiping village ghosts, sky ghosts, and earth ghosts
-It's good for me to become a lang
-Keep the land and keep the village peaceful."
+郎存灿转身，抓起砍刀走了出去
+谦虚回复：
+- “听朱冲说
+我的身体很混乱
+忧远，忧近心。
+强度相当于无花果
+财富小如决明子。
+是的，我想带领军队，保护村庄
+但我还是害怕鬼和龙。
+朱冲必须烧毁十大山
+将鬼魂赶出巷子和村庄
+煮全月和普通月
+拜村鬼、天鬼、地鬼
+成为一名郎对我来说是件好事
+保住土地，保住村庄和平。”
 
-When it's sunny, there's a way to clear the trees
-It's dark, long for water to clear the roots for light
-Ten betel people go first
-Those who welcome, those who process follow.
-Lang Cun Can walked down the first step
-Chu Chuong looked at it.
-Step down the middle stairs
-Muong Nuoc waited silently.
-Go out to the yard, to the alley
-Everyone knows it, everyone knows it.
-Lang Cun Can walked out onto the street and into the river:
-Spring water in swimming fish
-Flying clouds call for birds
-The wind shakes the leaves of the trees
-Ghosts ran in groups and hid into the deep mountains!
-Dragons are afraid of Lang Cun Can tie up
-Thuong luong is afraid of Lang Cun Can fighting
-Cover the ground and run quickly
-Let Lang Cun Can hold the machete in the middle of the temple
-Silver sword dance in the middle of the road
-Maintain the cycle, maintain the country, maintain the country.
+天气晴朗时，有办法清理树木
+天黑时，用水清除根部以供光照
+十槟榔人前行
+一人迎，一人跟随。
+郎存灿走下第一步
+楚楚看着。
+走下中间的台阶
+Muong Nuoc 静静地等待着。
+去院子，去巷子
+大家都知道，大家都知道。
+郎村灿走到街上，进入河里：
+泉水中游鱼
+飞云鸣鸟
+风吹动树叶
+鬼魂成群奔跑，逃入深山！
+龙惧狼存。需要绑起来
+Thuong luong 害怕 Lang Cun Can 打架
+覆盖地面并快速奔跑
+让郎村能把砍刀放在太阳穴正中
+路中央银剑舞
+维护循环，维护国家，维护国家。
 
-From now on, there is Lang Cun Can
-If you lead the army, the army will come
-Holding Muong, Muong will be rich.
-There are people but no property yet
-There are people but no homes yet
-Let's continue listening to the story of building Lang's house completely.
+从此就有了郎村灿
+如果你有军队，军队就会来
+持有芒翁，芒翁就会富有。
+人还没有财产
+有人但还没房子
+我们继续听完整的建造郎屋的故事。
 
 #### 讲述语气提示
 - **隆重盛装与反差幽默：** “闭眼温顺、睁眼慈祥”可轻带笑意，拉近孩子与英雄的距离。
@@ -284,160 +284,160 @@ Let's continue listening to the story of building Lang's house completely.
 
 ### 第11章：为 Lang Cun Cần 建屋
 
-Lang Cun Can has no entrance or exit
-There is no dining room or sleeping house
-Also use the forest as a house
-Use the mulberry forest as a place to live.
+郎村参没有入口或出口
+还没有餐厅和卧室
+也用森林当房子
+以桑林为居所。
 
-At that time, there was Bui Rut who often went hunting
-Go shoot in the middle of the forest and caves in the mountains and rocks
-Listen to the devil singing, the ghost screaming
-Listen to monkeys mocking, parrots barking, ghosts chasing dogs and biting dogs.
-Ms. Bui Rut saw the dark turtle
-Located under the stone roof
-Immediately flip the turtle's shell face up
-Pulled out into the middle of the forest
-Cut bamboo and tie it horizontally
-Split the bamboo and tie it lengthwise
-Tied to a stake, tied around the neck and legs
-Wrap the rope around your body, around yourself.
-She cut down a tree to use as a carrying pole
-Firmly and contentedly, he said to the turtle:
-- "O turtle, I'll tie you up
-Bring the meat home and put it in a small pot to cook with vinegar
-Put it in a large kettle and roast it
-Cook coriander and chop galangal and chili
-I just ate and sipped turtle soup!"
+当时有一个经常去打猎的Bui Rut
+去森林中央、洞穴和岩石中拍摄
+听魔鬼的歌声，鬼魂的尖叫
+聆听长臂猿的嘲笑、鹦鹉的吠叫、鬼魂驱赶咬人的狗。
+Bui Rut女士看到黑海龟
+位于石屋顶下
+立即将乌龟壳翻面朝上
+被拉到森林中央
+将竹子劈开并横扎
+将竹叶劈开并纵向绑起来
+绑在木桩上，绑在脖子和腿上
+将绳子绕在你的身上，绕在你的身上。
+她砍倒了一棵树来当扁担
+坚定而满足地对乌龟说：
+- “乌龟，我把你绑起来
+把肉带回家，放在小锅里，用醋煮
+放到大锅里让我烤
+煮香菜，高良姜和辣椒切碎
+我刚刚吃了喝了甲鱼汤！”
 
-The turtle's mouth is dark or sparse
-The turtle's heart often says:
-- "Sir, don't tie me up to die unjustly
-Don't force me to die in vain!
-The meat I picked up did not fill the tube
-My bones don't fill the bamboo tube
-The liver is not full of children
-Bile should not be medicine.
-I know how to build a house
-I know how to build doors
-Nine-room house, tall windows
-Please release me quickly
-I show you how to build a house and a door."
+乌龟的嘴是黑的还是稀疏的？
+龟心常说：
+- “先生，请不要绑着我去冤死”
+别逼我白死！
+我拿起的肉没有填满管子
+我的骨头装不满竹筒
+肝未满儿
+胆汁不宜入药。
+我知道如何盖房子
+我知道如何建造门
+九房屋，高窗
+请你快点放开我
+我向你展示如何建造一座房子和一扇门。”
 
-Ms. Bui Rut felt pity in her heart
-Left hand opens front tie
-Right hand cuts the back rope
-Remove the head strap and heel strap
-Unbutton the neck, open the hips.
-My legs are still healthy, I'm still intact
-The turtle raised his head and said:
-- "My four legs are the pillars
-Look at the long ribs and short ribs arranged as rafters
-Look through the tail to make a wing
-Look back at the front of the stairs and windows
-Look at the spine that makes the roof pole long
-If you want to have bangs, look at your sideburns and hips.
-Then he went into the forest to cut down trees
-Use lolot grass to make paintings
-Use green mustard greens as the wall
-Cut down thick trees to make flooring
-Pluck the grass and make crackers
-Use the fork to tie the rafter."
+裴如女士心中感到可惜
+左手打开前面的领带
+右手剪断后绳
+取下头带和脚跟带
+解开脖子的纽扣，打开臀部。
+我的腿还健康，我的身体完好无损
+乌龟抬起头回答道：
+- “我的四条腿是支柱
+看长肋和短肋排列成椽子
+透过尾巴看做翅膀
+再看看前面的楼梯和窗户
+看看使屋顶杆变长的脊柱
+想要有能看到鬓角和臀部的刘海。
+绑好后，进入森林砍伐树木并收集水
+用罗洛草做画
+用绿色蔬菜当墙
+砍倒茂密的树木来制作地板
+拔草做饼干
+拿轭，系椽。”
 
-Chị Bùi Rút xắn quần, vén áo trở về
-At night, I walked to Cun Buom Bo land
-The dim morning came to Cun Buom Bac land
-Rest at the source of Cun Buom's house
-Hết sáng về chiều đến hang rêu Chim Tùng, Chim Tót.
-Heels through the land of Cun Khong Lang
-Feet to the land of Lang Khong Don
-Through Dao Trang land, Cun Khong Lot
-Return to Cun Khong Mai land for lunch
-Resting at Cun Khong Am
-Bathing in Muong Du wharf water
-Sleeping in Muong Khao land
-The dark land of Muong Bang
-Sáng giăng giăng về Đồng Chì Tam Quan Kẻ Chợ.
+裴如女士卷起裤子，掀起衬衫回来了
+晚上，我们步行到Cun Buom Bo land
+昏暗的早晨来到了Cun Buom Bac土地
+在 Cun Buom 家的源头休息
+从早上到下午，去Chim Tung和Chim Tot的苔藓洞。
+高跟鞋穿过 Cun Khong Lang 土地
+脚登陆 Lang Khong Don
+穿过道庄地、存空洛地
+返回Cun Khong Mai land吃午餐
+Cun Khong Am 度假
+在 Muong Du 码头的水中沐浴
+睡在孟考地
+Muong Bang 的土地一片漆黑
+早上，我们回到Dong Chi Tam Quan Ke Cho。
 
-In the morning, go to Lang Cun Can lake
-Tell clearly the story of the turtle.
-Lang Cun Can heard a ringing sound in his heart
-Listen in your heart
-Send people to preach throughout the bush and villages
-Quan Cheo, Neo village, Dong village:
-- "One day must pass
-Day two and day three must come
-Set up the door for Lang to exit
-Build a house for Lang to live in!"
+早上前往郎村参
+讲清楚乌龟的故事。
+郎存 可以听到他心里的声音
+倾听你的内心
+派人到丛林和村庄传教
+泉州、新村、侗村：
+- “一天必须过去
+第二天第三天一定要来
+设置郎出去的门
+盖一栋房子给郎住！”
 
-The dawn of heaven
-Nearby villages pull over, distant villages pull in:
-The boy cut down a thick tree to make a roof
-Girl cuts grass to make paintings
-The old lady pulled out the grass and made it into crackers
-The old man cut down a bamboo tree to make a pole.
-Unexpectedly:
-The bamboo tree cannot wedge the pillars of the house
-The lolot grass should not be thatched, it should be roofed
-Bitter mustard greens cannot be braided
-Thick trees do not form a floor
-May grass is not tied so it is thin
-The catch can't tie the rafter!
+黎明之门
+近村靠边，远村靠边：
+男孩砍倒一棵粗树来盖屋顶
+女孩割草作画
+老太太把草拔出来做成饼干
+老人砍倒了一棵竹子，做了一根杆子。
+没想到：
+竹子支撑不住房子的柱子
+洛洛草不应该被争夺，所以应该盖上屋顶
+苦芥菜不能编辫子
+树木太粗，无法形成地板
+可能草没有绑所以很松
+打捞销钉不能系住椽子！
 
-Lang Cun Can was angry
-Sent Ms. Bui Rut through the pass and across the stream
-Catch the turtle lying and lying
-Grilled meat over a fire of apricot trees
-Light ten bonfires of steamed wood
-Roast until the turtles die!
+郎村灿生气了
+送裴如女士穿过山口并过河
+抓到躺着躺着的乌龟
+杏树火烤肉
+点燃十堆蒸柴篝火
+烤到乌龟死掉！
 
-Ms. Bui Rut returned to the forest and cave
-Find and catch the talkative turtle
-But he caught the golden turtle
-Looking for food in caves and alleys.
-She splits bamboo to tie horizontally, splits bamboo to tie vertically
-Tie your neck to the stake and throw it on your back.
-The yellow turtle's mouth often says:
-- "Don't tie me up so I can die unjustly
-Don't force me to die miserably!
-The dark turtle often lies
-The body of a golden turtle begs for food, tell the truth."
+Bui Rut女士回到森林和洞穴
+找到并捕捉会说话的乌龟
+但我抓到了金龟
+在山洞、小巷里寻找食物。
+她劈开竹子横绑，劈开竹子竖绑
+将你的脖子绑在木桩上，然后将其扔到你的背上。
+黄龟的嘴经常有瓣膜或稀疏：
+- “别把我绑起来，让我死得冤枉
+别逼我做什么，直到我死得很惨！
+黑龟经常说谎
+金龟之身正在乞食，说实话。”
 
-Ms. Bui Rut rolled up her shirt and untied the strap
-The golden turtle still has its good legs and body intact
-Raise your head and teach how to build a house:
-- "My four legs are the pillars
-Look at the long ribs and short ribs arranged as rafters
-Look through the tail to make a wing
-Look back at the front of the stairs and windows
-Look at the spine that makes the roof pole long
-If you want to have bangs, look at your sideburns and hips.
-Go up the hill to cut ironwood and wood slices
-Use the white crocodile tree as the floor
-Entering the valley through the mountains, cutting the fairway
-Chop old bamboo and weave it together to cover it
-Go to the big beach, the golden beach
-Cut paintings in the morning, wrap paintings in the afternoon
-Every afternoon, roofing the house and doors."
+裴如女士卷起衬衫，解开，解开带子
+金龟的腿和身体都完好无损
+抬起头，教如何盖房子：
+- “我的四条腿是支柱
+看长肋和短肋排列成椽子
+透过尾巴看做翅膀
+再看看前面的楼梯和窗户
+看看使屋顶杆变长的脊柱
+如果你想要有能看到鬓角和臀部的刘海。
+上山砍铁木和木片
+使用白色鳄鱼树做地板
+穿山入谷，切割球道
+将旧竹子砍碎，编织紧密
+去大沙滩、金沙滩
+上午剪画，下午包画
+下午尝试盖上房子的屋顶和门。”
 
-Lang Cun Can sent someone to advertise again
-Called bush people, rustic villages, Moc villages
-Quan Cheo, Neo village, Dong village
-Big and small Muong come together to build houses.
+郎村灿又派人来打广告了
+呼唤丛林人、乡村村庄、莫克村
+泉州、新村、侗村
+大大小小的芒族聚集在一起建造房屋。
 
-Lang Cun Can has an entrance and exit
-The door looks through, looks back
-The house has two wings and twelve compartments
-Thirty-six windows!
-Stepping into the inner compartment is no longer cramped
-Opening voong windows is no longer cumbersome.
-Lang Cun Need to work cun has arrived
-Becoming a villager is already rich.
+郎村参有出入口
+透过门看，回头看
+有两个翼楼、十二个隔间的房子
+三十六个窗口！
+步入内舱不再局促
+打开纸板窗户不再麻烦。
+郎村需要做村才来
+成为村民会让你变得富有。
 
-That life is gone
-That's over
-The story is not over yet, words are not finished yet
-Sit back and listen, stand back and listen
-The story of Finding Fire, Finding Water.
+生命已逝
+一切都结束了
+故事还没结束，话还没说完
+坐下来听，站着听
+寻找火、寻找水的故事。
 
 #### 讲述语气提示
 - **两只龟两种声音：** 黑龟油滑讨饶，金龟沉稳诚实。
@@ -447,268 +447,268 @@ The story of Finding Fire, Finding Water.
 
 ### 第12章：寻火、寻水
 
-Lang Cun Can has an entrance and exit
-I have a house to eat and live in
-But there is no fire to cast silver yet
-There is no country to act as an official.
-Eating turtle fish is still afraid of bitterness
-Eating fish, snakes, and bananas is still afraid of being fishy
-Swallow medicine without hearing it
-Eating vegetables still causes stomach pain.
+郎村参有出入口
+已经有房子吃住了
+但还没有火来铸银
+尚无国家为官。
+吃甲鱼还是怕苦
+吃鱼蛇香蕉还怕腥
+听不见就吞药
+吃蔬菜还是会胃痛。
 
-One table passes each day
-The second day we discuss again
-Lang giao Viếng Cu Linh một mình đi xin lửa
-How many days, how many meals
-Bring fire to cast silver
-Bringing water back to become an official.
-Được ngày nóng, Viếng Cu Linh lên đường
-Step forward hastily
-Walk away hastily
-Early in the day, it rises with the moon
-The morning rises with the sun
-Turn to the house of the fire god Ta Cam Cot.
+有一天讨论一下
+两人天天讨论
+Lang派Vien Cu Linh单独去请火
+多少天，多少顿饭
+带火铸银
+带水当官。
+大热天，越古灵出发了
+急忙向前走
+匆匆走开
+清晨，月亮升起
+早晨，随着太阳升起
+前往火神 Ta Cam Cot 的家。
 
-Walk along the edge of the well
-Throw it over the edge of the pond
-Go to the fence, go to the hedge
-Around the back, around the fence in front
-Vinh Cu Linh entered the house.
-Ta Cam Cot spoke out and asked:
-- "My feet are tired so I come to the house
-Or what's the point in being dense?
-Come home early tomorrow morning
-The sun hasn't reached the hill yet?"
+沿着井边走
+扔到池塘边
+去栅栏，去树篱
+绕着后面，绕着前面的栅栏
+探访古灵进屋。
+Ta Cam Cot 出声问道：
+- “我的脚累了，我走进了房子
+或者厚了有什么意义？
+明天早上早起
+太阳还没到山上吗？”
 
-Vinh Cu Linh spoke briefly
-Let's say it again:
-- "Sir, Ta Cam Cot
-I went home early
-I come home early tomorrow
-Because Lang Cun Can longs for me
-There is no fire yet to make silver
-There is no country to return to as an official."
+短暂访问古灵
+再说一遍：
+- “先生，Ta Cam Cot
+我很早就回家了
+明天我会早点回家
+因为郎村灿渴望我
+还没有火烧银子
+为官无国可归。”
 
-Ta Cam Cot was satisfied in his stomach
-Tell the children to get knives with ivory handles
-Go up Ca Da hill
-Cut five branches of a tree
-Split into seven pieces of La Giang
-Split yellow and old bamboo to make tinder
-Pull it, pull it back
-into hundreds of bundles of fire
-Divide half to Viet Cu Linh.
+Ta Cam Cot 胃里满足
+告诉孩子们拿一把象牙柄的刀
+上Ca Da山
+砍掉五根树枝
+分成七块 lat giang
+劈开黄竹和老竹来制作火绒
+拉，再拉
+化为一百束火
+分一半给维灵。
 
-Ta Cam Cot trapped Vinh Cu Linh in an empty stomach
-Place it in the middle of the house and ask:
-- "Do you see darkness or light?"
-Do you see bushes or walls?"
-Visiting Cu Linh, he replied in a dull voice:
-- "I feel dark like night, like a tube
-Once is unknown
-Twice, no wall."
-Ta Cam Cot told someone to pull the strings
-Sawing into old bamboo internodes:
-Smoke billowed out
-Smoke extruded black
-Fire shoots up red!
-Ta Cam Cot took eight green dong leaves
-Take nine fresh arrowroot leaves
-Place eight fire packs underneath
-Pack nine packets of water on top
-Open the drum for Viet Cu Linh to receive.
+Ta Cam Cot 空腹困住了 Viet Cu Linh
+将其放在房子中央并询问：
+- “你看到黑暗还是光明？
+你看到灌木丛或墙壁了吗？”
+来访的古灵用沉闷的声音回答道：
+- “我感觉像夜晚一样黑暗，像一根管子
+一次，我不知道
+两次不行。”
+Ta Cam Cot 告诉有人幕后操纵
+锯切老竹节间：
+浓烟滚滚
+烟熏黑色
+火焰冲上红色！
+Ta Cam Cot 需要八片绿侗叶
+取九片新鲜葛叶
+在下面放置八个消防包
+将九包水放在上面
+打开滚筒让越古灵接收。
 
-Visiting Cu Linh, he greeted:
-- "Hello, green country above
-Hello, Ta Cam Cot fire seeker
-Work hard, work hard
-I returned to Dong Chi Tam Quan Ke Cho."
-Ta Cam Cot came out to see him off
-Both envision water and fire to give:
-- "I want to go home and light a fire, so I can't help it
-Throwing water causes a flood, resulting in a field!"
+来自古灵的问候：
+- “你好，上面的绿色国家
+你好，火贩 Ta Cam Cot
+努力工作，努力工作
+我回到了Dong Chi Tam Quan Ke Cho。”
+Ta Cam Cot 出来送行
+都梦到水和火：
+- “我要回家生火，所以没办法了
+泼水引发洪水，导致团结！”
 
-Visit Cu Linh carrying eight bundles of fire below
-Nine packets of water on top
-Along the snake ladder, the winding dragon cave
-Night follows the moon
-The day I went under the sun.
-Return to Len En mountain
-Near Dong Da land
-Hand hitting the cliff:
-Break the nine water clusters above
-Water down the eight fire packs below!
-Smoke disappears after smoke
-Water flows across the field!
-Visiting Cu Linh returned to nothing
-The back is tired, the pillow is weak
-Hand holding water, water has dried
-The shoulder carries the fire, the fire has cooled, has gone out
-Bring your bare hands back to Dong Chi Tam Quan Ke Cho.
+携带八捆火前往古灵 (Cu Linh)
+上面有九包水
+蛇梯、盘龙洞
+夜随月而行
+在阳光下行走的一天。
+返回伦恩山
+东大地附近
+手击悬崖：
+破除上方九个水团
+给下面的八个火包浇水！
+烟雾消失在烟雾后面
+水流过田野！
+参观古灵归零
+我的背很累，我的膝盖很软
+手拿着水，水已经干了
+肩膀承载着火，火已经冷却，已经熄灭
+把你的双手带回Dong Chi Tam Quan Ke Cho。
 
-Didn't dare come in at midnight to talk
-In the morning, I go in and out
-Come and bow to Lang Cun Can
-Kneel down and bend your legs to apologize:
-- "Hey Lang, oh Lang
-Lang sent him to ask for fire to make money
-Ask the country to be an official
-The fire has been extinguished, the water has been packed
-Unfortunately, it was across Len En mountain, Dong Da land
-Fire hits the cliff, water pours upward
-Water extinguishes the fire
-Fire sinks, fire runs!
-Look at the flashing water
-Looks like the fire is shaking
-I had no choice but to return home, to the door."
+半夜不敢进来说话
+早上，进出咽部
+去向郎村参鞠躬
+跪下曲腿道歉：
+- “嘿郎，哦郎
+郎派他去请火赚钱
+求国为官
+火已扑灭，水已装好
+不幸的是，我们跨过了Len En山，东大地
+火烧崖，水浇顶
+水能使火熄灭
+火沉，火跑！
+看那闪烁的水
+看着火，在摇晃
+我别无选择，只能回家，到门口。”
 
-Lang Cun Can was angry and angry
-Right foot kicks back, left foot kicks over
-Pedaling Viet Cu Linh flew out the window
-Pour scolding and cursing on your shoulders and head:
-- "From now on
-You have to use pig manure to build a house
-Wear chicken dung as a door!"
-Mou Vinh Cu Linh spoke
-The heart has endured.
+郎村灿又生气又生气
+右脚踢回，左脚踢过去
+踩踏板探望古灵飞出窗外
+将责骂和咒骂倾注在你的肩膀和头上：
+- “从现在开始
+盖房子得用猪粪
+穿鸡粪当门！”
+Mou Vieng Cu Linh 发言
+我的心已经接受了。
 
-Lang Cun Can again meets Chu Chuong Muong Nuoc
-The other day the children discussed it
-The next day the old man discussed again
-We must send Tun Mun
-With Mun Mach and Mun Mong
-Go ask for fire to cast silver
-Please return to the country to become an official.
-Tun Mun asked to eat in the middle of the window
-Asking for a drink in the middle of the floor
-Another personal warning before leaving:
-- "The other day I went to get fire and water
-Don't say anything
-From now on
-Muong must let us bite people lying in the forest
-Bite the buffalo and the cow that sleeps in the mountains."
-Lang Cun Can agreed and agreed.
+Lang Cun Can再次举办Chu Chuong Muong Nuoc节
+前几天孩子们讨论了这件事
+第二天老爷子又讨论了
+一定要送屯门
+与 Mun Mach、Mun Mong
+去求火铸银
+请回国做官。
+屯门想在窗子中间吃米饭
+在地板中间要饮料
+出发前单独说明：
+- “有一天我去取火和水
+没什么好说的
+从现在开始
+Muong必须让我们咬躺在森林里的人
+咬住睡在山里的水牛和牛。”
+郎存灿答应了，答应了。
 
-Tun Mun's group set out in droves
-At night, follow the moon
-In the morning, follow the sun
-Go to nine mountains, take a break in the forest
-Through seven fields and seven mountains
-To eight streams and eight rivers
-Overcoming ten blue clouds and purple clouds
-Go up to Ta Cam Cot's house.
-Along the well's edge, along the pond's edge
-Go through the fence and go up to the middle door.
+敦曼一行人成群结队出发
+夜晚，追随月亮
+早晨，追随太阳
+去九山，森林小憩
+穿过七大田七座山
+至八溪八河
+战胜十个青云紫云
+前往Ta Cam Cot 的房子。
+修补好井边，扔到池塘边
+穿过栅栏，走到中间的门。
 
-Ta Cam Cot looked up and asked:
-- "Hey Tun Mun, Mun Mong
-Tired legs come in to rest
-Or do you have a job?
-Come up early tomorrow morning?"
-Tun Mun scratched his head and ears
-Sighing, he said:
-- "You don't have to rest when your feet are tired
-Don't come over and play
-But there is need, hot work.
-Lang Cun Can my house
-At Dong Chi Tam Quan Ke Cho
-There is an entrance and exit, and a living room
-But there is no fire to cast silver yet
-There is no country to act as an official
-Cold heart, cold stomach
-Send us up to ask for fire and water to bring us home."
+Ta Cam Cot 抬头问道：
+- “嘿 Tun Mun，Mun Mong
+脚累了就停下来休息
+或者你有工作吗？
+明天一早就起来吗？”
+Tun Mun 抓伤了他的头和耳朵
+叹了口气说道：
+- “脚累了不必休息
+别过来玩
+但是有一个需要，一个热门的工作。
+郎村需要我的房子
+东芝谭权科草
+有进门和客厅
+但还没有火来铸银
+为官无国
+心凉，胃凉
+派我们去要火和水带回家。”
 
-Ta Cam Cot stood up and asked:
-- "The other day I gave Viet Cu Linh a visit
-Nine packs of water, eight packs of fire
-Why does Tun Mun still come up so hard?"
-Tun Mun immediately replied:
-- "Do not eat, do not keep
-Visiting Cu Linh brings health and wealth
-But through Len En mountain, Dong Da land
-Hitting the rocks, the water poured on the fire and it went silent!
-Now we go up and ask for fire
-Please give me water."
+Ta Cam Cot 站起来问道：
+- “有一天我给 Viet Cu Linh 看了
+九包水，八包火
+为什么Tun Mun还是这么努力上来？”
+Tun Mun立即回复：
+- “不吃，不留
+到访古灵，带去健康和财富
+但经过伦恩山，东大地
+打到石头上，水浇在火上，就安静了！
+现在我们上去求火
+请给我水。”
 
-Ta Cam Cot's heart has healed
-Send someone to pull the strings
-Saw old bamboo and light a lighter
-Take ten green dong leaves and put them on fire
-Ten fresh dong leaves wrapped in water and placed on top.
-Again, Tun Mun was forced to crawl into the belly of a brass drum
-Shake for a long time then ask:
-- "Do you see darkness or light?"
-Tun Mun spoke harshly, patted the drum and replied haphazardly:
-- "It looks bright, very bright
-Bright, shining
-Clearly see Dong Chi Tam Quan Ke Cho!"
+Ta Cam Cot 的心痊愈了
+派人幕后操纵
+看到老竹子，点燃打火机
+取十片绿侗叶，放在火上
+十片新鲜葛叶用水包裹，放在上面。
+又逼着Tun Mun爬进铜鼓肚里
+摇晃很久然后问：
+- “你看到黑暗还是光明？”
+吞门粗声粗气，拍着鼓，胡乱回答道：
+- “感觉很亮，非常亮
+亮亮亮
+清楚地看到Dong Chi Tam Quan Ke Cho运河！”
 
-Ta Cam Cot was afraid of revealing his fire making magic
-Quickly locked Tun Mun in the basket
-Hang it up in the kitchen and ask again:
-- "Do they see darkness or light?"
-Tun Mun stopped speaking harshly and replied calmly:
-- "Looking around, it was dark
-Looking back, it was black
-Dark like a stupid dog
-As dark as a cave!"
-But Tun Mun has eyes at the top of his head
-See through the basket
-Looking through the spokes:
-Seeing Ta Cam Cot pulling fire with tinder
-Pull it back, pull it back
-The fire burned brightly and strong smoke rose
-Seeing Ta Cot go out to the yard and stream
-Scoop up the water and measure it into a bamboo tube.
-Tun Mun remembered it well in his heart
-Hold tight in your heart
-Tips for starting a fire, how to get clear water.
+Ta Cam Cot 害怕暴露他的生火魔法
+迅速将Tun Mun锁定在篮下
+挂在厨房再问：
+- “他们看到黑暗还是光明？”
+Tun Mun不再严厉地说话，平静地回答：
+- “环顾四周，天黑了
+回头一看，天黑了
+我就像一只笨狗
+黑暗如洞穴！”
+但是Tun Mun的头顶上有眼睛
+透视篮子
+透过辐条看：
+看到 Ta Cam Cot 用火种生火
+再次拉动并支撑
+火势凶猛，浓烟滚滚
+Saw Ta Cot 到院子里去溪流
+将水舀入竹筒中。
+Tun Mun 记在心里
+紧紧抱在心里
+生火的技巧，如何获得清水。
 
-Ta Cam Cot opened the basket
-Give ten packs of fire and ten packs of water.
-Tun Mun's group ate areca nuts and said goodbye
-Glazed ladders, crooked wooden ladders.
-Night follows the moon
-The day of the sun
-Through Len En mountain, Dong Da land
-Hit the cliff again
-All ten water clusters burst
-Extinguish all ten packs of fire!
+Ta Cam Cot 打开篮筐
+给十包火和十包水。
+Tun Mun一行人吃槟榔告别
+琉璃竹梯、歪木梯。
+夜随月而行
+太阳过去的日子
+穿过伦恩山，东大地
+再次撞上悬崖
+十个水簇全部爆裂
+扑灭所有十包火！
 
-Come in at midnight
-In the morning, go in and bow to Lang Cun Can:
-- "We went to ask for fire and water for Lang
-But through the clouds in the middle of the road, everything was gone.
-Please don't rush to kill him
-We are not bad at anything
-Learned all the tricks from Ta Cam Cot!
-Choose scraped old bamboo shoots to make tinder
-Take the saw string into the dry bamboo
-Smoke flew everywhere
-The fire extruded bright red!
-As for mine water or extrusion, geyser water or geyser
-Find deep ground
-Dig the source into a bamboo tube."
+半夜进来
+早上进来给郎村参顶礼：
+- “我们去给郎要火和水
+但穿过路中间的云层，一切都消失了。
+请郎，不要急着杀他
+我们什么都不差
+从Ta Cam Cot 学到了所有技巧！
+选择刮下来的老竹笋作为火种
+将锯绳放入干竹中
+烟雾四处飞扬
+红色挤压火！
+至于矿井水或挤出水、泉水或间歇泉
+寻找深处
+倒入竹筒里。”
 
-Lang Cun Can was delighted
-Spread the word throughout the dense village to buy tinder and old bamboo
-Scrape the mulch and wrap the wire across the bamboo tube
-The wrong person is pulling back and forth:
-The more you pull, the harder it gets
-Smoke rose up
-Fire extruded red!
-He sent Mun Mong to drain the water under the tank
-Go carry water outside the river
-Dig veins in the soil
-Flip the mine in the stream.
-Water has entered the bamboo and bamboo pipes
-The fire lit the door and the house
-Eating fish is no longer afraid of fishy taste
-Eating vegetables is good for your stomach.
+郎存灿很开心
+在密集的村庄里宣传购买火绒和老竹子
+刮去覆盖物并将绳子缠绕在竹筒上
+派人来回拉：
+越拉越难
+浓烟滚滚
+火挤出红色！
+再次派Mun Mong去排干水箱底下的水
+河外挑水
+在土壤中挖脉
+在流中翻转我的。
+水进入竹管
+火已经点燃了门和房子
+吃鱼不再怕鱼腥味
+吃蔬菜对胃有好处。
 
-This is done
-That deposit has been exhausted
-Listen to the story of Looking for rice, looking for rice again.
+这样就完成了
+该储备已用完
+听听《找米，再找米》的故事。
 
 #### 讲述语气提示
 - **两次行程对照：** Viếng Cu Linh 的鲁莽失手节奏轻快；Tun Mun 在铜鼓与灶篮中偷学火绒取火法时放慢突出。
@@ -717,244 +717,244 @@ Listen to the story of Looking for rice, looking for rice again.
 
 ### 第13章：寻饭、寻稻
 
-Lang Cun Can had fire to make silver
-There is already a country as an official
-Being a cun is luxurious, being a lang is rich
-But there's no rice to fill me up yet
-There is no rice to make it.
-The lower village, the upper village, and the lang family are still hungry
-Had to ask Mrs. Da Dan to hold the digging pole
-Send the Old Lady to dig up the yam
-Send the Old Lady to dig up roots
-Around the valley, around the fields, prepare meals for Lang.
+郎存灿有火生银
+已有国家为官
+做寸是奢侈，做郎是富有
+但还没有米饭填饱我
+没有米可以做。
+下村、上村、郎家还挨饿
+一定要请大丹太太拿住挖竿
+派老太太去挖山药
+送老太太去挖根
+绕着山谷，绕着田野，给郎准备饭菜。
 
-The Old Lady was busy digging up the tubers
-The old woman was exhausted digging up the yam
-The hair is like kitchen ash
-Teeth worn down to the gums
-Digging roots can no longer break the head
-Picking vegetables does not fill the basket.
-The old ladies cry for a short time, cry for a long time
-Tears flowed all over my shirt
-Tears filled my eyes.
+老太太忙着挖根
+老太婆咳了一声，把山药挖了出来
+头发就像厨房的灰烬
+牙齿磨损到牙龈
+挖块茎不再能打破头
+摘菜没装满篮子。
+只有妈妈哭得短，哭得长
+泪水流满了我的衬衫
+我的眼里充满了泪水。
 
-There is a fire rat in the river tube
-Golden mouse in a bamboo tube
-Hear the cries in the grass and the forest
-The mouse pitifully asked:
-- "Why don't you eat rice?
-Lie down and cry again?
-Or headaches, back pain
-Swollen feet, tired knees?
-Old Rap sighed and replied:
-- "Old people have back pain
-There is nothing wrong with happiness or suffering
-Just take care of meals for Lang Cun Can
-Not today."
+河管里有火鼠
+竹筒金鼠
+听见草丛中、森林中的哭声
+老鼠可怜兮兮地问道：
+- “你们女士为什么不吃米饭？
+又躺着哭？
+经常头痛、背痛
+腿肿、膝盖累？
+老Ap叹了口气，回答道：
+- “老年人有腰痛
+没有所谓的快乐或痛苦
+只管郎村灿吃饭
+今天不可用。”
 
-The bright-eyed yellow mouse said:
-- "Is it true that Lang Cun Can hasn't had enough rice to fill him up yet?
-There is no rice to make it
-Haven't eaten honey yet?
-She heard me show where there was rice
-Tell me where the soup is!"
-The old ladies bowed and listened happily:
-- "Oh mouse, oh mouse
-You say everything, I listen to everything
-You speak good things, I hear good things!"
-The new mouse said:
-- "In the mountains of Nang A, Nang Ut
-There is the Rice Fairy
-There are forty rice varieties left over
-There are thirty varieties of field rice left.
-I don't lie or lie
-The Lang family sent people up to ask for seeds to return to the fields
-Please return the rice from heaven to the country
-Let the rice ripen first, then let the rice bloom later
-There are rice baskets full of rice, rice piles are packed high!"
+眼睛明亮的黄老鼠说道：
+- “郎村灿是不是饭还没吃饱？
+没有米做
+还没吃过蜂蜜和脂肪吗？
+她听到我告诉我哪里有米饭
+告诉我哪里可以找到汤！”
+老太太们鞠躬，高兴地听着：
+- “哦，老鼠，哦，老鼠
+你说什么我都担心
+你说好话，我听好话！”
+新老鼠说道：
+- “在 Nang A, Nang Ut 山区
+有一个米仙
+剩下四十个水稻品种
+旱稻还剩下三十个品种。
+我不说谎也不撒谎
+郎家派人上来要种子回田
+请把大米退回国内
+先让稻子成熟，再让它开花
+米筐里装满了米，稻田挤得高高的！”
 
-Old Rup is full of baskets of ground and roasted tubers
-Hurry back to Dong Chi Tam Quan Ke Cho
-In the morning, go to Lang Cun Can lake
-Explain clearly the words of the fire rat in the river tube
-The words of the golden mouse in the bamboo tube.
-Lang Cun's heart Need to know well
-Lang Cun Can's hand holds right
-Quickly run out and stand in the middle of the village calling out:
-- "Oh Binh, oh Muong!
-At the house of the Rice Fairy
-There are forty varieties of rice
-Thirty varieties of field rice available!
-O village below, village above
-Choose someone who is smart
-Speak wisely:
-Please choose Dot Cai Denh
-Good, wise, clever
-Know how to speak wisely, speak wisely and say the right thing!"
+老鲁帕满篮子都是磨碎的棕色块茎
+赶紧回东芝谭权克祖
+早上前往郎村参
+描述清楚河管里的火鼠的话
+竹筒里金鼠的话。
+郎存的心 需要好好了解
+郎村 需要右手握住
+冲出去，站在村子中央喊道：
+- “哦平，哦芒！
+稻仙之家
+大米有四十种
+三十种旱稻可供选择！
+O 下村、上村
+选择嘴巴聪明的人
+明智地说话：
+请选择Dhat Cai Dang
+好孩子聪明又聪明
+懂得明智地说话、明智地说话、说正确的话！”
 
-Lady Dat Cai Dan carries a basket of seven
-Carrying bamboo and ivory burdens
-Don't count the days, turn your back to the mountains
-Rush to the house of the Rice Fairy.
-Suddenly thinking back, she felt scared and worried:
-Go up without gifts
-Go long distances without cable
-Why open your mouth to ask?
-She then turned on her heel and crossed the river and mountains
-Go back and report to Lang Cun Can.
-Lang looked around the porch and found no gifts
-Then he sent Gia Rap to the forest of ignorance
-Sai Gia Rieng went into the forest
-Dig a basket of tubers
-Two buckets of roots released
-Three baskets of tubers
-Hands get tired, the burden falls off the shoulders
-Make a gift for the Rice Fairy.
+Dat Cai Dan 女士提着七个篮子
+背着竹篮
+不数日子，背对山
+赶往稻仙之家。
+突然回想起来，她感到害怕和担心：
+没有礼物就上去了
+无需电缆即可长距离旅行
+为什么要开口问？
+然后转身跨过江山
+回去向郎村灿汇报。
+郎环顾门廊，没有发现礼物
+然后他把武元甲送到无明森林
+Sai Gia Rieng 进入森林
+挖一篮子块茎
+两个弹簧可释放
+三篮块茎
+我的手臂累了，重担从我肩上滑落
+给米仙子做一份礼物。
 
-At the beginning of the day, Lady Dat Cai Danh rose to follow the moon
-Morning passes through the sun
-Up to heaven and earth
-Go to the house of the Rice Fairy.
-Follow the rice fields
-Across ponds and wells
-There are clear water basins, and cloudy water basins
-Scoop water to wash feet
-Step up the snake ladder
-Enter the middle room.
+一天伊始，蔡丹女士升起追随月亮
+清晨，穿过阳光
+上达天地
+前往稻仙之家。
+沿着稻田走
+穿过池塘或井
+有清水盆地，也有浑水盆地
+舀水洗脚
+爬上蛇梯
+进入中间的房间。
 
-The Rice Fairy gets up and washes her face early in the morning
-Look out the window, look down the stairs
-Seeing people wearing towels and bringing baskets came early
-Recognizing Ms. Dat Cai Danh, he immediately asked:
-- "I'm sorry for that
-I come to play, come to play
-Or do you have something to do and leave early tomorrow?
-The sun hasn't come out yet?"
+米仙一大早就起床洗脸
+看看窗外，看看楼梯下
+看到人们披着毛巾，提着篮子来得早
+认出了女孩Datt Cai Danh，他立即问道：
+- “Dhat Cai Dung
+我来玩来玩
+有事的话明天早点走
+太阳还没出来吗？”
 
-She is Dat Cai Dung, a good and smart child
-When you open your mouth, you must say:
-- "Sister, sister
-I didn't come to play
-Don't dare come and play
-Lang Cun Can, my family has not arrived yet
-Being a lang is not yet rich, not yet
-I went up to ask for food for my family to fill me up
-Asking for rice for the village's family to make a living."
-She immediately hung a basket of tubers and tubers
-In the corner of the stall offered as a gift.
+Dat Cai Dan 女士，一个聪明的好孩子
+当你张嘴时，你必须说：
+- “姐姐，姐姐
+我不是来玩的
+不敢来玩
+郎村 需要我家做村员，还没到
+做狼并不富有，还没有
+我上去要米饭填饱家人的肚子
+为郎家求米，创富兴盛。”
+她立即挂了一篮子块茎和块茎
+在摊位的角落里作为礼物提供。
 
-The Rice Fairy felt pleased and replied:
-- "My family has forty varieties of rice
-Thirty varieties of upland rice
-I want to take something as my lineage
-You can ask for anything."
-Then he sent someone to bring out the seeds to see:
-Old rice, golden rice
-Rice is luxurious, rice is low
-Rice farming is a profession
-The rice that hits the slot is sticky rice with bees.
-Each item is measured into a good seed basket
-Enough for forty kinds of rice
-Thirty varieties of upland rice
-Heavy burden down the sky ladder.
+米仙高兴地答道：
+- “我家有四十种大米
+三十种旱稻
+你想以什么作为你的血统？
+你有什么要求都可以。”
+那就派人把稻种拿出来看看：
+顽米，金米
+米亮，米低
+水稻种植是一种职业
+撞到槽里的米是有蜜蜂的糯米。
+将每件物品量好放入一个好的篮子中
+足够这四十种米了
+三十种旱稻
+天梯上的重担。
 
-Lady Dat Cai Dinh turned back to say hello:
-- "You stay for your own good
-I carry rice back to Dong Chien, Tam Quan Ke Cho."
-The Rice Fairy said:
-- "Let's go home, my dear
-The voice was clear
-The greeting was pleasant
-Please pick it up and carry it, get the basket!"
+Dat Cai Danh 女士回头打招呼：
+- “你留下来是为了你好
+我把米带回谭权克措东池。”
+米仙说道：
+- “我们回家吧，亲爱的
+声音清晰
+问候很愉快
+请捡起来，拎起来，拿篮子！”
 
-Miss Dat Cai Danh went down the dragon ladder
-Evening reaches the moon
-Morning passes through the sun
-Return to Dong Chi Tam Quan Ke Cho.
-Come in at midnight to pray, come out in the morning and bow:
-- "Dear Lang, I asked for rice seeds
-Bring here enough rice seeds and rice seeds."
-Lang Cun Can Bao Muong:
-- "We can eat all of this rice
-Must be kept in a hut, locked up to breed!"
+达蔡丹夫人下龙梯
+晚上穿过月亮
+光穿过太阳
+返回东芝谭权克祖。
+半夜进来，早上鞠躬：
+- “亲爱的郎，我要水稻种子
+给我带来足够的稻种和稻种。”
+郎村参宝孟：
+- “我们可以吃掉所有这些米饭
+一定要养在小屋里，放在笼子里繁殖！”
 
-Lang immediately struck the gong and struck the gong
-Call Chu Chuong Muong Nuoc:
-- "Clean the shore, fence off mold
-Tighten the pile and cover the fade
-Cut large pieces of wood to make seed panels
-Use a bamboo tree to make a long trough!"
-The sun is still sleeping
-Muong went to cut down trees to build the bank
-Pat the ditch bank.
-Water from the source flows like cloth
-Flowing like silk ribbons
-Overflowing into the high fields, rushing down into the deep fields
-Run through every field of Lang Cun Can's house.
+郎立即敲锣敲锣
+致电 Chu Chuong Muong Nuoc：
+- “清洁海岸，隔离霉菌
+拉紧桩以覆盖地面
+切割大块木头来制作种子板
+用竹子做一个长槽！”
+太阳还在沉睡
+Muong 砍树建堤
+拍打沟渠。
+源头的水流如布
+如丝带般飘逸
+洒高田，冲下深田
+跑遍郎村灿家的每一块田地。
 
-Lang's house still doesn't have a plow or harrow
-Had to cut down trees to use as yokes
-Cutting saplings for farming
-Saffron string to make a pan
-Cotton plants and leopard plants are made haphazardly
-The bamboo tree is carved right into a plow.
-At dawn, black buffaloes are caught plowing the waterway
-Leading the white buffalo to plow horizontally
-Get the golden bull according to the way.
-In April, rice seedlings were scattered
-Immense white copper water
-Plucking seedlings into the fields, carrying seedlings into the fields:
-My son went first to plant the high bank
-Her son followed behind and planted a small bank
-Have fun laughing and talking together.
+郎家还没有犁耙
+必须砍伐树木来用作轭
+砍伐梧桐树种田
+藏红花绳制作平底锅
+棉株、豹纹植物随意制作
+竹子直接被雕刻成犁。
+黎明时分，抓黑水牛犁水道
+牵着白水牛横犁
+按照方法获得金牛。
+四月，稻苗散落
+巨大的白铜水
+拔苗入田、运苗入田：
+我的孩子第一个去种高岸
+她的孩子跟在后面种了一个小银行
+种植时一起说说笑笑。
 
-In July, young rice plants are ground
-In August, rice blooms
-In September, the stalks harden and the rice blooms
-In October, the rice is ripe and bright red, filling the fields:
-Ripe as red as wine
-Ripe and golden like a fruit!
-The mice invited each other to help cut the flowers
-Female cotton with a dog's tail
-Cotton as small as a cat's tail.
-Girls go first and pick quickly
-The son followed behind to clear the load
-Filling the house:
-The sticky rice is luxuriant
-Rice fields fill the three wings of the house
-Dry in the sun for thirty days
-At night, guard the kitchen.
+七月，我们磨稻苗
+八月，稻花盛开
+九月，茎秆挺直，稻花盛开
+十月，稻子成熟了，鲜红的，漫满田野：
+成熟如酒
+成熟，金黄，像腌制的水果一样！
+老鼠们互相邀请帮忙剪小花
+雌花有狗尾巴那么大
+小如猫尾巴的棉花。
+女生先走，快选
+儿子跟在后面搬东西
+填满了房子：
+糯米散落一地
+普通米饭填满了房子的三个侧翼
+阳光下晒干三十天
+晚上看守厨房。
 
-Rice is put into the mill
-Turn around and leave, return the fence
-Take a sieve, sift it with a fork, and harvest again
-The bran flies away, the rice lies exposed
-Put it in a mortar
-Take the fig tree pestle and pound it up and down
-Seven more views of white rice:
-Rice is like grains of sunshine
-White as an areca flower!
+将米放入磨坊
+转身离开，归还栅栏
+取筛子，过筛，再次收获
+麸皮飞走，米露在外面
+放入研钵中
+拿起无花果树杵，上下敲击
+白米饭的七更看法：
+大米就像一粒阳光
+白如槟榔花！
 
-Lang Cun Can is happy to have rice
-Sai pours into silver ang
-Pour water into a copper pot
-Place the rice bowl on the fire:
-The fire licked from time to time, smoke rising
-Hips throbbing
-Spread the rice on a fan.
-This is truly food for life
-The joy of hundreds of thousands of families!
-Lang spread throughout the country's journey:
-From now on, farming will be seasonal and seasonal
-Keep the old rice varieties, sticky rice
-Hard rice, ordinary rice
-When you eat all year round, don't forget the merits of the Lady Dhat Cai Danh
-Good people are wise and clever.
+郎村灿吃米饭很开心
+Sai 倒入银昂
+将水倒入铜锅中
+将饭盘放在火上：
+火势不时蹿起，烟雾升腾
+臀部隆隆作响
+将米饭铺在扇子上。
+这才是真正的生命之粮
+数十万家庭的欢乐！
+遍布全国：
+从此以后，耕作季节性、季节性
+保留老米品种，糯米
+占米，普通米
+一年四季吃饭的时候，别忘了达特蔡当女士的功德
+好人都是聪明的。
 
-The disguised life leaves behind a future life
-The past is over, this story is over
-Sit back and listen, stand back and listen
-The story of Finding Wine follows.
+伪装的生活留下遗产
+老故事结束了，这个故事结束了
+坐下来听，站着听
+以下是关于寻找酒的故事。
 
 #### 讲述语气提示
 - **饥馑到丰收：** 开篇三位老妇挖薯时的凄苦放轻，得到稻种后逐渐明朗。
@@ -963,149 +963,149 @@ The story of Finding Wine follows.
 
 ### 第14章：寻酒
 
-Lang Cun Can has enough food to eat
-There is rice to get rich, to get rich
-But there is no yeast yet, there is wine.
-We have to use crocodile fruit to make sour wine
-Take the mulberry fruit to make wine
-The customer drank a lot but was not drunk or spilled yet
-Not yet facing the middle window
-Haven't tilted the voong windows back yet
-People who are alert and healthy are still healthy.
+郎村灿有足够的食物吃
+有米就富，你有
+但是还没有酵母，有酒。
+我得用龙瓜果来酿酸酒
+取桑葚果酿酒
+喝多了的顾客还没喝醉或洒出
+还没睡过中间窗户对着的
+纸板窗没有向后倾斜
+警觉且健康的人就是健康的。
 
-At that time, there were two children living there
-It's Pap, Pap
-Seeing Mr. Lang, they looked at them
-Then he offered and said:
-- "Please, sir
-The two of us asked the buffalo to go to the alley
-Please let the cow go to herd
-If I have rice, I would like to be a miller
-He let me stay for the day
-Less suffering, less poverty."
+当时那里住着两个孩子
+是帕普，帕姆
+看到郎先生，他们就看向他们
+然后提出并说：
+- “拜托，先生
+我们两个请水牛去巷子里
+请让牛去放牧
+如果有米，我想当磨坊主
+他让我留下来一天
+减少痛苦，减少贫困。”
 
-Lang Cun Can divide the buffalo to keep
-Divide the cows between the two of them to herd
-Add plain rice to pound
-Add sticky rice to grind.
-Pap, Pam has ground rice
-Staying at Lang beach helps ease poverty.
+郎村 需要分水牛来饲养
+将牛分给两个孩子来放牧
+将白米加入磅中
+加入糯米研磨。
+Pap，Pam 有米粉
+住在朗海滩有助于脱贫。
 
-Every day they climb mountains to herd buffalo
-Buffaloes feed on the hills of Laos.
-On the eighth day
-Herds of buffaloes run wild
-Go to Mr. Lang Kham Dam's village.
-Pap, Pam tattooed on the door
-Ask Mr. Lang Kham Dam
-Say hello and greetings:
-- "Hello, sir
-We went herding buffalo down the hill
-Sitting and guarding buffalo for Lang Cun Can.
-Encountered with heavy rain
-Herds of buffaloes rushed here
-My feet were tired and I asked for a break to escape the wind
-Take a break from the rain
-Please eat a handful for lunch
-Dinner one mo."
+他们每天爬山放牛
+水牛在老挝的山上进食。
+第八天
+成群的水牛狂奔
+前往Lang Kham Dam先生的村庄。
+Mr. Pap，Mr. Pam 纹身在门上
+询问 Lang Kham Dam 先生
+打招呼和问候：
+- “您好，先生
+我们去把水牛赶下山
+为郎村参坐守水牛。
+遭遇大雨
+成群的水牛冲到这里
+腿累了，请求休息避风
+避雨休息一下
+午餐请吃一把
+晚餐一月。”
 
-That day, Lang Kham Dam's family lived
-On the crowded floor
-The windows are tight
-There's a lot of fun going on:
-Receive your grandmother, receive your mother
-Pick up the children, pick up the children
-Up on the floor, people filled the door
-Laughter was like exploding bamboo
-The dining table is set loudly!
-The Lang family couldn't bear to let the two of them sleep hungry
-Not allowed to sleep in a hurry
-Don't borrow the rice in your back
-But prepare meals and bring wine
-Feed them both
-Drink a bunch of wine and get drunk.
+那天，Lang Kham Dam 一家人
+拥挤的地板
+窗户很紧
+一群欢乐的人群：
+接待你的祖母和你的母亲
+接孩子，接孩子
+门口满地都是人
+笑声就像爆炸的竹子
+餐桌摆得大声！
+郎家不忍心让他们两个饿着肚子睡觉
+不许急着睡觉
+背后的米别借
+准备饭菜并带酒
+让他们俩吃好
+醉酒。
 
-Pap and Pam were full after eating sticky rice
-Drinking a big jar of wine is boring
-Then asked Mr. Lang Kham Dam:
-- "Lang
-What does the family use to make delicious wine?
-What do you use to make delicious wine?
-After drinking it, I woke up dizzy
-Is your head dizzy?"
+Pap，Pam吃完糯米就饱了
+喝一大坛酒很无聊
+然后问Lang Kham Dam先生：
+- “郎
+家里用什么来酿造美味的酒？
+好酒是怎样酿成的？
+我一喝就头晕醒
+头晕吗？”
 
-Lang Kham Dam just said:
-- "You live far away
-Coming from Dong Chi Tam Quan Ke Cho
-Why do you ask so clearly, why do you see so clearly?
-Or Lang Cun's house needs enough food and rice
-But there's no wine, is there yeast?"
+Lang Kham Dam 刚刚说道：
+- “你住得很远
+来自 Tam Quan Ke Cho 铜铅
+为什么问得清楚，为什么看得那么清楚？
+还是郎村一家需要足够的米，足够的米
+没有酒就有酵母吗？”
 
-The two of them said:
-- "A correct statement
-These two words are correct!
-Lang knows how to make good wine
-Make a valuable source of wine
-Please open your heart and let me know."
+两人说道：
+- “阿郎说得对
+这两个词是对的！
+朗懂得酿好酒
+创造珍贵的酒源
+请敞开心扉，让你的孙子们知道。”
 
-Lang Kham Dam immediately blurted out
-Whisper a good tip:
-- "Look for the bear bile plant
-Remove the ebony skin
-Bamboo shoots, cotton grass, pennywort seeds
-Take more buffalo leaves
-Put in a pot and cook until green.
-Pound the broken rice inside
-Sprinkle flour evenly
-Filter the yeast water.
-The yeast drum is molded long
-The female yeast shapes it into a round shape
-Get into the straw nest
-Cover the leaves and try to make a bowl
-Take fig leaves and cover the jar
-Place an enamel jar in the kitchen
-Wait three nights and the yeast will rise."
+Lang Kham Dam 立刻脱口而出
+秘诀：
+- “寻找熊胆植物
+去除乌木皮
+竹笋、棉草、五味子种子
+多吃水牛叶
+放入碗中煮至绿色。
+将碎米捣碎
+均匀撒上面粉
+过滤得到酵母水。
+酵母鼓成型长
+母酵母形状为圆形
+钻进草窝
+尝试制作一束叶子
+取无花果叶，盖紧罐子
+在厨房里放一罐酵母
+等了三个晚上酵母才发起来。”
 
-After listening, Mr. Pap, Mr. Pam
-Step forward with left foot
-Run with wobbly steps
-About full presentation
-Cho Lang Cun Need less worry, less anxiety.
+听完后，Pap先生，Pam先生
+左脚迈步
+步履蹒跚地奔跑
+返回报告全文
+Cho Lang Cun 少一点担心，少一点担心。
 
-The next day, Lang Cun Can's house
-Take the old rice in the cob
-Pounding golden rice in the kitchen upstairs
-Blow into sticky rice
-Mix well, sprinkle with glaze
-Take fig leaves and incubate for five days:
-The strong, pungent smell of yeast!
-Cook on river and stream banks
-Cook quickly into super wine
-Cook a lot into fig wine
-Carrying the burden back to Lang Cun Can's house.
+第二天，郎村灿家
+取出旧米放入棒子中
+在厨房捣金米
+吹入糯米
+搅拌均匀，撒上酵母水
+收集无花果叶并孵化五天：
+浓浓的、刺鼻的酵母味！
+在河流和溪岸做饭
+快速煮出超级酒
+大量煮成无花果酒
+背着担子回郎村灿家。
 
-At that time, there were guests in the stilt house
-He is the traditional medicine man Muong Khuong
-Days are long and months long to visit.
-Set up a tray of rice and cups of wine
-Drink too much and get drunk
-Lang Muong Khuong left the middle window turned
-Falling back on the voong window
-Lying down at the window!
+当时棚屋里来了一位客人
+是传统药师Muong Khuong
+白天很长，月份也很长。
+清理米盘和酒碗
+喝多了喝醉了
+Lang Muong Khuong 打开中间的窗户
+从纸板窗向后跌落
+趴在窗边！
 
-From there, the long distance pulled back
-Little Muong came
-Go to Lang Cun Can's house
-Learn how to make yeast and make wine.
-Everyone knows how to eat wine
-Know how to make good wine, good wine
-Peace and prosperity throughout the country.
+从此，遥远的距离拉了回来
+小芒过来了
+去郎村灿家
+学习如何制作酵母和葡萄酒。
+每个人都知道如何吃酒
+懂得酿好酒，好酒
+全国和平、繁荣。
 
-The story is not over yet
-Not enough words yet
-Our story is still long
-Sit back and listen, stand back and listen
-The story of Finding Pigs, Finding Chickens.
+故事还没有结束
+话还没说完
+我们的故事还很长
+坐下来听，站着听
+找猪找鸡的故事。
 
 #### 讲述语气提示
 - **轻松诙谐：** 牧童 Pặp 与 Pặm 活泼机灵，酒宴段落热闹欢快，是全剧难得的笑声休息站。
@@ -1114,141 +1114,141 @@ The story of Finding Pigs, Finding Chickens.
 
 ### 第15章：寻猪、寻鸡
 
-Lang Cun Needs rice to get rich
-If you have rice, you can make it
-There is wine thanks to Mr. Lang Kham Dam.
-But the pigs haven't run out from the yard yet
-The rooster crows late, but wakes up early
-No pig is an old man's friend
-No chicken is a child's friend.
+郎村要米才能致富
+有米就发财
+感谢Lang Kham Dam先生，有酒。
+但是猪还没从院子里跑出来
+鸡鸣得晚，醒得早
+没有哪只猪是老人的朋友
+没有鸡是孩子的朋友。
 
-Children keep gossiping
-The old man kept saying:
-In Heaven
-There is Mrs. Hung's family that raises hundreds of chickens
-La's family raises thousands of large pigs.
-Lang Cun Can heard it
-So he called her Dat Cai Dung
-Bao went out and bowed, said well and asked
-Find the land of Mrs. Hung
-Go back to Mrs. La's house
-Ask for pig and chicken breeds.
+孩子们总是八卦
+老人不停地说：
+在天堂
+有洪太太一家，养了几百只鸡
+穆拉家养了几千头大猪。
+郎村 需要听听
+所以他叫她Dat Cai Danh
+叫他出去鞠躬，好好说话，问清楚
+找到洪太太之地
+回到拉太太家
+要求猪或鸡品种进行繁殖。
 
-At midnight, I wrapped cakes as gifts
-Take rice from home and use it to make cables:
-Go up the hill and cut the original leaves
-Go down and cut the green leaves
-Serve ninety delicious cakes
-Cook around pot until nine, then move to pot ten
-Fill the basket and take it to heaven.
+半夜包蛋糕当礼物
+从家里拿大米，用它来制作电缆：
+上山砍掉原来的叶子
+去花园砍绿侗叶
+提供九十个美味蛋糕
+围绕锅煮至九号，然后转到十号锅
+装满篮子并把它带到天堂。
 
-Lady Dat Cai Dang is a good and smart child
-Early in the morning, follow the bright side
-In the morning, the sun rises
-Find Mrs. Hung's door to raise chickens
-Go to Mrs. La's house to raise pigs.
-Walk along the well and throw it over the pond
-Go to the fence, go to the hedge
-Glide into the yard and walk up to the house.
+Dat Cai Dan 女士，一个聪明的好孩子
+清晨伊始，追随光明的一面
+早晨，太阳升起
+找到洪太太养鸡的门
+去拉太太家养猪。
+沿着井走并将其扔到池塘上
+进入栅栏，来到树篱前
+滑进院子，走到房子前。
 
-Mrs. Hung raises chickens, and Mrs. La raises pigs to visit:
-- "Hey, Lady Dot Cai Dan
-Good, wise, clever
-Why climb up so early?
-What to do tomorrow morning?
-The sun hasn't risen yet?"
+洪太太养鸡，拉太太养猪来参观：
+- “嘿蔡丹女士
+好孩子聪明又聪明
+爬这么早干嘛？
+明天早上做什么？
+太阳还没升起吗？”
 
-Lady Dat Cai Dang replied:
-- "Lang Cun Can is my home
-It's time to do it
-Became a healer and a general
-Raising soldiers to defend Dong Chi village, Tam Quan Ke Cho
-But no pigs have come out yet
-No rooster crows late at night and calls early.
-Hearing the children's rumors, the old man spread the rumors
-Lang sent me to ask for the chicken breed
-Please come over like a pig."
+Dat Cai Dang 女士 回复:
+- “郎村灿是我的家
+是时候结婚了
+已成为治疗师和将军
+集兵守卫谭权科草东池村
+但是猪还没出来
+没有公鸡深夜啼鸣早鸣。
+我听孩子们这么说，老人又这么说
+郎派我来要鸡
+请像猪一样来吧。”
 
-Mu Hung received a gift of Oot cake
-Mu La received a pair of dong leaf cakes
-Open your mouth wide and say:
-- "My family has ninety female pigs
-There are seventy boars
-The eldest chicken, the chicken was tired of counting
-The rooster crowed and shook the sky
-The hen makes a thunderous sound!
-If we want a pig with spots on its forehead, we give it to a pig with spots on its forehead
-Choose chickens with high combs, we give chickens with high combs
-Prefer pigs with long heads
-Likes pigs with buffalo snouts
-Want to breed wild pigs and fat pigs
-No need to tell me, I'll choose for you!"
+穆红收到OT蛋糕礼物
+穆拉收到一对侗叶糕
+张大嘴巴说：
+- “我们家有九十头母猪
+有七十头野猪
+大鸡，鸡数累了
+鸡鸣震天
+母鸡惊叫如雷！
+你想要额头有斑点的猪，我就给你额头有斑点的猪
+选高梳鸡，我给高梳鸡
+喜欢长头猪
+喜欢水牛鼻子的猪
+想要饲养野猪和肥猪
+不用告诉我，我给你选！”
 
-Lady Dat Cai Dang was filled with joy and said:
-- "I like any pig
-I hope any chicken is good
-If told to choose, it would be difficult for me to choose.
-Whichever one you two give me, I'll pick it up and take it away
-Bring the pigs and chickens back to Dong Chien Tam Quan Ke Cho."
+Dat Cai Danh 女士充满喜悦地说：
+- “我喜欢任何猪
+我想要好吃的鸡
+如果让我选择的话，我会很难选择。
+把你的孩子给我，我抱起来带走
+把猪和鸡带回Dong Chien Tam Quan Ke Cho。”
 
-Ms. Hung and Ms. La went down to the yard
-Catch male pigs and put them in cages
-Put the female pig in a basket
-Take a pair of fried chickens and give them to her
-He also gave me a package of rice and viaticum
-Give betel to eat sugar and eat rice.
-Miss Dat Cai Dau carries a female pig
-Give the boar a pair of fried chicken
-Say hello to the two ladies:
-- "The two ladies stayed at the door, back in their hometown
-Year after year, the child is healed and the child is healed
-I returned to Dong Chi Tam Quan Ke Cho."
-Ms. Hung and Ms. La advised:
-- "You quickly put away the kettle and the rice tray
-Quickly bring the pigs and chickens to the door
-Raising pigs well, raising a flock of chickens!"
+木红和木拉下院子
+抓公猪关笼子
+将母猪关在篮子里
+买一对炸鸡送给她
+再给我一包米吃
+用糖和米喂槟榔。
+Dat Cai Dung 女士抱着一只母猪
+给野猪一对炸鸡
+向两位女士问好：
+- “两位女士守在门口，回到了家乡
+年复一年，我治愈我的孩子和我的孩子
+我回到了Dong Chi Tam Quan Ke Cho。”
+穆红和穆拉建议：
+- “你赶紧把水壶和饭盘收起来
+赶紧把猪、鸡送到门口
+养好猪，养一群鸡！”
 
-Miss Dat Cai Denh followed the old path back
-At the beginning of the night comes the bright side
-Brighten up with the sun
-Return to Dong Chi Tam Quan Ke Cho.
-Come in at midnight
-In the morning, go in and bow to Lang Cun Can:
-- "I asked for a pig breed
-Let the pigs run out of the house
-Please be like a chicken
-So that the village has a rooster that crows late at night and calls for the morning.
-Pigs are about to give birth, chickens are about to give birth
-The cage must be built as a compartment
-Sweep the yard to feed the chickens
-Build a cage for pigs to live in."
+Dat Cai Danh 女士沿着旧路返回
+夜幕降临，光明的一面来临
+根据阳光而变亮
+返回东芝谭权克祖。
+半夜进来
+早上，来去拜郎村灿：
+- “我要一个猪品种
+让猪跑出家门
+请像鸡一样
+让村子里有一只深夜啼鸣叫天亮的公鸡。
+猪要生了，鸡要生了
+笼子必须建造成隔间
+扫院子喂鸡
+建个笼子让猪住。”
 
-Keep it from this month, raise it a few months later
-Choose a good month and bad day
-Pigs give birth at the base of a lemon tree
-Eight of them came out
-Taken into the house to raise gradually
-Cleaning the tall barn, the first few months he was fat.
-Lady Dat Cai Danh passed on tips to the whole village
-Raising lots of golden chickens, raising fat pigs.
+从这个月开始保留，几个月后提高
+选择好月份和坏日子
+猪在柠檬树下分娩
+八个出来了
+抱进屋逐渐饲养
+清笼子高，头几个月肥。
+Dat Cai Danh 女士向全村人传授秘诀
+养很多金鸡，养肥猪。
 
-One day, the Lang family had a guest from Muong Khuong come to visit
-Pork must be fatter
-Grill chicken in the door
-Serving the feast, setting the table, eating, drinking and drinking.
-Popular with regular customers
-Everyone knows how to grill duck and chicken
-All over the Muong Nam Valley region
-They all know the language of boar
-Know how to raise fat pigs.
-In this life, there have been many chickens and many pigs.
+有一天，郎家迎来了孟姜来的客人
+猪肉一定要肥一点
+门内烤鸡
+准备筵席，收拾桌子，吃吃喝喝。
+深受老顾客欢迎
+每个人都知道如何烤鸭和鸡
+整个芒南谷地区
+猪语都懂
+懂得养肥猪。
+这辈子，鸡很多，猪也很多。
 
-Lang Cun Needs to be a grown up lang
-But there are no buffaloes to cut the land yet
-There are no buffaloes to pull or pull plows.
-Sit back and listen
-Lang Cun's story Need to find selective buffaloes
-Give the fields more rice.
+郎村需要长大了
+但是还没有水牛来开垦土地
+没有水牛拉犁。
+坐下来听
+郎存的故事 需要寻找一头精选的水牛
+多给田地里的稻米。
 
 #### 讲述语气提示
 - **机智婉转：** Dặt Cái Dành 仅带九十块糕便请回猪鸡，突出她的善言与远见。
@@ -1257,165 +1257,165 @@ Give the fields more rice.
 
 ### 第16章：寻水牛
 
-Once upon a time, that year
-The mother of the male Buffalo, the mother of the Tiger and Lang
-If you want to travel, you should do so
-If you want to go there, you should
-Form a sisterhood.
-Nine nights and ten days of eating at Lang Cun Can's house
-The two women took turns going out
-Keep the children for each other.
+从前那一年
+雄水牛妈妈、虎郎妈妈
+如果你想去旅行，你就应该去旅行
+想去城市所以你
+结成姐妹会。
+郎村灿家十天九夜吃饭
+两位女士轮流外出
+让孩子们待在一起。
 
-Mother Buffalo told Mother Tiger Lang:
-- "Stay home and look after the children
-See the house, see the door
-Don't let your child go hungry
-Don't let me cry sadly!"
-Then Buffalo Duc's mother left.
+水牛妈妈告诉虎妈妈：
+- “留在家里照顾孩子
+检查房子，检查门
+别让孩子挨饿
+别让我伤心哭泣！”
+然后布法罗的妈妈就走了。
 
-The mother Buffalo Duc stayed behind
-Male buffalo cries and wants to eat the wriggling goby fish
-Asking for catfish
-No matter how much coaxing, you don't listen
-He wants to eat his mother's face and nose again!
-Mother Tiger Lang had to go catch black mice and white mice
-Inside the banyan tree, the stone-roofed cave
-Bring it home for the Male Buffalo to eat.
-But the black rat Buffalo Duc doesn't care
-Male Buffalo white mice do not eat
-The more you cry, the more you cry.
-Mother Ho Lang had to turn down the path to the field
-Pick up a handful of grass and go to the edge of the field
-The male buffalo is happy
-Just calm down in my heart.
+母亲牛德留下来
+公水牛哭着想吃蠕动的虾虎鱼
+要求吃鲶鱼
+你怎么哄都不听
+他又想吃妈妈的脸和鼻子了！
+虎妈妈要去抓黑老鼠和白老鼠
+一棵榕树上，一个石顶的洞穴
+带回家给公水牛吃。
+但是雄性水牛黑鼠不行
+雄性水牛小白鼠不吃东西
+越哭越哭。
+何浪妈妈不得不拐进田间小路
+摘一把草，走到田边
+公水牛在肚子里很开心
+就让我的心平静下来吧。
 
-Nine nights and ten days of eating and returning
-My stomach is happy, my heart is happy
-Mother Buffalo urged mother Tiger Lang:
-- "Got to go have fun
-Go to Lang Cun Can's house
-Make your body more beautiful
-Let's have more fun!"
-Mother Tiger Lang advised:
-- "Look after my baby for me, Buffalo
-Remember my child, Buffalo
-To have peace of mind, go out for nine nights and ten days."
+十天九夜的饕餮归来
+胃快乐，心快乐
+水牛妈妈催促虎妈妈：
+- “必须出去玩
+去郎村灿家
+让你的身材更美丽
+为了更多乐趣！”
+虎妈妈和狼妈妈建议：
+- “为我照顾我的孩子，布法罗
+记住我的孩子，布法罗
+要想安心，出去十天九夜。”
 
-Mother Tiger Lang just walked away
-The male Tiger cried and writhed
-Asking to eat moose and deer
-Wanting to eat Buffalo's mother's nose and ears again!
-Mother Buffalo went to catch black rats in the banyan tree
-Looking for muntjac, looking for deer next to the rocky mountains
-I've traveled far and can't find deer
-Had to wade through the dense forest to grab a bunch of spike grass and the grass came out
-Hurry and bring it back to Mr. Tiger.
-Feeling resentful, the male Tiger did not eat
-The mouth keeps begging for food, including the nose and ears!
+虎妈妈和狼妈妈就走开了
+雄虎呼救
+想吃鹿肉鹿肉
+又想吃水牛妈妈的鼻子和耳朵！
+公水牛妈妈去榕树上捉黑老鼠
+落基山脉寻找麂和鹿
+我走了很远，却找不到鹿
+费力穿过茂密的森林去抓一堆穗草，草就出来了
+赶紧把它带回给公虎吧。
+心怀怨恨，公虎不吃饭
+嘴一直在乞讨食物，包括鼻子和耳朵！
 
-Mother Buffalo is angry in her heart, angry in her stomach:
-Male Buffalo aggressively attacked one side
-The female buffalo stepped up and hit the fat web
-Great Buffalo hit him in the ribs
-Drove the male tiger down into the pit
-Use lychee leaves and hybrid leaves to cover it.
-The Tiger Wolf died and became a writhing ghost.
+水牛妈妈心里生气，肚子里生气：
+雄性水牛猛烈撞击一侧
+母水牛挺身而出，撞上肥网
+Trau Luong 不小心撞到了肋骨
+将公虎诱入坑中
+盖上荔枝和杂叶。
+虎狼家伙死了，变成了扭动的鬼魂。
 
-Nine nights and ten days of feasting
-Mother Ho Lang quickly came to visit her child and asked:
-- "My son went to play in the forest
-Or sit outside on the beach
-But I looked and looked and couldn't see anything?"
-Mother Buffalo said truthfully:
-- "It cried and wanted to eat fish
-Asking to eat moose and deer
-He also wanted to eat the buffalo's nose and ears.
-I couldn't find any deer
-Take the grass and grass out and leave
-It's warm and won't eat.
-Male Buffalo, Female Buffalo, and Big Buffalo got angry and fought
-The Tiger Wolf guy is dead
-Fell into the pit!"
+九夜十天的饕餮盛宴
+何浪妈妈赶紧来看望孩子，问道：
+- “我儿子去森林里玩
+或者坐在外面的海滩上
+可是我看了又看，却什么也没看到？”
+公水牛妈妈说的是实话：
+- “它哭着想吃鱼
+想吃鹿肉鹿肉
+想吃水牛的鼻子和耳朵。
+我找不到鹿
+把草草拿出来走人
+热了就不吃了。
+公水牛、母水牛、大水牛生气打架
+虎狼佬死了
+掉坑里了！”
 
-Tiger Lang's mother felt angry and hurt in her heart
-Loving your child is like a forest fire
-Missing my children is like a bird missing its nest!
-Tiger said to Buffalo's mother:
-- "From now on, this country will continue later
-We shouldn't go back and forth with each other
-There is no more close sisterly love!"
-Tiger Lang's mother ran to the deep forest to live.
+何浪妈妈肚子里生气，心里疼
+爱孩子就像森林大火
+想念孩子就像小鸟失去了巢穴！
+咄咄逼人地对布法罗妈妈说：
+- “从现在开始，这个国家以后还会继续
+我们不应该互相走动
+不再有亲密的姐妹情谊了！”
+虎妈妈和狼妈妈跑到密林深处居住。
 
-The male buffalo's mother ran back to the fields and fields
-At the beginning of the day, Da Dan ate mulberry leaves
-That afternoon, we ate at Mrs. Da Dan's house
-She couldn't keep up and spoke harshly:
-- "Why doesn't the tiger come out to eat meat and skin?
-Where is the chicken that doesn't come out to peck its eyes?
-Eat all the seeds to destroy strawberries and seedlings
-From the child in the mother's womb
-To the young, to the old
-To the one with wrinkled skin and gray hair!"
+公水牛妈妈跑到田野里
+一天伊始，吃大丹的桑叶
+那天下午，我在大丹太太家吃饭
+她跟不上，恶狠狠地说：
+- “老虎为什么不出来吃肉和皮？
+哪里有不啄眼睛的鸡？
+吃掉所有破坏草莓和幼苗的种子
+从妈妈肚子里的孩子开始
+致年轻人和老年人
+即使是皮肤有皱纹、头发花白的孩子！”
 
-Mother Buffalo felt humiliated
-Look up, forward and behind
-Seeing that Lang Cun Can's house has an entrance and exit
-There are stairs up and down
-There is a yard to raise chickens and pigs
-There is a sleeping floor and a lying floor.
-Male Buffalo walks step by step
-The buffalo is quick
-Mother Buffalo rushed to Lang Cun Can's house.
+公牛妈妈感到羞辱
+向上、向前、向后看
+看到郎村的房子，应该有入口和出口
+有楼梯上下
+有院子可以养鸡、养猪
+有睡眠地板和躺卧地板。
+男水牛步纹身图案
+母水牛速度很快
+水牛妈妈赶到了郎存灿家。
 
-Lang Cun Can sat fishing at the window
-Sitting weaving nets at the voong window
-Look out and see the buffalo coming back
-Immediately came down to ask:
-- "From now on
-Fly back to stay with me, I love you, I cherish:
-Early tomorrow, go harrowing the fields
-In the afternoon, go plowing hills and distant fields
-That night, come back to my house and sleep.
-Planting season, picking season
-I eat flying meat every meal
-When you're sick, when you're in pain
-We cook flying meat with vegetable soup and potato soup
-Meat goes behind meat, skin goes over skin
-The lungs and heart are divided everywhere."
+郎村灿坐在主窗边钓鱼
+坐在纸板窗前织网
+放眼望去，看见一群水牛回来了
+立即发送问候：
+- “从现在开始
+飞回来陪我，我爱你，我爱你：
+明天早上去耙地
+下午，去远山犁地
+那天晚上回来睡在我的地板上。
+种植季节、采摘季节
+我每餐都吃飞肉
+生病时、痛苦时
+我们用蔬菜汤和土豆汤煮飞肉
+肉放在一边，肉放在一边，皮放在一边
+肺和心到处都是分开的。”
 
-Mother Buffalo listened loudly
-Male Buffalo and Female Buffalo felt pity in their hearts
-Loving my mother, I invited each other back to the fields.
-At the beginning of the day, I ate mulberry leaves
-In the afternoon, I went out to eat rice leaves
-Lady Da Dan did not give her a branch or a leaf
-Again, there was a loud curse:
-- "Tiger doesn't come out to eat meat or skin?
-Chickens that don't come out and peck their eyes are like destroying strawberries or seedlings?
+公水牛妈妈听得很大声
+公水牛和母水牛心中怜惜
+爱我的母亲，我邀请彼此回到田野。
+早上吃桑叶
+下午，我出去吃稻叶
+大丹夫人没有给她一枝一叶
+再次重重咒骂：
+- “老虎不是出来吃肉吃皮的吗？
+鸡不出来啄眼睛，就等于毁掉草莓或树苗吗？”
 
-Listening to suffering, hearing sadness, hearing humiliation
-Mother Buffalo Duc leads her cubs back to Lang Cun Can's house
-Be willing to harrow the fields early
-In the afternoon, go plowing a distant field
-Bearing for people to grill meat during the harvest season
-For those who work as watchmen when they are sick or sick.
-Saw the buffalo herd return
-Lang Cun Can asked.
-Mother Buffalo bowed her head and replied:
-- "Buffalo belly is satisfied
-The buffalo's heart has accepted!"
+听到痛苦，听到悲伤，听到羞辱
+水牛妈妈Duc带着她的幼崽回到Lang Cun Can家
+愿意早犁地
+下午去远方犁田
+允许人们在收获季节烤肉
+适合生病或生病时做汤的人。
+看到水牛归来
+郎存灿问道。
+水牛妈妈低下头回答道：
+- “水牛肚饱了
+水牛的心已经接受了！”
 
-Lang Cun Can unsheathed his sword
-Raise your sword to the sky
-Dance around backwards, spin around forward
-Slash the buffalo horn to make a mark
-Carved into the buffalo horn as an anchor:
-For the next forty generations not to forget
-Let seventy generations from now remember!
-Since then, buffalos have lived with people
-Plow shallow fields, harrow deep fields
-Makes white rice grains
-Forever remember the merit of the buffalo pulling the plow.
+郎存灿出剑
+举剑向天
+前后舞蹈
+砍开水牛角做个记号
+雕刻在水牛角上作为锚：
+让四十代人不会忘记
+让七十代人铭记！
+从此，水牛就和人们生活在一起了
+耕浅田，耙深田
+制作白米粒
+永远记住水牛拉犁的功德。
 
 #### 讲述语气提示
 - **平和不偏颇：** 水牛与老虎母子结义又决裂，保持克制同情，不责怪任何一方。

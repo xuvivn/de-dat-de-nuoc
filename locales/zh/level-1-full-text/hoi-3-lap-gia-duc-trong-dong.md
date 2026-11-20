@@ -5,180 +5,180 @@
 
 ### 第17章：Lang Cun Cần 娶妻
 
-Lang Cun Can go out to see the white wharf fields
-Looking into the distance
-See the land of Dong Chi Tam Quan Ke Cho.
-In the yard, no one raises pigs or chickens
-No one has put up blankets or mats in the house yet
-No one has served dinner for guests yet
-No one has picked up rice to feed the soldiers to guard the village.
-I haven't arrived yet
-Being a lang is not yet rich, not yet
-My heart is still restless, my heart is still sad.
+郎村 可以出去看看白码头田
+眺望远方的乡村
+见Dong Chi Tam Quan Ke Cho之地。
+院子里没人养猪、鸡
+屋里还没人铺毯子或垫子
+还没有人为客人准备晚餐
+没有人拿起米来喂守村的士兵。
+还没到
+做狼并不富有，还没有
+我的心依然不安，我的心依然悲伤。
 
-At noon, I lay in the window of the wing
-Lie down and stretch out against the voong window
-Eyes look out to the fields, to the fields
-Looking down at the fig tree waterfront
-Looking through the water wharf of the almond tree:
-Seeing her, Van Hai Kip
-Standing on the edge of the well to wash your hair!
-Under the deep water surface
-Silky green hair
-The water shines clear
-Her hair is down to her heels
-See the young face
-See the eyes smiling at the water!
-A good person, well-mannered
-The back of the lemon flower has clever petals
-The mouth is spotted with black teeth
-Good-looking, wise, good-looking.
+中午，我躺在厢房的窗户里
+躺下，靠着纸板窗户伸展身体
+眼睛望向田野，望向田野
+俯视无花果树码头
+透过杏树的水码头看：
+见到女孩 Va Hai Kip
+站在井边洗头发！
+深水面下
+铺开丝般的绿色头发
+清水色
+她的头发长到脚后跟
+看到年轻的脸庞
+看到眼睛对着水微笑！
+一个好人，有礼貌
+柠檬花腰精致花瓣
+嘴巴又发现黑牙了
+健康的肚子，聪明，身材好。
 
-Lang Cun Can thought to himself:
-A wise buffalo will not leave the field
-Beautiful girls cannot leave the house!
-He plans to marry his younger sister as his wife.
-Lang sent his servant to shout, while the servants went to preach
-Festivals of Ram village, Rong village, Quan Cheo, Neo village, Dong village
-Meet the cycle of longing for the country.
+郎存灿暗想：
+聪明的水牛不会离开田野
+美少女不能出门！
+打算娶自己的妹妹为妻。
+郎遣仆喊，仆去传道
+拉姆村、荣村、全处、新村、侗村的节日
+满足思念祖国的循环。
 
-Bright head:
-The bottom pulls up, the top pulls down
-People covered the banks and fields
-The streets are crowded, the streets are crowded, and Lang's door is closed.
-The villagers asked:
-- "Hey Lang!
-Lang buffalo fell into the slot?
-Domestic cows fall into ditches?
-Or buffaloes are absent from their stables, deer are destroying fields
-Should we call it Chu Chuong, Hoi Muong Hoi Water?"
+亮头：
+下部向上拉，上部向下拉
+人们挤满了河岸和田野
+街道拥挤，街道拥挤，郎家关门了。
+芒族人问：
+- “嘿郎！
+郎水牛掉下山谷？
+家养的牛会掉进沟里吗？
+或者水牛没有马厩，鹿毁坏了田地
+我们应该叫它 Chu Chuong, Hoi Muong Hoi Water 吗？”
 
-Lang Cun Can quickly said:
-- "The buffalo of the Lang family does not fall into the valley
-Cows do not fall into ditches, deer do not destroy fields.
-Just because no one has raised pigs or chickens in the yard
-No one has spread blankets or mats in the house yet
-No one has poured wine for guests
-No one has considered rice to feed soldiers.
-Lang wants to marry her, Van Hai Kip
-About making love, making friends
-Buying becomes a wife, becomes a husband.
-Should it be, O mother and country?"
+郎存灿连忙说道：
+——“郎家的水牛不落入山谷
+牛不掉沟渠，鹿不毁田。
+就因为院子里没人养猪、鸡
+家里没有人铺毯子或垫子
+还没有人给客人倒酒
+没有人考虑过用大米来喂养士兵。
+Lang 想嫁给 Van Hai Kip
+关于做爱、做朋友
+购物成为妻子和丈夫。
+国家啊，应该如此吗？
 
-Chu Chuong Cuong Cuong
-One before, one after
-They all said the same thing, saying the same thing:
-- "Lang!
-Lang Cun Can with the girl Va Hai Kip
-Born to the same father, went out the same door
-Why should I call my wife and my husband, Lang?
-If Lang still marries her younger sister
-Then the cycle looks forward to water
-Previous village, next village, first village, last village:
-In the afternoon, I stopped herding buffalo
-In the morning, I stop plowing deep fields and shallow fields
-Quit raising chickens and raise pigs
-Not cleaning hedges or fences
-No going out, no entering, no going up, no going down!"
+朱昌孟诺
+一前一后
+都说同样的话，说同样的话：
+- “郎！
+Lang Cun Can 和她的 Van Hai Kip
+同父所生，出同门
+为什么我要称我的妻子为我的丈夫，Lang？
+如果郎还娶了妹妹
+那么水的循环周期就长
+前村、后村、第一个村、最后一个村：
+下午停止放牧水牛
+早上，停耕深田、浅田
+戒掉养鸡养猪
+不清洁树篱和栅栏
+不许出、不许进、不许上、不许下！”
 
-Lang Cun Can listen to empty words
-Seeing the wind flip the mat
-Feeling my stomach turn crazy
-Anger flares up!
-Lang pulled out his machete and slashed horizontally
-Swing the golden sword back and forth
-But the sword cannot touch the water
-Chu Chuong scattered and returned home.
+郎村要听空话
+见风掀席
+感觉我的胃在发疯
+愤怒爆发！
+郎拔出砍刀，横砍
+前后挥动金剑
+但剑不能接触水
+楚冲散了，回家了。
 
-Still not satisfied, Lang went down to ask King Pon if he was worried
-Ask the King of Grasshoppers, the King of Whole Shells often calms down.
-As soon as they arrived at the door, the two kings asked:
-- "Oh Lang Cun Can, what's happening so early?"
-Lang Cun Can said:
-- "No one in my family's yard raises chickens or pigs
-No one has spread blankets or mats in the house yet
-I want to marry my younger sister, Van Hai Kip
-Make friends, become husband and wife
-Should we, O two worried kings?"
-The two kings cleared their throats and replied:
-- "I want to marry her, Van Hai Kip
-At the beginning of the month, we have to go down to eat rice with pigs
-At the end of the month, we have to go down to drink water with the chickens
-Do that for three years and seven months
-Just make a living and make a career!"
+还是不满意，Lang下去问King Pon是否担心
+问问蚱蜢之王、全贝之王或者冷静一下。
+一到门口，两位国王就问道：
+- “哦郎存灿，这么早就发生什么事了？”
+郎村灿说道：
+- “我家没人在院子里养过鸡或猪
+家里没有人铺毯子或垫子
+我想娶我的妹妹 Van Hai Kip
+结交朋友，结为夫妻
+我们两个忧心忡忡的国王应该吗？”
+两位国王清了清嗓子，回答道：
+- “想嫁给范海基普
+月初还得下去跟猪吃米饭
+月底了，要下来陪鸡喝水
+做了三年零七个月
+活着，成就一番事业！”
 
-Lang Cun Can returned
-Welcoming Va Hai Kip as his wife
-Not willing to eat in the same pig trough at the beginning of the month
-Not willing to drink water with chicken at the end of the month!
-The King of Heaven sat down on his golden throne
-The King Son sat down on his silver throne
-Looking down and seeing that, he pressed Cun Sam down and shouted
-Sent Lady Set down to kill Lang Cun Can.
+郎村灿返回
+欢迎Van Hai Kip 成为他的妻子
+月初拒绝吃同一个猪槽里的东西
+月底不愿意和鸡一起喝水！
+天王坐在他的金色宝座上
+儿子王坐上他的银色王座
+低头一看，Cun Sam跳了下来，大喊道
+遣夫人下马杀郎存灿。
 
-The two left
-Whispering to the banks of Tung River, Chuong wharf.
-Miss Set walked lightly ahead
-Cun Sam strode behind
-Seeing the elegant figure of Lady Set
-The shirt is as white as the morning clouds
-Cun Sam's eyes followed without leaving a step
-Hearing love, my heart flutters
-Want to make friends with her in the clouds
-If you want to be a couple, be a partner!
-Lady Set had not yet settled down and already knew
-Haven't seen it yet
-Then he found clever words:
-- "Hey Thunder!
-Buffalo intestines are like that, cow intestines are like that
-I won't fight Lang Cun Can anymore
-Fighting to death all the time, dying in vain!
-Just play, play lazily
-Into the buds of the rice plant, into the shirt of the Vong tree
-Just in front of Truong Khuong field."
-The two agreed and agreed:
-Thunder shouts, lightning strikes
-Nearly cut off the branches of the rice tree, ripped apart the roots of the bamboo tree!
+你们两个离开了
+慢慢到达潼河岸边，庄码头。
+Set Lady Set轻步走先
+Cun Sam 大步追随
+欣赏Lady Set优雅的外表
+连体衫洁白如晨云
+Cun Sam 的目光追随着，没有迈出一步
+听到爱我的心扑通扑通的
+想和她在云端交朋友
+想要成为情侣，就成为伴侣吧！
+在闪电落下之前，她已经知道了
+我还没看过
+于是他找到了巧妙的词语：
+- “嘿雷霆！
+像水牛肠，像牛肠
+我不再和郎存灿打架了
+永远拼死，白死！
+就玩，玩懒
+进入水稻的嫩芽，进入冯树的衬衫
+仅限Truong Khuong 田地前。”
+两人一致同意：
+雷声尖叫，闪电劈下
+扯断稻枝，扯断竹树根！
 
-Because Lang Cun Can married his sister
-The sky rages, sends storms, sends thunderstorms.
-Lang had to flee into the jungle:
-In the jungle, they give birth to snakeheads
-In black water, dusk kha is born
-Inside the door, inside the house, there were born twelve Demons!
-The Demons guard twelve water stations
-Go to the door, enter the house
-Causing people to become crazy and foolish
-Spread throughout Tam Quan Ke Cho Dong Lead.
+因为郎存要娶他的妹妹
+天空发怒了，有暴风雨，有暴风雨。
+Lang 不得不逃进丛林：
+丛林中，蛇品种诞生
+黑水中，黄昏卡诞生
+门内，屋内诞生了十二个恶魔！
+恶魔拥有十二个水码头
+进门，进屋
+逼人变得疯狂或愚蠢
+遍布 Tam Quan Ke Cho Dong Lead。
 
-Chu Chuong longed for water and was afraid
-Bring out the chicken bag for fortune-telling
-Clear fortune telling:
-- "Lang Cun Can married Van Hai Kip
-Born Cun Em, boy Ai
-Causing disaster to Ma Em to destroy the country!"
+楚冲怕水
+拎一袋鸡看你的运势
+清晰算命：
+- “郎存灿嫁给万海基普
+出生于 Cun Em、Ai
+给妈惹祸，攻打国家！”
 
-Don't wait for the gong to announce, don't wait for the sign to announce
-People from above came
-People from below pulled over
-Surrounding the door, crowding Lang's house:
-- "O Lang, oh Lang!
-If Lang still has her, Van Hai Kip
-Then we left the village and the door
-Do not raise chickens or pigs
-Do not take the buffalo back to the barn
-Do not plow the deep fields and lowlands!
-Lang's land, Lang kept
-Lang's, Lang looked
-Please don't call me Chu Chuong Muong Nuoc anymore!"
+别等锣声宣布，别等宣布
+上面的人来了
+下方地区的人靠边停车
+郎家门和房子包围：
+- “噢朗，噢朗！
+如果郎还留着她，万海基普
+然后我们就离开了村子和门
+不要养鸡、猪
+不要把水牛带回谷仓
+不要耕深田、低地！
+郎的土地，郎保留
+郎的，郎看着
+请不要再叫我Chu Chuong Muong Nuoc了！”
 
-Lang Cun Can was afraid
-Gray face and pretend face
-Can't stay in the navel, quickly give her Vạn Hai Kip
-Down to the yellow beach, to the big beach
-Leave it alone, leave it forever
-Sad answer, bitter words
-Leaving her alone for the rest of her life.
+郎村 需要害怕
+灰脸和假脸
+肚脐眼呆不下去，赶紧给她Van Hai Kip
+下到黄沙滩，到大沙滩
+放过它，永远放过它
+悲伤的答案，苦涩的话语
+留下她一个人过一辈子。
 
 #### 讲述语气提示
 - **全芒正气：** 百姓齐声反对违礼婚事时，声音坚定齐整。
@@ -187,437 +187,437 @@ Leaving her alone for the rest of her life.
 
 ### 第18章：为 Lang Cun Cần 再娶
 
-**Part 1**
+**第 1 部分**
 
-At that time, Lang Cun Can's family lived
-There are no people in the yard raising pigs or raising chickens
-There is a lack of people in the house to put up curtains and mats
-There is a shortage of people to share rice to feed the soldiers and protect the villages.
-Lang felt angry in his mind and difficult in his heart
-Go out and lie down at the wing window
-Lie on your back against the voong window
-Looking out at the fields during planting and picking season
-Seeing him dream when he was still young
-Walking in the forest, the trees retreat
-Travel around Vam Dau Dat village
-Muong Vat at the Beginning of Water, Muong Vat at the End of Heaven
-Going out three times, nine places
-Connecting stories from four directions.
+当时郎村灿家
+空荡荡的院子里，有人在放猪、养鸡
+屋里没人搭窗帘和地垫
+缺乏人分享稻米来养活士兵并保护村庄。
+郎心中愤怒，心里难受
+出去躺在靠窗边
+仰卧在纸板窗户上
+眺望播种采摘季节的田野
+见到年轻时的梦想家
+漫步林中，树木退去
+走遍Vam Dau Dat村
+水之始芒池、天尽芒池
+出去3次，9个地方
+从四个方向连接故事。
 
-Lang Cun Can sent someone to pick him up
-Catch a golden hen and soak it in sticky rice
-Store delicious wine on the stove
-Invite him to eat and drink until he's full
-Then asked:
-- "I went to hundreds of places
-If you see anyone, you should have flowers and nourish them
-So she raised the fields and raised the water?
-Ask him to ask first
-I'll ask you to come visit me later."
+郎存灿派人来接他
+抓金母鸡泡糯米
+在炉子上储存美味的葡萄酒
+请你吃饱喝醉
+然后问：
+- “我去过数百个地方
+你见过需要鲜花来滋养和照顾的人吗？
+所以你养育了村庄和国家？
+先问问做梦的人吧
+稍后我会请你来看我。”
 
-The dreamer slowly wanted to speak and said:
-- "From sunny days to rainy days
-I go everywhere, everywhere I go:
-Seeing Vau Dau Dau, daughter of King Binh Lac
-Lady Vat Dau Nuoc, daughter of King Vinh Vuong
-In the sky there are A Sao, A Sang, and A Rang, sons of the Heavenly King
-A person with good physique and good manners
-The waist has lemon flowers, the mouth smiles with black teeth
-Wise and in shape
-Worthy of being a nurse to take care of you and your family
-Worthy of being a grandmother who takes care of the country!"
+梦者慢慢地想说话，说话了：
+- “从晴天到雨天
+我到处走，到处走：
+Saw Vau Dau Dau，平乐国王的女儿
+Vat Dau Nuoc 夫人，Vinh Vuong 国王的女儿
+天上有天王之子阿骚、阿桑、阿让
+体质好、有礼貌的人
+柠檬花腰，笑嘴黑牙
+聪明且身材好
+不愧是护士，照顾你和家人
+不愧是养家糊口的婆婆！”
 
-Hearing his dream, Lang was happy
-Meet the Chu Chu Chuong Muong Water again
-Buy nine pieces of silver and ten ounces of gold
-Go to the green forest and cut the original leaves
-Go down and cut the leaves
-Delicious little honey cake, white sticky rice cake
-Make a gift and ask a beautiful girl.
+听到自己的梦想，郎很高兴
+又是Chu Chu Chuong Muong泼水节
+买银子九块，金子十两
+去绿色森林砍原始侗叶
+去花园剪叶子
+美味的小蜜糕，白糯米糕
+做一份礼物，问一个漂亮的女孩。
 
-Muong then went to find Mr. Dream.
-Before, I borrowed a dream from him with nine strings and nine belts
-The village boys carry the bread and follow:
-As soon as he left the yard, the yellow chicken came out the door
-Crows caw across the road, roe deer scream across the road
-He dreamed of running out of money and had to return.
+Muong去找Dream先生。
+之前我向他借了一个九弦九带的梦
+村里的男孩拿着蛋糕跟着：
+一进院子，黄鸡就从门里出来了
+乌鸦在街上叫，狍子在马路对面尖叫
+梦者的钱用完了，只得返回。
 
-Then I asked him to dream about eight strings and eight belts
-He dreamed of Ro carrying a burden with six straps and six belts
-He dreamed of Ai with a black nose and a red mouth, with five straps and five belts
-He dreamed of Nang with a loud voice and four strings and four belts
-He dreamed of Boi's hoarse voice, three strings and three belts
-He dreamed of Bi with a clever mouth, two straps and two belts:
-Every time I go out to the alley, to the yard
-The yellow chicken cackles again, the crow screams again
-The deer screams again, the parrot laughs again!
-All seven dreamers were exhausted
-There is no way to build a house or a door
-They all turned on their heels and retreated.
+然后我让他梦见八根弦和八根带
+他梦见罗背着六带六带的担子
+梦见一个人黑鼻子红嘴五弦五带
+梦见馕声音洪亮，四弦四带
+他梦见了Boi沙哑的声音，三弦三带
+他梦想有一张光滑的嘴，两条带子，两条带子：
+每次出去巷子或者院子
+黄鸡又咯咯叫，乌鸦又尖叫
+鹿、豹子尖叫，鹦鹉又笑了！
+七个梦想家的财富全部耗尽
+没有办法建造房子或门
+他们纷纷转身撤退。
 
-At that time, the Lang family invited him to dream about Ngon
-His mouth was upturned
-His hair was full of lice eggs
-Busy with grandchildren, busy with children
-Wear one-string clothes and one tight shirt.
-Lang sai cuts the original dong leaves and green dong leaves
-Pack square sticky rice cakes and round sticky rice cakes
-Catch yellow chicken, soak new rice
-Picking up a girl with clear eyes and longing to carry bread
-Invite the dreamer and the girl to eat and drink until they are full.
+当时郎家邀请他去梦孟恩
+梦幻嘴角上扬
+他的头发上全是虱卵
+忙着孙子，忙着孩子
+穿连体衣和一件紧身衬衫。
+郎赛剪原侗叶和绿侗叶
+方粑、圆粑包装
+抓黄鸡，泡新米
+捡到一个眼神清澈想要拎面包的妹子
+请梦者和女孩吃吃喝喝，直到吃饱为止。
 
-He dreamed of wrapping betel and eating sugar, and taking areca nuts to eat
-Use your cane to slowly step out:
-Stepping down the ivory stairs, my knees chattered
-Stepping down the original stairs, stumbling and stumbling
-Your back is bowed
-The girl carrying the gift followed.
-Exit the alley, go through the gate:
-The chicken is no longer able to move
-The crow no longer screams
-The deer no longer welcomes the way to scream
-Even a parrot no longer smiles!
+梦见包槟榔吃糖，拿槟榔吃
+拄着拐杖慢慢走出去：
+走下楼梯，膝盖咯咯作响
+走下原来的楼梯，跌跌撞撞
+背部弯曲
+女孩拿着礼物跟在后面。
+走出巷子，穿过大门：
+鸡已经不能动了
+乌鸦不再尖叫
+鹿不再欢迎尖叫的方式
+连鹦鹉都不再微笑了！
 
-This dream is very good
-Has the appearance of building a door and building a house
-Go straight to the Muong street
-Long steps and short steps to wide land
-Enter the land of Muong Cau, Muong King Binh Lac.
-Along the edge of the well, around the edge of the pond
-Go to the fence, go to the hedge
-Listen to the woof dog barking
-The dogs rushed out.
+这个梦很幸运
+具有造门造屋的外观
+径直走到Muong
+长步短步地宽
+前往Muong Cau右边的土地，Muong King Binh Lac。
+修补井边，圈出池塘边
+去栅栏，去树篱
+听汪汪狗叫声
+狗们惊慌失措地跑了出去。
 
-**Part 2**
+**第 2 部分**
 
-Daughter of Mr. Binh Lac
-Run to the alley gate to look
-Run inside and tell dad
-Tips for the mother on the house collapse:
-- "There are guests from far away, Dad!
-There's a guest coming to the house, mom!"
-King Binh Lac scolded his lover:
-- "Why don't you invite guests to visit?
-If guests come to the stilt house, why don't you welcome them?
-Why would you tell Mom and Dad?"
-Hearing his words, she ran out to greet guests from afar.
+Binh Lac 先生的女儿
+跑到巷子门口去看
+跑进去告诉爸爸
+上面给妈妈崩溃的小窍门：
+- “爸爸，有远方来客！
+妈妈，家里来了客人！”
+平乐王斥责他的爱人：
+- “为什么不邀请客人来参观呢？
+为什么不去高脚屋迎接客人呢？
+你为什么要告诉爸爸妈妈？”
+闻言，她跑出去迎接远道而来的客人。
 
-He dreamed of washing his feet and pouring water to clean his hands
-Walk up to the stilt house with your girlfriend
-Sit in the open window on the left.
-The Dau Dau Dau spread out a mat and invited him to sit
-Bring out the betel and betel leaves
-Pour a bowl full of water and invite him to drink.
-In the middle room
-King Binh Lac replaced him
-Struggling to change into a yellow cotton shirt
-Stepping out to greet the stranger
-Sitting down to continue the meal, I asked:
-- "Grandpa, grandpa!
-Do you live in a far village or a near village?
-Do you live in Muong Ngai or Muong Ngai?
-Why don't you come to borrow a buffalo?
-Why don't you bring some seaweed when you come to borrow a brand?
-Why don't you come to borrow a hook without a handle?
-If you borrow a board, why don't you have a rope?
-If you borrow a giant or famous mother, why don't you bring a ruler?
-Or do you wish for something?"
+梦见洗脚、倒水洗手
+和女朋友一起走上吊脚楼
+坐在房间里，左窗开着。
+豆豆豆摊开席子请她坐下
+把槟榔酱拿出来
+倒一碗水，请它喝。
+中间的房间
+平乐国王改变了他的生活
+努力换上黄色棉质衬衫
+走出去迎接陌生人
+继续吃饭后，他问道：
+- “爷爷，爷爷！
+你住在远村还是近村？
+你在Muong Ngai还是Muong Ngai？
+你来借水牛怎么没有叉子？
+为什么不带个标签来借呢？
+你来借合唱团怎么没有把手？
+借木板的时候为什么没有绳子？
+如果你借了一个巨人或一个著名的母亲，你为什么不带一把尺子呢？
+或者你有什么愿望吗？”
 
-The dreamer calmly said:
-- "Sir:
-My house is in a remote land
-Past the land of Muong Qua and Muong Ta.
-I didn't borrow the buffalo but brought it
-Don't borrow labels and carry them around
-Don't borrow the chop but use the handle
-Instead of borrowing wooden planks, bring ropes
-Don't borrow giant or famous models to use a ruler.
-I go to the pond and make honest wishes:
-I heard we have a girl named Vau Dau Dat in our house
-Really nice, kind person.
-Lang Cun Can miss me
-I want to let the black buffalo eat the same grass
-I want the bulls to drink from the same stream
-I want my elderly parents to sit under the same window
-If you want to drink alcohol together, you need to
-If you want to be far, be close
-If you want to be a strawberry, you should be a skin
-Want to build a door, build a house
-Wants to marry her as a healer.
-Should we, my king?"
+梦者平静地说：
+- “先生：
+我家在偏僻的地方
+经过Muong Qua和Muong Ta的土地。
+水牛不是借的，而是我自己带来的
+不要借用标签并随身携带
+不要借钩子当把手
+不要借木板，带绳子
+不要借用巨型或著名模型来使用尺子。
+我去池塘边许下诚实的愿望：
+听说我们家有一个女孩，名叫Vau Dau Dat
+真是一个善良、善良的人。
+郎村需要我
+想在同一片草地上喂黑水牛
+想让公牛喝同一条溪水
+想让年迈的父母坐在同一扇窗户
+如果你们想一起喝酒，需要
+欲远则近
+如果你想成为草莓，就成为皮肤
+想建一扇门，建一座房子
+想娶她为治疗师。
+我们应该吗，我的国王？”
 
-King Binh Lac stroked his beard and smiled and replied:
-- "Want to marry my daughter as a healer
-But Van Dau Dat looks very young
-The more you look, the smaller you see:
-One-way firewood trips should not be carried
-The water in the canoe is still low
-Even when going out, I forget to wear clothes
-Seeing my mother still wanting to breastfeed
-When I met you, I asked for a gift!"
-The dreamer quickly said:
-- "The younger husband herds the buffalo
-If you're a little girl, keep your younger siblings and your grandchildren
-Just ask this year, get married next year!"
+平乐国王摸着胡须微笑着回答道：
+- “想嫁给我的女儿作为治疗师
+但是Van Dau Dat看起来很年轻
+你看得越多，看到的就越小：
+你不应该单向搬运木柴
+独木舟里的水还很低
+即使出门也忘记穿衣服
+看到妈妈还想母乳喂养
+当我遇见你的时候，我就想要一份礼物！”
+梦者连忙说道：
+- “年轻的丈夫照料水牛
+如果你是小草莓，就留住你的弟弟妹妹和你的孙子
+今年简单问一下，明年结婚！”
 
-King Binh Lac said:
-- "Not yet, dear dreamer
-Not yet, are you dreaming!
-Domestic buffaloes have families, domestic cows have stables
-I still have to call you, call you inside
-It's only right to discuss the wall."
+平乐国王说道：
+- “还没有，梦想家
+还没有，你在做梦吧！
+家水牛有家庭，家牛有马厩
+我还是要打电话给你，打电话给你里面
+应该讨论隔离墙。”
 
-The uncle entered the front door
-The aunt walked through the back door
-Voices were noisy, greetings were bustling.
-Mr. Binh Lac gingerly stepped out and said:
-- "Uncle, uncle!
-My family's Big Head
-Rumors spread from nine villages and ten villages
-Lang Cun Can fell in love with him
-Let me dream brightly today
-Ask for a voice, ask for words.
-You have to listen and keep talking
-She saw the fruit so she spoke
-To please people, to please relatives."
+叔叔进了前门
+阿姨从后门走
+大声喧哗，熙熙攘攘的问候。
+Binh Lac先生小心翼翼地走出来说道：
+- “叔叔，叔叔！
+我们的大狗
+谣言远传九村十村
+郎存灿爱上他了
+今天让我做一个美好的梦
+求词，求词。
+你必须倾听并继续说
+她看到了水果，所以她说话了
+取悦人，取悦亲人。”
 
-Grandma's family was pleased but still spoke high words
-The wedding challenge is everything:
-- "Our daughter is still foolish and young
-Marry to become a daughter-in-law or grandmother
-There must be a male buffalo with three curved horns
-There are horned cows with brain sprouts
-There is leopard flower honey wine and Kien rice wine
-Having money to build a house to pay for breastfeeding
-There is a twenty-five pot to make wine
-Enough cauldrons to soak eight-handled rice
-Twelve silver-thighed buffaloes
-Seventeen silver-backed cows
-Doing things to raise children and practice speaking
-Do what you need to ask him from far away.
-There must be a chicken rice carrier to open the gate
-Silver-handled knife opens and carries
-Pure white towels for the child carrying the load
-Cake and dresses for the bridesmaids
-Money for a servant to carry the mat
-If you're missing an item, don't give it away!"
+奶奶很高兴，但还是说得很高调
+各种婚礼挑战：
+- “我们的女儿还很傻很年轻
+结婚当儿媳或奶奶
+必须有一头长着三个弯角的雄性水牛
+有角牛脑芽
+有豹花蜜酒和基恩米酒
+有钱支付母乳喂养费用
+有二十五壶酿酒
+足够泡八柄米的锅
+十二头银腿水牛
+十七头银背牛
+做一些事情来培养你的孩子学会说话
+按照远方朋友的要求去做。
+必须有鸡饭载体才能打开大门
+打开并携带银柄刀
+纯白毛巾，给孩子负重用
+伴娘蛋糕和礼服
+仆人抬席子的钱
+如果您丢失了一件物品，请不要把它送人！”
 
-The grandfather in the house spoke out loud
-The grandmother sitting next to her said something:
-- "What are you asking for?
-What a great word!
-Letting my daughter die in the house
-Die of old age in Muong
-I love you so much!
-A girl's is like a climbing sour apricot
-Ask for more and get less
-If you hear children's stories, don't come over
-Listen to the old man's story
-Day two or three will come!"
+屋里的爷爷大声说话
+坐在她旁边的奶奶说了一句话：
+- “你要什么？
+多大了！
+让你女儿死在家里
+老死于芒
+我非常爱你！
+少女的就像攀爬的酸杏
+要求多，得到少
+听小孩子故事别过来
+听听老人的故事
+来两三天吧！”
 
-Mr. Dream stood up and spoke:
-- "Things are not as good as people
-Words are not equal to meaning
-Viva is not as good as love!
-If I dare to buy anything, I will buy enough without missing anything
-Don't dare to buy anything wrong or fake.
-Please let me go home
-Talk to Lang Cun Can."
+梦者站起来说道：
+- “物以稀为贵”
+言语不等于意义
+爱不如爱！
+我想把所有东西都买齐，不遗漏任何东西
+不敢买错的、假的。
+请让我回家
+和郎存灿说话。”
 
-The next day, Lang Cun Can held a meeting at Muong Nuoc Chu Chuong
-Buy enough cattle, good wine, and offerings
-Slaughtered guinea pig, boiled hot wine
-Invite your uncle to drink a full meal.
-The bridal procession has a sister carrying betel
-An old lady pulled ahead
-At the gate of my grandmother's house, I had to pack betel to clear the door
-Fixing the rice to pave the way
-Just stepped onto the field.
-Children throw figs
-The old man threw starfruit and figs
-Toss back and forth following the footsteps of the person entering the door
-After washing your feet, you stop throwing greetings and greetings when entering the house
-Having fun, no one should be angry.
+第二天，郎村参举行送水节
+买足牛、好酒、供品
+宰杀豚鼠，煮热酒
+请叔叔喝饱饭。
+迎亲队伍中有一位背着槟榔的姐妹
+一位老太太拉在前面
+到了奶奶家门口，要包槟榔擦门
+固定稻米铺路
+刚刚踏上赛场。
+孩子扔了无花果
+老爷子扔杨桃和无花果
+跟着进门的人的脚步来回折腾
+洗完脚就不再乱扔问候和问候
+任何人在玩得开心时都不应该生气。
 
-My grandparents were generous
-Marry Vam Dau Dat as a daughter-in-law and grandmother
-Comes with ten seat cushions
-Nine carried a pillow
-Nine flower displays, nine silk blankets
-Ninety bee pillows
-Gong gong clothes
-Coming like ants to Lang Cun Can's house
-Buying becomes a wife, becomes a husband.
+爷爷奶奶很慷慨
+娶Vam Dau Dat为儿媳妇和祖母
+配有十个座垫
+九扛枕头
+九个花展，九条丝毯
+九十个蜂枕
+锣锣服
+像蚂蚁一样来到郎村灿家
+购物让你成为妻子，让你成为丈夫。
 
-From then on, Lang Cun needed friends and grandmother
-In the yard, there are people herding pigs and taking care of chickens
-Upstairs, someone put up curtains and spread mats
-Three days of seeing each other again, loving each other through sunshine and rain.
-But year passes, month passes
-Miss Vau Dau Dau still has a small and brittle figure
-The body is still red.
-At night, I rest my head on my hands
-The day I pillow my head with my shirt
-Sleeping and sweating like dew.
-At home, my father's skin is as white as silver
-When he returned home, his skin was as dark as lead
-Black like a burned tree stump!
-Raising pigs, scolding pigs as ghosts
-Raising chickens, cursing dead chickens:
-- "Why doesn't the tiger come and carry it?"
-The silver bear did not return
-Hornets do not sting, ginger vine does not strangle?"
-Lang still looks pretty good on good days
-The angry day looked at her dark cheeks
-It's cloudy and I want to leave
-The wind wants to let go
-Think about yourself and feel sorry for yourself.
+从此，郎村需要朋友，需要奶奶
+院子里有人放猪、有人养鸡
+楼上，有人拉上窗帘和地垫
+重逢三天，阳光雨露相爱。
+但年复一年，月复一月
+豆豆豆身材依然苗条
+身体还是红润的。
+晚上，用手枕头
+用衬衫枕头的那一天
+睡觉出汗如露。
+在家，爸爸的皮肤白如银
+回到家，皮肤黑如铅
+黑得像烧焦的树桩！
+养猪，骂鬼
+养鸡，咒死鸡：
+- “老虎为什么不来叼走它？
+银熊不会回来
+马蜂不蜇人，姜藤不勒死它？”
+郎在好的日子里看起来仍然很漂亮
+生气的那一天，我看着她黝黑的脸颊
+阴天，我想退出
+风想要放手
+想想自己，为自己感到难过。
 
-Lang once again gathered to visit the country
-Talk about the scarcity of children
-Ask her **Vat Dau Nuoc**, daughter of King Vinh Vuong.
-Muong buys silver, gold, drums and cauldrons
-Shopping for wild buffalo and bulls
-During the procession, the dreamer brought boys and girls to carry the cake to ask.
+郎再次遇见水循环
+描述孩子的匮乏
+问她**Vat Dau Nuoc**，Vinh Vuong 国王的女儿。
+芒买银、金、鼓、鼎
+购买野生水牛和公牛
+为了迎接梦想家，男孩和女孩带着蛋糕前来询问。
 
-At that time, she was Water Head
-Stand with your hair loose next to the bamboo flower tree
-Sitting next to the flower tree
-Hair bun with peacock and phoenix wings
-The folds of the scarf curl around the blue clouds
-Butterflies flutter around
-Flowers woven white on the hem of the skirt
-Bright red embroidered cotton petals with indigo scarf folds.
-Hear the sound of people walking around the alley
-She quickly put the comb on her back
-Quickly pulling the skirt looser
-I heard my father calling and my mother calling:
-- "Where are you, dear daughter, youngest daughter?
-Hurry up and cook longan leaf water for the Lang family
-Cooking betel and areca nuts to welcome guests
-Don't let the healer blame you forever!"
+那时的她是水头
+披散头发站在电车花树旁
+低头坐在玫瑰树旁
+孔雀凤翅包
+丝巾的褶皱卷绕着蓝色的云朵
+蝴蝶翩翩起舞
+裙子下摆白色编织的电车花
+鲜红色刺绣棉花瓣，靛蓝色围巾褶皱。
+听到人们走在巷子里的声音
+她赶紧把梳子背在背上
+赶紧把裙子拉松点
+我听到爸爸在叫，妈妈在叫：
+- “亲爱的女儿，最小的女儿，你在哪里？
+赶紧回家给郎家煮桂圆叶水
+加槟榔、槟榔迎接客人
+别让治疗师责怪你一辈子！”
 
-Lady Vat Dau Nuoc became Lang Cun Can's wife
-Cleverly keep the trick, keep the house's magic
-The whole village loves and appreciates it very much.
-But stay for nine months and one full moon
-After two years and a half months:
-It looks sunny, it shouldn't be sunny
-Look at the lamp, but the lamp does not show
-I hope the wind won't come back
-Released the raft, but the raft did not reach the dock
-Burn the candle, the candle won't light
-Looking forward to having a child but not having one!
-My cheeks are no longer like red rosewood branches
-Lips should not be the first branches of the season
-Going alone early in the morning and returning at noon is lonely.
+Vat Dau Nuoc 夫人成为 Lang Cun Can 的妻子
+巧妙保守秘密，守护家族魔力
+全村人都喜欢、欣赏它。
+但停留九个月零一个满月
+两年半个月后：
+看起来是晴天，其实不应该是晴天
+看灯，灯不亮
+盼风，风不会再回来
+释放木筏，但木筏没有到达码头
+如果你点燃蜡烛，蜡烛就不会点燃
+盼着要孩子却没有！
+脸颊不再像红色的乔枝
+季节初唇部不宜种竹枝
+一大早一个人去，中午一个人回来。
 
-Lang Cun Can is empty and lonely
-Arm pillow night
-Clothes day
-Drink alcohol without getting drunk
-Eating rice does not sleep well.
-Looking at the river flowing quietly
-Looking at the sunny sky, my eyes squinted
-Look up to the sky and hear your eyes ringing:
-Seeing her **A Sao, A Sang, A Rang**
-Daughter of the King of Heaven!
-Mouth smiling as bright as cotton
-Hair as green as a stream
-A knife is sharper than an eye
-The moon is bright
-Not as good as the corner of her eyes?
-Lang wishes today, tomorrow regrets
-I wish I could get that eye.
+郎村 需要几天的缺席和几个月的磨损
+晚上抱枕
+服装日
+喝酒不醉
+吃米饭睡不好。
+看着静静流淌的河流
+看着阳光明媚的天气，我的眼睛眯了起来
+抬头看看天空，听到你的眼睛在响：
+看到她**阿骚、阿桑、阿让**
+天王的女儿！
+笑容灿烂如棉花般的嘴角
+头发如溪水般蔚蓝
+刀比眼还锋利
+月亮很亮
+还不如她眼角？
+今天的梦想，明天的梦想
+我希望我能拥有那只眼睛。
 
-Lang once again gathered to visit the country
-Buy nine pairs of big buffaloes
-Buy nine pairs of bulls
-The boys go first to carry the drums
-The girl follows behind carrying the gong
-One-sided indigo dress
-Red dress and blue shirt on one side
-Follow Lang up to ask A Sao, A Sang, and A Rang.
-The three gongs roar on the mountain at the end
-Gong seven calls the valley at the top
-The gongs are loud, the drums are banging!
-Miss A Sao felt ashamed in her heart
-But joy filled my stomach.
+郎再次遇见水循环
+买九对大水牛
+购买九对公牛
+男生们先去扛鼓
+女孩拿着锣跟在后面
+单面靛蓝连衣裙
+一侧红色连衣裙和蓝色衬衫
+跟着郎去问阿骚、阿桑、阿让。
+锣三响山尽头
+宫七呼谷顶
+锣鼓喧天！
+骚小姐心里羞愧
+但喜悦填满了我的胃。
 
-The blanket is hundreds of pieces wide
-Hundreds of beautiful dresses
-Folding pillows, soft pillows with silver plated chests
-Silver spears, deer antlers, gold-plated chests
-Brocade weaving village of four pairs
-Rattan basket with three pairs of gold rings.
-The nine-red-haired horse took Lang ahead
-Young horses and beautiful horses carry A Sao behind
-Beautiful clothes and colorful pants are crowded together.
-Hear the sound of the gong coming
-Miss Vam Dau Dau welcomes you at the beginning of the village
-Listen to the sound of drums
-Lady Vat Dau Nuoc waits at the beginning of the village
-Waiting to hold your beloved bride's hand
-Go home and prepare the room to welcome your precious friend-in-law.
+数百条毯子
+数百件漂亮的裙子
+折叠枕头、软枕、镀银胸部
+矛持银，鹿角、胸口镀金
+四对织锦房
+藤篮，三对金环。
+九红毛马带郎走在前面
+少马靓马驮着阿骚
+漂亮的衣服和五颜六色的裤子挤在一起。
+听到锣声传来
+Vam Dau Dau 小姐在村口欢迎您
+听鼓声
+Vat Dau Nuoc 女士在村口等候
+等待握住你心爱的新娘的手
+去准备房间来迎接你珍贵的新娘。
 
-Lang Cun Can got A Sao, A Sang, and A Rang
-Breakfast in the same pot
-Wine needs to be drunk together
-Wherever we go, we walk side by side and walk together.
-When Miss Sao sat and sewed, she mended
-Lang Cun Can stood next to him and watched
-When she sat weaving and embroidering
-Lang Cun Can loved him with all his heart
-This morning I had a housemate
-Everywhere you go, there are couples and litters.
+郎村需要得到阿骚、阿桑、阿让
+同锅早餐饭
+酒可以一起喝吗
+无论走到哪里，我们都肩并肩，一起走。
+当嫂子坐下来缝纫时
+郎存灿站在旁边看着
+当她坐着织布绣花的时候
+郎存灿全心全意地爱着他
+一大早，我就有室友了
+无论走到哪里，都有情侣和垃圾。
 
-But two cold seasons have passed
-The hot season is coming
-The Star Queen is also rare
-She also has no children!
+但是两个寒冷的季节已经过去了
+炎热季节来临
+星之女王也很少见
+她也没有孩子！
 
-At noon, Lang lay with his hands on his knees outside the window
-Lying next to the shirt next to the voong window
-Looking into the jungle, looking into the ravine:
-Seeing **Miss Ut** — the girl raised in the village!
-Hair is not often combed
-Dress made of oak and rough fabric
-Short shirts dyed indigo are ugly and ugly
-But smiling teeth are like wildflowers
-Smiling mouth like a flower
-Eyes as clear as a stream!
-No need to dream, no need to wait for him to dream
-You don't have to process pigs and cows, spending money and gold
-Lang asked Nang Ut to become his wife:
-She only brought along clothes and clothes
-Eat from the same pot, drink from the same pot
-Living in the same house
-Just as loving as his first wife.
+中午，郎双手双膝趴在窗外
+躺在纸板窗前的衬衫旁边
+看丛林，看峡谷边缘：
+看到**The Ut**——在村里长大的女孩！
+头发不常梳理
+橡木和粗布裙子
+靛蓝染短衫难看
+但微笑的牙齿就像野花
+玫瑰般微笑的嘴
+眼神清澈如溪水！
+不需要做梦，不需要等他做梦
+不用加工猪牛，花钱金币
+Lang 请求 Nang Ut 成为他的妻子：
+她只带了衣服衣服
+吃同一个储藏室，喝同一个锅
+住在同一所房子里
+就像原配妻子一样慈爱。
 
-The crow has wings that can fly
-People have hands and know how to do things
-But the lang has four wives
-Still don't have any children.
-One day I heard a frog say:
-- "There is an Old Lady who knows how to get medicine
-Know how to get children from grass."
-Lang's family immediately cut dong leaves to cover the cake as a gift
-Go and ask the Old Lady for herbal medicine to take.
+乌鸦有翅膀，可以飞翔
+人有双手，懂得做事
+但是郎有四个老婆
+还没有孩子。
+有一天，我听到一只青蛙说：
+- “有一位老太太，她知道如何获得药物
+懂得如何从草丛中得到孩子。”
+郎家立即剪下侗叶盖在蛋糕上作为礼物
+去向老太太要草药带回来。
 
-Sure enough, the day came when the stars were happy and the clouds danced
-The branches and leaves ring, the crested bird sings
-The bright side is real:
-The Earth-Headed Girl gave birth to **Bad Cun**
-The Lady of Water Dau gave birth to **Cun Tang**
-A Sao, A Sang, and A Rang gave birth to **Lang Cun Khuong**
-Miss Ut, the girl raised in the village
-Giving birth to **Toong In**.
+果然，星星欢乐、云朵翩翩的那一天到来了
+枝叶响，凤头鸟鸣
+光明的一面是真实的：
+地头少女生下**Cun Toi**
+水夫人Dau生下**存堂**
+A Star、A Bright、A Rang 生下 **Lang Cun Khuong**
+乌特小姐，村里长大的女孩
+生下**统仁**。
 
-The story is not over yet
-Not enough words yet
-Listen to the next story
-Lang Cun Can cast bronze drums
-Divide the land and place the throne for your children.
+故事还没有结束
+话还没说完
+听下一个故事
+郎村灿铸造铜鼓
+分割土地，为你的孩子安置王位。
 
 #### 讲述语气提示
 - **说亲趣闻：** 七位求亲者接连遇凶兆一段节奏明快，外祖母斥责苛索嫁妆一段自然幽默。
@@ -626,405 +626,405 @@ Divide the land and place the throne for your children.
 
 ### 第19章：铸铜鼓与 Lang Cun Cần 分地
 
-**Part 1: Giving birth to a male drum**
+**第1部分：生出雄鼓**
 
-Lang Cun Can sits on a dragon trap
-Sitting in the silver box, facing down:
-Saw a black object that looked like a boyfriend
-Seeing a flower-like object like a basket.
-If you want to protect the head of rice, it's not the head of rice
-I want to say seedling head, not seedling head.
-Seeing a round shape on the outside of the hip, there are two sagging eyes
-There are shapes of Bai and De leaves
-There is a picture of a slit opening to get some air
-Shaped like agarwood
-Seven at the waist and back are green
-Stand in the middle of the house.
+郎存灿坐龙陷
+坐在银色盒子里，面朝下：
+看到一个看起来像男朋友的黑色物体
+看到一个类似篮子的带有鲜花的物体。
+要说米头那就不是米头了
+我说的是苗头，不是苗头。
+看到臀部外侧圆圆的形状还有两只下垂的眼睛
+呈白叶、德叶形状
+有一张狭缝开口透气的图片
+形状像沉香
+腰后背七是绿色
+站在房子中间。
 
-Lang called the old magicians and asked clearly:
-- "Do you know what that thing is?"
-The monks tie their backs and let their hair loose
-Clap your hands together, Mr. Lang:
-- "Sir!
-Seeing black and black is not called boyfriend
-Striped stripes are not called baskets
-A round face is not a look.
-That's called stitching together
-It's the golden link
-It's called a bronze drum!"
+郎给老巫医打电话，明确问道：
+- “你知道那东西是什么吗？”
+芒族人绑着背，披散着头发
+郎先生双手合十：
+- “先生！
+看见黑黑的不叫男朋友
+条纹条纹不叫篮子
+圆脸不好看。
+这就是所谓的拼接
+是黄金一步
+这叫铜鼓！”
 
-Lang Cun Can House
-At dusk, hundreds of soldiers arrived
-Tomorrow morning, hundreds of soldiers will appear
-At midnight, the rooster crows standing and sitting
-From family to neighbor, thousands of friends
-The yard is full of pigs and buffaloes
-But there is no bronze drum yet:
-Haven't heard about eating yet
-Drinking alcohol doesn't sound rich.
+村灿郎楼
+黄昏时分，数百名士兵抵达
+明天早上将有数百名士兵出来
+半夜，公鸡站着、坐着打鸣
+家里有几千个朋友
+院子里全是猪和水牛
+但是还没有铜鼓：
+还没听说过吃的
+喝酒听起来不太奢侈。
 
-Lang sais patched patch, Binh Muong
-Go borrow the bronze drum of King Thuy Phu.
-First time coming to the crossroads, three streets
-Don't know the way down or the path
-Had to turn back.
-Lang ordered more soldiers to follow him
-Go to the fork in the road and follow it down to the river
-Come to the fig tree leaning on the shore
-Reflecting on Van Chieng's clumps
-White wharf, Bo De bridge.
-Lang told his servant to climb the fig tree and call out:
-- "Oh King of the State
-King Dragon King!
-Lang Cun Can miss me
-There is no bronze drum yet
-To eat rice and drink wine
-Tell us to come down and borrow it!"
+Lang 错误补丁，Binh Muong
+借了水富国王的铜鼓。
+第一次来到十字路口，四分之三
+不知道下路或路
+只好折返。
+郎命令更多士兵跟随他
+走到岔路口，顺着它一直走到河边
+到靠岸的无花果树
+反思文清岩
+白码头，博德桥。
+朗吩咐仆人爬上无花果树，并喊道：
+- “国家之王啊
+龙王！
+郎村需要我
+铜鼓还没有缝纫
+吃米喝酒
+告诉我们借一下！”
 
-Hear it rumble deep into the water
-Listen to the waterfall of trash in the riverbed:
-The Dragon King sits on a bronze boat
-Come out and look, come out and look
-Looking from below
-View from above
-See protrusions and concave areas.
-The villagers built boats and pulled in to take a look
-Memorize how to cast bronze drums
-Then they told each other to return to the dragon temple.
+听到水底隆隆作响
+听河床垃圾瀑布声：
+龙王坐铜船
+出来看看，出来看看
+从下面看
+俯视图
+查看凸起和凹陷区域。
+村民们造船过来参观
+背诵铜鼓铸造方法
+然后吩咐对方返回龙殿。
 
-Return home, pick up workers from Muong Vong and Muong Khuong:
-The ground pounded loudly
-Applying the mold is sluggish
-Take firewood and firewood and burn it
-Take firewood from branches and figs to boil.
-Copper water flows red like a flower!
-But I poured it once and it didn't come out
-Pour three times without sharpness:
-The drum has been carried away by ghosts
-Sewing has been cursed by a ghost!
+返回家中，从 Muong Vong 和 Muong Khuong 接工人：
+重重地敲打地面
+应用惯性模型
+拿原来的柴火和木柴烧掉
+取树枝和无花果为柴火煮沸。
+铜水流红如花！
+但是我倒了一次没倒出来
+倒三遍不锋利：
+鼓被鬼带走了
+考被鬼诅咒了！
 
-Worker Cun Khuong digs red ginger
-Muong Vong workers look for purple turmeric
-Slice it and chew it in your mouth
-Spray into the blank mold to repel ghosts
-Breathe into the soil, puff into the water.
-Blow once and that's it
-Pour copper, pour sharp stitches
-Poured three times, the bronze drum took shape!
-Casting should be large stitches
-Casting should be done with small stitches
-Its sound wafts
-Joy in the belly!
-Lang Cun Can was filled with joy:
-- "The good things are put in storage
-Let me sell the rest!"
+工人Cun Khuong去挖红姜
+Muong Vong 工人寻找紫姜黄
+切片放入口中咀嚼
+喷入毛坯模具可驱鬼
+向土壤中呼吸，向水中吹气。
+吹一次就可以了
+倒铜，倒尖针
+浇三遍，铜鼓成型！
+铸造需要大针脚
+成型需要小针脚
+声音飘扬
+肚子里的喜悦！
+郎村灿满心欢喜：
+- “好东西都收起来了
+剩下的就卖掉吧！”
 
-Lang told Uncle Lock and Loi
-The burden is hard to bear
-The carrying beam is durable enough to carry
-Going up and down the Ma River:
-Sold to Muong Ca Da
-Selling to Muong Bi, Lo, Khanh, Khien
-Selling to Muong Vung, Muong Ro
-Through Muong Roc, Muong Yen, to Muong Cho.
+Lang告诉Lock叔叔和Loi
+重担难担
+提杆经久耐用
+沿马河上下：
+卖给Muong Ca Da
+于 Muong Bi, Lo, Khanh, Khien 出售
+出售给 Muong Vung, Muong Ro
+经过Muong Roc、Muong Yen，到达Muong Cho。
 
-People think it's strange
-Try patting boom boom, asking questions:
-- "How about I buy some salt for you?"
-Do you want me to buy some soup?
-Lu chinh let me buy and store wine?
-Exchange rice, exchange chicken, sell me one!"
+人们觉得奇怪
+尝试拍轰轰，提问：
+- “或者我应该买一双放盐进去？”
+要我买汤吗？
+路政让我买酒储存？
+换米，换鸡，卖给我一只！”
 
-Uncle Lock and Loi smiled and replied:
-- "Miss Ut came out to solicit
-Miss Arab, come visit!
-Not a salt tray
-Not a bowl of soup
-Not ceramic jars or wine jars!
-It is the process of bronze drums
-Drums of the Muong people
-Small handle
-There are flocks of frogs coming out to enjoy the wind
-There is a Bright Girl, a Star Girl!
-Who turns into a Buddha and worships heaven
-Who turns into a fairy and a dragon
-About worshiping ancestors and ancestors
-Hit this drum:
-You will soon know how to eat and drink
-In the afternoon, you know the way down and the way up!
-I don't sell rice in exchange
-I won't take the chicken in exchange
-Muong Vong rice is countless
-Lots of Ky Ong Rice
-Only selling for money!"
+洛克先生，雷先生微笑着回答：
+- “最小的女孩出来拉客
+亲爱的阿拉伯人，快来参观吧！
+不是盐锅
+不是一碗汤
+不是瓷罐，也不是用来装酒的陶罐！
+是铜鼓的缝制
+芒族鼓
+小肩带
+有一群青蛙出来乘风
+有一个聪明的女孩，一个星星女孩！
+化佛礼天
+化仙拜龙
+关于祭祖、祭祖
+演奏这个鼓：
+你很快就会知道如何吃喝
+下午，你知道哪条路是下，哪条路是上！
+我不卖米换钱
+我不会拿鸡来交换
+Muong Vong 米无数
+Ky Ong 有很多米饭
+只卖钱！”
 
-Uncle Lock and Loi traded all over the country
-Through Cun Dam land, Dao Dung
-Go to Cun Khoi land, Dao Nen
-Arrive at Cun Khien, Dao Khanh
-Ask for directions to Ram market, Ben market, and Bo market.
-The road is miles and miles away
-Return to Cun Capital Co land
-Return to Muong An:
-Nice to meet Miss Ut
-Meet Ms. A to buy
-See the correct bronze drum
-Muong people call it stitch
-Use money to trade, use silver to buy
-Buy and sew bronze drums
-Cast from the reign of Lang Cun Can.
+洛克先生、雷先生在乡村各地做生意
+穿过村坝地，Dao Dung
+前往Cun Khoi land, Dao Nen
+到达Cun Khien, Dao Khanh
+询问去Ram市场、Ben市场、Bo市场的路线。
+路还很远
+返回Cun Capital Co土地
+返回芒安：
+很高兴认识Ut小姐
+遇见女士购买
+查看正确的铜鼓
+芒族人称之为缝合
+用钱交易，用白银购买
+购买并缝制铜鼓
+郎存灿年间铸造。
 
-**Part 2: Lang Cun Needs land division**
+**第二部分：郎村需要分地**
 
-Lang Cun Can's face looked dark
-Knees feel long
-Back bent, weak strength
-As a child, I no longer want to wear anything
-I can't do it anymore as a lang.
+郎村灿脸色黑了
+感觉膝盖很长
+驼背，力量弱
+十几岁的时候，我什么都不想穿了
+我不能再这样了。
 
-Heard:
-If you want to be rich, you must grow strawberries
-If you want to live long, you have to be a soul.
-Lang chooses a good month and chooses a good day
-Discuss with Cun Toi and Cun Tang:
-- "Dad's eyes are dark, his knees are shaking
-Dad wants to divide the land and sand equally among each child
-Don't displease the next child or the first child.
-You must prepare a feast
-Be good to Dad!"
+听说：
+想要致富，就必须种草莓
+要想长寿，就必须发挥灵魂。
+郎选好月选好日
+与Cun Toi和Cun Tang讨论：
+- “爸爸的眼睛一片漆黑，他的膝盖在颤抖
+爸爸想把土地和沙子平均分给每个孩子
+不要让下一个孩子或第一个孩子不高兴。
+你必须准备好筵席
+请保佑我的父亲！”
 
-Soon, the children entered the astral world:
-Cun Toi leads the golden bull
-Cun Tang leads a buffalo with a silver dream
-Lang Cun Khuong leads pigs through alleys and fences
-And Toong In is the adopted child, the youngest child
-Going empty-handed is also enough.
+很快，你将进入星界：
+Cun Toi领衔金牛
+存唐牵着一头水牛，带着银色的梦想
+Lang Cun Khuong 牵着他的猪穿过小巷和栅栏
+而Toong In是领养的孩子，最小的孩子
+即使你空手而归，你也完成了。
 
-Eat snacks
-Lang Cun Can is drunk with rice
-Drunk and soft
-Lie down at the brocade window
-Start dividing land among your children:
-Cun Toi was divided into Khham Ngang land
-Cun Tang was divided into Kham Doc land
-Deep fields, shallow fields and villages
-Shared with youngest child Toong In.
-And the yeast from the rice fields is as small as a monkey's ear
-Barefoot is as small as a cat's ear
-Wild chickens come to eat, birds perch
-The stork passed by and saw his head
-The snail crawled over and saw its back
-Lang divided by Lang Cun Khuong!
+吃好吃的食物
+郎村灿饭醉
+醉软
+卧锦窗前
+开始给你的孩子分配土地：
+Cun Toi 被划分为 Khham Ngang 土地
+Cun Tang 被划分为康多土地
+深田、浅田、村庄
+与最小的孩子 Toong In 共享。
+而稻田里的酵母只有猴耳朵那么小
+光着脚跟猫耳朵一样小
+野鸡来吃，小鸟栖息
+鹳鸟经过，看到了他的头
+蜗牛爬过去，看到了它的背影
+Lang 除以 Lang Cun Khuong！
 
-Lang Cun Khuong's stomach was filled with anger
-Anger heats the back
-Sai leads a horse with a short back and slim legs
-Fly straight to the sky
-Come visit your grandparents.
-Lang Cun Khuong cried and told the Heavenly King:
-- "Grandpa, grandpa!
-Dad divided but shouldn't have divided!
-Trees sharing branches have sour and sweet fruits
-Some children hate it, some love it
-Dad divided the land unfairly
-Sharing water is not worth it
-Losing the heart of the first child and the second child!
-I'm going to live with you for fun
-Come back to her so you won't suffer."
+Lang Cun Khuong 肚子饱了
+愤怒会烧伤你的背
+短背细腿牵马是错误的
+直飞向天空
+快来服侍你的祖父母吧。
+郎存姜哭着告诉天王：
+- “爷爷，爷爷！
+爸爸分了却不该分！
+共享树枝的树结出酸甜的果实
+有些孩子讨厌它，有些孩子喜欢它
+爸爸分地不公平
+免费分享水
+失去老大老二的心！
+我要和你一起快乐地生活
+回到你奶奶身边吧，免得受苦。”
 
-Grandparents advise:
-- "In that case, don't worry!
-Just return to Dong Chi Tam Quan Ke Cho.
-In April people fight cocks
-Don't go to cockfighting
-In February and March people go fishing
-Don't go fishing
-In March, just go plowing
-April poops
-My grandparents gave me good weather and good weather
-Let me have lots of rice and lots of fish!"
+祖父母建议：
+- “就是这样，别担心！
+回到Dong Chi Tam Quan Ke Cho就可以了。
+四月人们斗鸡
+不要去看斗鸡
+二月和三月人们去钓鱼
+不要去钓鱼
+三月继续耕耘
+四月大便
+爷爷奶奶给风调雨顺
+让我吃很多米饭和很多鱼！”
 
-Returning to Muong, Lang Cun Khuong worked hard on his business.
-Cun Khuong's planted fields are green
-In April, Toong In also went to cockfighting
-In February and March, we still closed the fields and closed the stages.
-In August, Toong In plowed and opened the fields
-So the rice is transplanted:
-The stork passed by and saw his head
-The snail crawled past and saw its back!
-Toong In was halfway hungry
-Wrinkled face, frowning eyebrows
-There is no rice or cassava to eat.
+回到Muong，Lang Cun Khuong 努力工作。
+种植的Cun Khuong稻田绿油油的
+四月，东仁还去斗鸡
+2月和3月仍然休业、休业。
+八月，统仁犁地开田
+水稻是否要插秧：
+鹳鸟经过，看到了他的头
+蜗牛爬过去，看到了它的背影！
+东仁半路饿了
+脸上有皱纹，眉毛有皱纹
+找不到米饭或木薯吃。
 
-Toong In went to the forest to pick red banana flowers
-Go down to the garden and pick a bunch of greens
-Bring it as a gift to Lang Cun Khuong's house to beg for food.
-Cun Khuong saw her walking along the field
-He immediately ordered a brown horse to be brought out to process
-Serve chicken rice and warm wine.
-Full of rice, drunk with wine, Toong In whispered:
-- "Brother, I'm so thirsty
-Hungry and out of breath
-My family doesn't grind anything
-I have to go back and beg for food with you and my sister!"
-Lang Cun Khuong loves you in his heart
-Sai took rice as white as silver
-The rice upstairs smells like incense
-Pack a load for me to take home.
+童仁去森林摘红芭蕉花
+下田去摘一堆青菜
+带去Lang Cun Khuong家讨饭。
+Cun Khuong 看见她沿着田野走进来
+立即下令将棕马带出去处理
+上鸡饭和温酒。
+饭饱酒醉，童仁低声说道：
+- “兄弟，我好渴
+又饿又气喘吁吁
+我家不磨任何东西
+一定要回去跟我和姐姐要饭！”
+Lang Cun Khuong 心里爱你
+送来的米白如银
+楼上的米饭闻起来很香
+打包好东西让我带回家。
 
-But Toong In's wife does not know how to be frugal or share
-There's so much rice that I don't know how to divide the meal
-Cook it at once and eat the horse's intestines
-Eat leftovers in the morning, waste in the afternoon.
-Two or three days are gone!
-Toong In picked up red banana flowers and cilantro and asked:
-The second time, Cun Khuong gave him a load of rice as silver as lead.
-Still wasting it all
-Again he begged for the third time:
-Cun Khuong only has a bunch of rice that is as black as grit.
-The fourth time he asked, Cun Khuong angrily refused:
-- "Now you're gone too
-Please find another place to ask!"
+但东仁的妻子不懂得节俭，也不懂得分享
+米饭太多了，不知道怎么分
+马上煮，吃马肠
+早上吃剩菜，下午就浪费掉。
+两三天过去了！
+童仁拿起红香蕉花和薄荷问道：
+第二次，村姜给了他一担银如铅的米。
+还是浪费一切
+他又第三次哀求：
+Cun Khuong只剩下一堆像沙粒一样的黑米。
+第四次询问，Cun Khuong 愤怒地拒绝了：
+- “现在我完成了
+请你另找地方询问吧！”
 
-Toong In returned
-Glimpse of Lang Cun Khuong's house
-A procession of blacksmiths to light fires to make harrows, make plows, and forge knives.
-Toong In immediately had evil thoughts and thought of deceit
-Run along the stream
-About telling lies to Cun Toi and Cun Tang:
-- "Lang Cun Khuong's family is rich
-A procession of gunsmiths, knife forgers, and spear sharpeners
-Aim to make grass enemies
-Kill Cun Toi Muong Quang
-Kill Cun Tang Muong Lon!"
+统仁回来了
+Lang Cun Khuong 家一瞥
+召集铁匠生火制作耙子、犁、锻刀。
+童仁立刻产生了邪念和欺骗的念头
+沿着溪流奔跑
+关于说 Cun Toi 和 Cun Tang 坏话：
+- “Lang Cun Khuong 家很有钱
+枪匠、锻刀师、磨矛师的游行
+以树敌为目标
+杀村台孟光
+杀村唐孟伦！”
 
-The two of you sent the guards to investigate
-You can hear the sound of rustling iron and grinding spears
-Then he blew a drum and announced it throughout Ram and Roc villages
-Quan Cheo, Neo village, Dong village pulled soldiers to fight.
-Cun Toi stood inside holding a sword
-Cun Tang rides a pink horse outside the door
-It is said that:
-- "O Chu Chuong, longing for the country!
-Lang Cun Khuong became an enemy
-Tighten brotherly love
-Follow me to capture Lang Cun Khuong!"
-Guns were fired, slings shot like rain
-Shout out to Cun Khuong's father and son!
+你们两个派了侍卫去调查
+听铁打碎、磨矛的声音
+然后他吹响了鼓并在Ram和Roc村庄宣布了这一消息
+泉州、新村、侗村拉兵迎战。
+Cun Toi 拿着剑站在里面
+存堂在门外骑着粉红马
+念诵：
+- “O Chu Chu Muong Nuoc！
+Lang Cun Khuong 成为敌人
+拉紧兄弟情谊
+跟我去抓Lang Cun Khuong！”
+枪声四起，弹弓如雨
+为Cun Khuong 和他的孩子们大声喊叫！
 
-In danger, Lang Cun Khuong broke the door to escape
-Run straight to the sky
-Visit your grandparents.
-Seeing him walking alone, his face was distorted without a smile
-Grandfather asked
-Cun Khuong told everything from beginning to end
-Then please make a drought, make a flood to wash away the hatred:
-- "I ask you to make the storm, make the wind
-Just a bucket of God's water
-Give them the rest of their lives!"
-My grandparents could not advise me
-We can only let the family create a terrible drought:
-The fields are dry for nine months and miserable
-Twelve years of cracking land
-The Tam River and Te River no longer flow
-The stream dried up and the turtle's shell broke
-Broken deer horn
-Buffaloes chew frozen soil
-The dew drinker!
+遇到危险，Lang Cun Khuong 破门逃走
+直奔天空
+去看望你的祖父母。
+看到你一个人走，脸都扭曲了，没有笑容
+爷爷问
+Cun Khuong 从头到尾讲述了一切
+那么请你做个限度，做一场洪水来冲刷仇恨：
+- “我请你制造风暴，制造风
+只是一桶上帝的水
+还给他们余生！”
+我的祖父母无法劝阻我
+只能让家族制造一场可怕的旱灾：
+田地干旱了九个月
+十二年地裂
+谭河、特河不再流动
+溪水干涸，龟壳破裂
+破碎的鹿角
+水牛咀嚼冻土
+饮露者！
 
-Cun Toi and Cun Tang hunted in the forest and caves
-Meet the three eldest turtles who are busy building Giang Giang boats
-A herd of golden turtles is building a bamboo raft.
-When asked, the black and yellow turtles replied:
-- "Because you guys killed Cun Khuong
-When Cun Khuong returned, the sky was filled with clouds and wind
-Suffering the land of Dong Chi Tam Quan Ke Cho!
-It is difficult for people to build boats on the river tree
-Poor people live in bamboo trees
-The monks and monks build cho chi boats
-To row to God's land!"
+Cun Toi 和 Cun Tang 在森林和洞穴中狩猎
+遇见了正在匆忙建造江树船的三只最大的乌龟
+一群金龟正在搭竹筏。
+当被问到时，黑龟和黄龟回答：
+- “因为你们杀了 Cun Khuong
+Cun Khuong回来时，天空乌云密布，风吹过
+受东芝谭权克措之地之苦！
+人们很难在河树上造船
+穷人住在竹子里
+和尚和和尚建造了cho chi船
+划船去神国！”
 
-Just finished building the boat:
-Enjoy the wind
-Crazy rain!
-At noon Cun Thunder screams, at night Lady Lightning strikes
-At the beginning of the day, it rained the size of a tomato seed
-In the morning it rained like a fist
-It rained heavily for nine days and ten days:
-Bu Ring Hill is just a scissors away
-Bu Keo Hill is only the size of morning glory leaves
-Tam Mountain and Te Mountain are made of potato leaves
-All over Muong Ai, flood waters are rushing!
+刚刚建造完一艘 cho chi 船：
+感受风
+疯狂的雨！
+中午雷声大作，晚上电闪雷鸣
+清晨，下了番茄种子大小的雨
+今天早上，雨下得像拳头一样
+大雨连着九天十天：
+布环山只是剪刀的事
+Bu Keo Hill 只有牵牛花叶子那么大
+谭山和特山是用土豆叶做的
+芒艾到处都是洪水！
 
-The King of Heaven parted the clouds and looked down
-Sent her to Dat Cai Dung
-Early in the day, it was under the moon
-In the morning, under the sun
-Go back and tell Cun Toi, Cun Tang to quickly bring Cun Khuong back.
-Lang Cun Khuong sat on the clouds
-Riding on the back of the wind, he spoke down:
-- "Cun Toi, have you heard of being an enemy?
-Cun Tang, is it fun being an enemy?
-If you want me to return, you must swear an oath
-Take the sword, use the sword to slash Toong Í's father's neck
-Let all generations flatter above and persuade below!"
+天王拨云俯视
+送她去Dat Cai Dan
+清晨，月亮照耀
+早晨，阳光明媚
+回去告诉Cun Toi，Cun Tang赶紧把Cun Khuong带回来。
+Lang Cun Khuong 坐在云端
+乘着风的背影，低声说道：
+- “Cun Toi，你听说过成为敌人吗？
+亲爱的唐存，做敌人好玩吗？
+想要我回来就必须发誓
+拿剑，用剑砍东仁父亲的脖子
+献给一切上谄媚下煽动的世代！”
 
-Cun Toi, Cun Tang loves you
-First time taking blood from a black bitch
-Ordered the girl Dat Cai Dinh to hand it over to heaven.
-Lang Cun Khuong looked over and scolded directly:
-- "Black blood is bitch blood!
-Don't lie to me!"
-The second time, the two brothers took the red blood of the deer and presented it
-Cun Khuong still dismissed:
-- "Red blood is deer blood
-Not the blood of the Lang family!"
+Cun Toi，Cun Tang爱你
+第一次从黑色母狗身上抽血
+命令Tat Cai Danh女士将他交给天堂。
+Lang Cun Khuong 看过来骂他：
+- “黑血就是母狗的血！
+别骗我！”
+第二次，两兄弟拿了鹿的红色血献上
+Cun Khuong 仍然被驳回：
+- “红血是雄鹿血
+不是郎家的血脉！”
 
-Ten days floating on rafts and on the beach
-Hungry for food and heartbroken, Toong In stepped up and said:
-- "I shouldn't, you two just keep doing it
-So that the people will not be hungry and the water will not rise!
-Today you will be old, tomorrow you will be late
-How can I support myself?"
-The two brothers sadly told me:
-- "You shouldn't, I have to do it
-Let me be the lord of the fields
-Live to keep the land, keep the fields!"
-Then he beheaded Toong In to get real golden blood from the Lang family
-Thanks to Lady Dhat Cai Danh to offer it to the sky.
+在木筏和海滩上漂浮十天
+饥肠辘辘、心碎的东仁站出来说道：
+- “我不应该，你们两个继续这样做
+让村民们不再挨饿，水位不再上涨！
+今天你老了，明天你迟到了
+你怎么知道如何养活自己？”
+两兄弟悲伤地告诉我：
+- “你不应该这么做，我必须这么做
+让我成为田野的领主
+活着要保住田地，保住田地！”
+然后斩杀了Toong In，得到了郎家真正的黄金血脉
+请Dhat Cai Danh女士将其供奉给天空。
 
-Lang Cun Khuong correctly viewed the Lang family's golden blood
-Stop being angry, stop being angry, turn around and go back.
-Through the White Ben Banyan Tree
-Also catch pigs as bait
-Caught an ancient black dragon
-Caught a silver dragon with a smooth flow on its back
-Then return to Dong Chi Tam Quan Ke Cho.
+郎存姜正确地看到了郎家的黄金血脉
+别再生气生气了，转身回去。
+穿过白榕树
+还可以捉猪当诱饵
+捕获远古黑龙
+捕获一条流背银龙
+然后返回Dong Chi Tam Quan Ke Cho。
 
-Cun Toi brought out the golden tray to greet
-Cun Tang brought a silver tray to welcome him
-Toong In's children also ran out to worship.
-Lang Cun Khuong didn't hear it and shouted:
-- "If you cut down the tree, why don't you cut down the roots?
-If you uproot the tree, why not pull up the roots?
-If you kill your father, don't kill your child!"
-Angry, brandishing the golden sword
-Kill the Toong In
-Blood got on my hands, blood flew on my shirt!
+Cun Toi端出金托盘迎接
+存堂端着银托盘来迎接
+统仁的孩子们也跑出去拜拜。
+Lang Cun Khuong 没听见，喊道：
+- “如果你砍倒了树，为什么不砍掉树根呢？
+拔树时为什么不连根拔起？
+如果你杀了你的父亲，就不要杀你的孩子！”
+愤怒挥舞金剑
+杀死Toong In
+血沾到你的手上，血飞到你的衬衫上！
 
-Dao Lang Khuong stepped onto the floor of the cun house, the lang house
-Meat of a black male buffalo is offered to the ghosts of the earth
-Meat of a silver male buffalo is offered to the Water Palace of the Dragon King
-Worship the nine heavens
-Bow to the ten directions
-Sacrifice to the gods and earth gods everywhere:
-- "Bring me good food
-Bring healthy fish to eat
-Fill your heart
-Leave the area alone
-For Chu Chuong, look at the country near and far
-Happy door, happy home
-Tam Quan Ke Cho Copper Lead Land!"
+Dao Lang Khuong 踏上郎屋村的地板
+制作黑水牛肉，供奉地上的鬼魂
+银水公牛肉祭龙王水宫
+祭拜九重天
+向十方鞠躬
+各地祭祀诸神地神：
+- “给我带好吃的
+带健康的鱼来吃
+填满你的心
+离开该区域
+水的远近循环
+在家快乐，在家快乐
+Tam Quan Ke Cho 铜铅土地！”
 
 #### 讲述语气提示
 - **铸铜鼓：** 三次浇铜不成、红姜紫姜黄破邪一段紧凑兴奋。
