@@ -16,8 +16,12 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CHAPTER_HEADING = re.compile(r"^###\s+(?:Chương|Chapter)\s+(\d+)\s*[:：]\s*(.+?)\s*$")
-BOOK_HEADING = re.compile(r"^##\s+(?:Hồi|Quyển|Book)\s+([IVX]+)\b[^\n]*$")
+CHAPTER_HEADING = re.compile(
+    r"^###\s+(?:Chương|Chapter|第)\s*(\d+)\s*(?:章)?\s*[:：．.、]?\s*(.+?)\s*$"
+)
+BOOK_HEADING = re.compile(
+    r"^##\s+(?:Hồi|Quyển|Book|Act|Chapter|第)\s*([IVX一二三四五六1-6]+)(?:[卷幕回])?\b[^\n]*$"
+)
 LEVEL0_SECTION = re.compile(r"^##\s+([1-5])\.\s*(.+?)\s*$", re.MULTILINE)
 MARKDOWN_MARKERS = ("#", "-", "*", ">", "|", "!", "`", "---")
 PLACEHOLDERS = ("TODO", "TBD", "FIXME", "Lorem ipsum", "XXX")
@@ -129,7 +133,9 @@ def check_verse_lines(markdown: str, label: str, report: Report) -> list[int]:
     long_lines: list[int] = []
     in_body = False
     for line in markdown.replace("\r\n", "\n").split("\n"):
-        if line.startswith(("#### Lưu ý giọng kể", "#### Narration note")):
+        if line.startswith(
+            ("#### Lưu ý giọng kể", "#### Narration note", "#### 讲述语气提示")
+        ):
             in_body = False
         if CHAPTER_HEADING.match(line):
             in_body = True
@@ -207,14 +213,16 @@ def check_level2_book(
                 f"    index: {title}"
             )
         body = chapter["body"]
-        label_groups = (
-            (("Nhân vật",), ("Diễn biến",), ("Ý nghĩa",))
-            if locale == "vi"
-            else (
+        if locale == "vi":
+            label_groups = (("Nhân vật",), ("Diễn biến",), ("Ý nghĩa",))
+        elif locale == "zh":
+            label_groups = (("人物", "角色"), ("发展", "情节", "经过"), ("意义", "含义", "要点"))
+        else:
+            label_groups = (
                 ("Characters", "Character", "Central Characters"),
+                ("Developments", "Plot", "Events"),
                 ("Meaning", "Significance"),
             )
-        )
         for labels in label_groups:
             if not any(label.lower() in body.lower() for label in labels):
                 report.warn(

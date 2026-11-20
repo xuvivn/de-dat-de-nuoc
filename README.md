@@ -1,7 +1,7 @@
 # Đẻ Đất Đẻ Nước · Bộ Sử Thi Luyện Kể Chuyện 5 Cấp Độ
 
-Kho dữ liệu có hai locale: [Tiếng Việt](locales/vi/README.md) và
-[English](locales/en/README.md).
+Kho dữ liệu có ba locale: [Tiếng Việt](locales/vi/README.md),
+[English](locales/en/README.md) và [简体中文](locales/zh/README.md).
 
 **Sử thi Mường — phiên bản kể cho trẻ 9–10 tuổi**  
 **6 Hồi · 28 Chương · 28 Tranh gợi nhớ · 5 Cấp độ luyện kể**
@@ -66,6 +66,7 @@ Danh mục đầy đủ: [`locales/vi/README.md`](locales/vi/README.md).
 ```bash
 python3 scripts/validate_corpus.py --locale vi --draft
 python3 scripts/validate_corpus.py --locale en --draft
+python3 scripts/validate_corpus.py --locale zh --draft
 ```
 
 `--draft` cho phép báo *cảnh báo* với các tệp chưa biên soạn, nhưng vẫn *báo lỗi* với dữ liệu sai cấu trúc, thiếu chương hoặc trùng lặp.
